@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "rwQ3lG_HhtA",
+    "title": "Daily Minute with Fred Schlomka 25 June",
+    "href": "/watch?v=rwQ3lG_HhtA",
+    "full_url": "https://www.youtube.com/watch?v=rwQ3lG_HhtA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "4 views",
+    "view_count": "4 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 25 June",
+    "date": "2020-06-26",
+    "place": "Location Not Specified",
+    "topic": "Discrimination/Apartheid",
+    "description": "Coexistence projects, segregation and imagining a new future.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:29.000580",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "7W-UkC_cXs8",
+    "title": "Dr Salman Abu Sitta Contribution to Palestine Future Conference",
+    "href": "/watch?v=7W-UkC_cXs8",
+    "full_url": "https://www.youtube.com/watch?v=7W-UkC_cXs8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "79 views",
+    "view_count": "79 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Dr Salman Abu Sitta Contribution to Palestine Future Conference",
+    "date": "2021-10-01",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "Dr.Salman Abu Sitta Contribution to Palestine Future Conference",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:41.132074",
+    "extraction_method": "Playlist Video Page"
+  }
+}

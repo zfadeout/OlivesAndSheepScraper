@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "bVVy84mIN0I",
+    "title": "Every Life, A Universe - October 6th Gathering",
+    "href": "/watch?v=bVVy84mIN0I",
+    "full_url": "https://www.youtube.com/watch?v=bVVy84mIN0I",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "812 views",
+    "view_count": "812 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Every Life, A Universe - October 6th Gathering",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:39.467533",
+    "extraction_method": "Playlist Video Page"
+  }
+}

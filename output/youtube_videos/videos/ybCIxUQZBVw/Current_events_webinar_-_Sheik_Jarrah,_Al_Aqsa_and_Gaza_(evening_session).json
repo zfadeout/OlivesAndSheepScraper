@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ybCIxUQZBVw",
+    "title": "Current events webinar - Sheik Jarrah, Al Aqsa and Gaza (evening session)",
+    "href": "/watch?v=ybCIxUQZBVw",
+    "full_url": "https://www.youtube.com/watch?v=ybCIxUQZBVw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "234 views",
+    "view_count": "234 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Current events webinar - Sheik Jarrah, Al Aqsa and Gaza (evening session)",
+    "date": "2021-05-19",
+    "place": "East Jerusalem",
+    "topic": "Violence/Confrontation",
+    "description": "Join Yahav Zohar and Mohammad Barakat, two Jerusalemites and working partners in the Green Olive Collective, for a special webinar to discuss the recent dramatic events in Israel-Palestine. Yahav gives a brief, virtual tour of Sheik Jarrah – the East Jerusalem neighbourhood where many Palestinian residents live with the longstanding threat of home evictions. Mohammad then explains the importance of Al Aqsa Mosque to Palestinians. We then open it up to an informal discussion with all participants about the violence in Jerusalem, the aerial assault on Gaza, and the underlying violence of a 50 year Occupation.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:20.081766",
+    "extraction_method": "Playlist Video Page"
+  }
+}

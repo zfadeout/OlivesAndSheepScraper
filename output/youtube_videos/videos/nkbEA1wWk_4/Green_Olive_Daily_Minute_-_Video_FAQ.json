@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "nkbEA1wWk_4",
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "href": "/watch?v=nkbEA1wWk_4",
+    "full_url": "https://www.youtube.com/watch?v=nkbEA1wWk_4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "76 views",
+    "view_count": "76 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "date": "2020-09-22",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "The Future What might a shared society look like?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:22.013127",
+    "extraction_method": "Playlist Video Page"
+  }
+}

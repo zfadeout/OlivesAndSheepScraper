@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "DTpIMlqwaWg",
+    "title": "Webinar: Christmas in Palestine with Sabeel",
+    "href": "/watch?v=DTpIMlqwaWg",
+    "full_url": "https://www.youtube.com/watch?v=DTpIMlqwaWg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "120 views",
+    "view_count": "120 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Webinar: Christmas in Palestine with Sabeel",
+    "date": "2022-12-21",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "The Green Olive Collective invited Omar Haramy of Sabeel to explore Palestinian Christian perspectives on theology and liberation. Although the video is free to watch, please contribute towards our costs at https://greenolivetours.com/contribut... • 10% is donated to the Palestine Children's Relief Fund (PCRF). Sabeel,the Ecumenical Liberation Theology Center in Jerusalem, draws on Christian narratives and teachings as a source of resilience in the face of violent military occupation, and develops a Christian spiritual practice that centers the sanctity of the most marginalized.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:18.180787",
+    "extraction_method": "Playlist Video Page"
+  }
+}

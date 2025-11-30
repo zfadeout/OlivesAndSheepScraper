@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "XYTaszniHyI",
+    "title": "Third panel | Live testimonies, Jewish witness – 1948 fighter",
+    "href": "/watch?v=XYTaszniHyI",
+    "full_url": "https://www.youtube.com/watch?v=XYTaszniHyI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "396 views",
+    "view_count": "396 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Third panel | Live testimonies, Jewish witness – 1948 fighter",
+    "date": "2015-01-21",
+    "place": "Beersheba",
+    "topic": "Interview/Testimony",
+    "description": "Truth Commission on the Responsibility of Israeli Society for the Events of 1948-1960 in the South Public Event on Wednesday, December 10, 2014 in Beersheba / Bir al-Saba’ 10:00-19:00 Leonardo Hotel, 4 Henrietta Szold St. Beersheba Third panel | Live testimonies Jewish witness – 1948 fighter Screened testimony – Palestinian witness",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:11.853558",
+    "extraction_method": "Playlist Video Page"
+  }
+}

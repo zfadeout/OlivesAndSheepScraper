@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "JwVqySfaOpU",
+    "title": "Q&A with filmmakers after screening \"Wajib\"",
+    "href": "/watch?v=JwVqySfaOpU",
+    "full_url": "https://www.youtube.com/watch?v=JwVqySfaOpU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1K views",
+    "view_count": "1K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Q&A with filmmakers after screening \"Wajib\"",
+    "date": "2019-12-29",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "\"Wajib\" was screened as part of the 48mm Film Festival: From Nakba to Return at the Left Bank Cine Club on November 29, 2019. Q&A after the screening was a unique opportunity to hear Annemarie Jacir, Mohammad Bakri, Saleh Bakri and Ossama Bawardi, moderated by Rachel Lea Jones Festival's web: http://tiny.cc/48mm \"Wajib\" Director: Annemarie Jacir Palestine, Colombia, Norway, United Arab Emirates, France, Germany and Qatar | 2017 | 97 min Abu Shadi is a divorced father and school teacher living in Nazareth. After his daughter's wedding, in one month he will be living alone. Shadi, his architect son, arrives from Rome after years abroad to help him in hand delivering the wedding invitations to each guest as per local Palestinian custom. As the estranged pair spends the day together, the tense details of their relationship come to a head, challenging their fragile and very different lives.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:19.420591",
+    "extraction_method": "Playlist Video Page"
+  }
+}

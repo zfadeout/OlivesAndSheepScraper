@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "9qTlEpzWZVk",
+    "title": "Awards of the 4th year competition for the reconstruction of destroyed Palestinian villages",
+    "href": "/watch?v=9qTlEpzWZVk&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=9qTlEpzWZVk&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "288 views",
+    "view_count": "288 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Awards of the 4th year competition for the reconstruction of destroyed Palestinian villages",
+    "date": "2020-09-13",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Announcing the awards for the 4th year competition for the reconstruction of destroyed Palestinian villages.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:47.610448",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "xtnIZ0qYmyU",
+    "title": "Fred's Daily Minute - 5 July",
+    "href": "/watch?v=xtnIZ0qYmyU",
+    "full_url": "https://www.youtube.com/watch?v=xtnIZ0qYmyU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "18 views",
+    "view_count": "18 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - 5 July",
+    "date": "2020-07-05",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "Israel's Arab and other non-Jewish citizens",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:26.652858",
+    "extraction_method": "Playlist Video Page"
+  }
+}

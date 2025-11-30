@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ElL732KBfog",
+    "title": "Combatants for Peace: Join Us",
+    "href": "/watch?v=ElL732KBfog&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=ElL732KBfog&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.4K views",
+    "view_count": "1.4K views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Combatants for Peace: Join Us",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:54.425451",
+    "extraction_method": "Playlist Video Page"
+  }
+}

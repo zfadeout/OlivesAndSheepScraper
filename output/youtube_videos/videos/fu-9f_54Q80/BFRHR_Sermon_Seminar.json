@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "fu-9f_54Q80",
+    "title": "BFRHR Sermon Seminar",
+    "href": "/watch?v=fu-9f_54Q80",
+    "full_url": "https://www.youtube.com/watch?v=fu-9f_54Q80",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "66 views",
+    "view_count": "66 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "BFRHR Sermon Seminar",
+    "date": "2024-09-01",
+    "place": "Israel",
+    "topic": "Protest/Demonstration",
+    "description": "September 1, 2024 Sermon Seminar for Yamim Noraim Voices from Rabbis for Human Rights in Israel: our colleagues will be sharing stories and texts of action, activism and hope over the past months. Rabbi Sylvia Rothschild, Moderator Rabbanit Leah Shakdiel (Orthodox); Rabbi Amirit Rosen (Conservative); Rabbi Michael Marmur (Reform) קויתי יהוה קותה נפשי ולדברו הוחלתי I look to God, my soul awaits, and in God’s word I hope (Psalm 130:5)",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:17.909041",
+    "extraction_method": "Playlist Video Page"
+  }
+}

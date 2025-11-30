@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ZQlikHyccCQ",
+    "title": "'Mili-tourism' with Green Olive + New Profile",
+    "href": "/watch?v=ZQlikHyccCQ",
+    "full_url": "https://www.youtube.com/watch?v=ZQlikHyccCQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "277 views",
+    "view_count": "277 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "'Mili-tourism' with Green Olive + New Profile",
+    "date": "2021-07-25",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "An online tour exploring the militarisation of Israeli society and public space with Green Olive Tours and the NGO New Profile. This event was one of two public Zoom sessions in late July 2021. Contributions can be made any time at http://contribute.greenolivetours.com Thank you for your support!",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:19.865472",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "t31XJwAu840",
+    "title": "Combatants for Peace Demands Vaccinations for Palestinians",
+    "href": "/watch?v=t31XJwAu840",
+    "full_url": "https://www.youtube.com/watch?v=t31XJwAu840",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "92 views",
+    "view_count": "92 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Combatants for Peace Demands Vaccinations for Palestinians",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Palestinian-Israeli Conflict - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:51.887586",
+    "extraction_method": "Playlist Video Page"
+  }
+}

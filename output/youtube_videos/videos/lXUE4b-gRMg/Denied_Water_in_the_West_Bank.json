@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "lXUE4b-gRMg",
+    "title": "Denied Water in the West Bank",
+    "href": "/watch?v=lXUE4b-gRMg",
+    "full_url": "https://www.youtube.com/watch?v=lXUE4b-gRMg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "32 views",
+    "view_count": "32 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Denied Water in the West Bank",
+    "date": "Date Not Available",
+    "place": "West Bank",
+    "topic": "Denied Water",
+    "description": "Denied Water - West Bank",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:49.108442",
+    "extraction_method": "Playlist Video Page"
+  }
+}

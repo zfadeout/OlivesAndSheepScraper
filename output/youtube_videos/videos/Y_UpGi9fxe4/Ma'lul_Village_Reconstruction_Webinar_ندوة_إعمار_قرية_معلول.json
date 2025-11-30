@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Y_UpGi9fxe4",
+    "title": "Ma'lul Village Reconstruction Webinar ندوة إعمار قرية معلول",
+    "href": "/watch?v=Y_UpGi9fxe4",
+    "full_url": "https://www.youtube.com/watch?v=Y_UpGi9fxe4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "425 views",
+    "view_count": "425 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Ma'lul Village Reconstruction Webinar ندوة إعمار قرية معلول",
+    "date": "2020-10-25",
+    "place": "Location Not Specified",
+    "topic": "Infrastructure/Construction",
+    "description": "ندوة عبر الإنترنت لإعادة إعمار قرية معلول هي لقاء افتراضي يستضيفه الدكتور سلمان أبو ستة (جمعية أرض فلسطين) لمناقشة المشروع المعماري الفائز \"إعادة إحياء قرية معلول المهجرة\". تم شرح المشروع بالتفصيل من قبل الطلاب الفائزين مع وجود بعض السكان الأصليين السابقين لمعلول.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:45.523137",
+    "extraction_method": "Playlist Video Page"
+  }
+}

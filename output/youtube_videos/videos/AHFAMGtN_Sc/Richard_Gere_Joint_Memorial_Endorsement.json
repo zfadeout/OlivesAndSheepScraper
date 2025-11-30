@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "AHFAMGtN_Sc",
+    "title": "Richard Gere Joint Memorial Endorsement",
+    "href": "/watch?v=AHFAMGtN_Sc",
+    "full_url": "https://www.youtube.com/watch?v=AHFAMGtN_Sc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "69K views",
+    "view_count": "69K views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Richard Gere Joint Memorial Endorsement",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:51.454683",
+    "extraction_method": "Playlist Video Page"
+  }
+}

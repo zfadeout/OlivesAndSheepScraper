@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "o-hSkPK_mpc",
+    "title": "Humanitarian Aid to Palestinian Communities",
+    "href": "/watch?v=o-hSkPK_mpc",
+    "full_url": "https://www.youtube.com/watch?v=o-hSkPK_mpc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "558 views",
+    "view_count": "558 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Humanitarian Aid to Palestinian Communities",
+    "date": "2023-11-22",
+    "place": "West Bank",
+    "topic": "Settlement Expansion",
+    "description": "Follow a food run which took place on 22nd November 2023 to Palestinian herding communities in the West Bank who have been forced off their land by settler violence. Donate here: https://causematch.com/solidarity",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:20.908843",
+    "extraction_method": "Playlist Video Page"
+  }
+}

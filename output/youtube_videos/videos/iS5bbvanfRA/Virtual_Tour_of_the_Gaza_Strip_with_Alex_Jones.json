@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "iS5bbvanfRA",
+    "title": "Virtual Tour of the Gaza Strip with Alex Jones",
+    "href": "/watch?v=iS5bbvanfRA",
+    "full_url": "https://www.youtube.com/watch?v=iS5bbvanfRA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "4K views",
+    "view_count": "4K views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Virtual Tour of the Gaza Strip with Alex Jones",
+    "date": "2023-09-18",
+    "place": "Gaza Strip",
+    "topic": "Violence/Confrontation",
+    "description": "On Sunday, September 17th of 2023 the Green Olive Collective hosted a virtual tour of Gaza, exploring the geopolitics and lived realities of communities living in the besieged Gaza Strip and the ways Israeli policy has created an ongoing humanitarian and political catastrophe. Gaza is frequently referred to as the largest prison in the world and has been under closure since 2007. With almost annual military assaults by Israel and a near total ban on international observers, we used virtual technology to cross the militarized border zone, visit major historical sites, and imagine a future in which freedom of movement will be guaranteed to all residents of the Gaza Strip. This recording of the webinar is free and open to the public, but you can become a member of the Green Olive Collective at the following link to sustain our work to challenge the violence of occupation and advocate for a democratic future: https://members.greenolivecollective....",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:16.294243",
+    "extraction_method": "Playlist Video Page"
+  }
+}

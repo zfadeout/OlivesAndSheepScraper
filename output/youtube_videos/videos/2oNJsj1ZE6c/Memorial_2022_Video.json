@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "2oNJsj1ZE6c",
+    "title": "Memorial 2022 Video",
+    "href": "/watch?v=2oNJsj1ZE6c&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=2oNJsj1ZE6c&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "138 views",
+    "view_count": "138 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Memorial 2022 Video",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:46.140630",
+    "extraction_method": "Playlist Video Page"
+  }
+}

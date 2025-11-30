@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "JkXmKrlR784",
+    "title": "Memorial Video",
+    "href": "/watch?v=JkXmKrlR784",
+    "full_url": "https://www.youtube.com/watch?v=JkXmKrlR784",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "183 views",
+    "view_count": "183 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Memorial Video",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Memorial",
+    "description": "Memorial - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:57.211091",
+    "extraction_method": "Playlist Video Page"
+  }
+}

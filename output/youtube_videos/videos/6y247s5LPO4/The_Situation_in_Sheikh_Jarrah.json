@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "6y247s5LPO4",
+    "title": "The Situation in Sheikh Jarrah",
+    "href": "/watch?v=6y247s5LPO4",
+    "full_url": "https://www.youtube.com/watch?v=6y247s5LPO4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "157 views",
+    "view_count": "157 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "The Situation in Sheikh Jarrah",
+    "date": "Date Not Available",
+    "place": "Sheikh",
+    "topic": "The Situation",
+    "description": "The Situation - Sheikh",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:50.377215",
+    "extraction_method": "Playlist Video Page"
+  }
+}

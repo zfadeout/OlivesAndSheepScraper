@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "zB1Qvn5XDOk",
+    "title": "Briefing on the War",
+    "href": "/watch?v=zB1Qvn5XDOk",
+    "full_url": "https://www.youtube.com/watch?v=zB1Qvn5XDOk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.3K views",
+    "view_count": "1.3K views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Briefing on the War",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:51.023604",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ukjh88-WsYA",
+    "title": "Dr. Salman AbuSitta Talk in Brown University Conference Session 5 - 13 April 2018",
+    "href": "/watch?v=ukjh88-WsYA&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=ukjh88-WsYA&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "317 views",
+    "view_count": "317 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Dr. Salman AbuSitta Talk in Brown University Conference Session 5 - 13 April 2018",
+    "date": "2018-12-30",
+    "place": "Brown",
+    "topic": "General Documentation",
+    "description": "Brown University Conference Session 5 - 13 April 2018",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:59.227155",
+    "extraction_method": "Playlist Video Page"
+  }
+}

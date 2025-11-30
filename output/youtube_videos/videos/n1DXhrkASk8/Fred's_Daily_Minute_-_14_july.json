@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "n1DXhrkASk8",
+    "title": "Fred's Daily Minute - 14 july",
+    "href": "/watch?v=n1DXhrkASk8",
+    "full_url": "https://www.youtube.com/watch?v=n1DXhrkASk8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "23 views",
+    "view_count": "23 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - 14 july",
+    "date": "2020-07-14",
+    "place": "One",
+    "topic": "Can the two nations live",
+    "description": "Can the two nations live in One State",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:24.967103",
+    "extraction_method": "Playlist Video Page"
+  }
+}

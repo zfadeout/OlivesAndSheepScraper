@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "2YPwVhBjrvk",
+    "title": "Fred's Daily Minute - July 20",
+    "href": "/watch?v=2YPwVhBjrvk",
+    "full_url": "https://www.youtube.com/watch?v=2YPwVhBjrvk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "58 views",
+    "view_count": "58 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 20",
+    "date": "2020-07-20",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "If Palestine and Israel are denied enough, will they disappear?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:24.116676",
+    "extraction_method": "Playlist Video Page"
+  }
+}

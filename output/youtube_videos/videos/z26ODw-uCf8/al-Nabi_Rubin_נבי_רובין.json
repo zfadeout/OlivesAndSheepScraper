@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "z26ODw-uCf8",
+    "title": "al-Nabi Rubin נבי רובין",
+    "href": "/watch?v=z26ODw-uCf8",
+    "full_url": "https://www.youtube.com/watch?v=z26ODw-uCf8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "549 views",
+    "view_count": "549 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "al-Nabi Rubin נבי רובין",
+    "date": "2014-07-08",
+    "place": "Ramla",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "קבר נבי רובין (יש יהודים שמייחסים אותו לראובן בן יעקב) ובניינים מעטים נוספים נותרו שרידים לכפר הפלסטיני הגדול בנפת רמלה. בוידיאו רואים את מתחם הקבר המגודר, החולות סביבו והדרך היפה ברגל אליו מכיוון נחל שורק. למידע נוסף על הכפר ראו באתר זוכרות: http://www.zochrot.org/place/%D7%90%D... The grave of al-Nabi Rubin (There are Jews who refer to it as Reuven the son of Ya'akov) and few buildings are the only remains of the big Palestinian village at Ramla district. In the video we see the sands around it and the beautiful walking way from Sorek stream to it. For more info on Zochrot's website: http://www.zochrot.org/en/place/al-na...",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:17.947227",
+    "extraction_method": "Playlist Video Page"
+  }
+}

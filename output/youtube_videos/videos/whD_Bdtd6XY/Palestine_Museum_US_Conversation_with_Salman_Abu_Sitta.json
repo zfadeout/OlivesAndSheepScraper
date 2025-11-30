@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "whD_Bdtd6XY",
+    "title": "Palestine Museum US Conversation with Salman Abu Sitta",
+    "href": "/watch?v=whD_Bdtd6XY",
+    "full_url": "https://www.youtube.com/watch?v=whD_Bdtd6XY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "126 views",
+    "view_count": "126 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Palestine Museum US Conversation with Salman Abu Sitta",
+    "date": "2020-07-14",
+    "place": "Palestine",
+    "topic": "Settlement Expansion",
+    "description": "Palestinian historian and cartographer, Salman Abu-Sitta, discusses his new book \"Atlas of Palestine 1871-1877\" and its historical significance in documenting and preserving the state of Palestinian maps, towns, and and populations prior to the Zionist colonization of Palestine. July 12, 2020",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:48.243682",
+    "extraction_method": "Playlist Video Page"
+  }
+}

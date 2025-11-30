@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "lfH9FDsz1RA",
+    "title": "Nakba73: Memories of 1948 - The Palestine Solidarity Campaign (PSC)",
+    "href": "/watch?v=lfH9FDsz1RA",
+    "full_url": "https://www.youtube.com/watch?v=lfH9FDsz1RA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "132 views",
+    "view_count": "132 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Nakba73: Memories of 1948 - The Palestine Solidarity Campaign (PSC)",
+    "date": "2021-05-12",
+    "place": "Palestine",
+    "topic": "Interview/Testimony",
+    "description": "Webinar: Memories of 1948 – Monday 10th May 2021 An evening featuring two of PSC’s most distinguished patrons, Dr Ghada Karmi and Dr. Salman Abu Sitta. Both are direct witnesses to the Nakba of 1948, and through a facilitated discussion with PSC Chair Kamel Hawwash.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:42.369120",
+    "extraction_method": "Playlist Video Page"
+  }
+}

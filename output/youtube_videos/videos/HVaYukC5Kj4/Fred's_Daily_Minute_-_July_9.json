@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "HVaYukC5Kj4",
+    "title": "Fred's Daily Minute - July 9",
+    "href": "/watch?v=HVaYukC5Kj4",
+    "full_url": "https://www.youtube.com/watch?v=HVaYukC5Kj4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "19 views",
+    "view_count": "19 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 9",
+    "date": "2020-07-09",
+    "place": "Gaza Strip",
+    "topic": "General Documentation",
+    "description": "There is a Gaza Riviera - True or false?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:26.032734",
+    "extraction_method": "Playlist Video Page"
+  }
+}

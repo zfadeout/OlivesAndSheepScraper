@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "NakXHibk2xs",
+    "title": "\"Voices of the Nakba\" book launch",
+    "href": "/watch?v=NakXHibk2xs",
+    "full_url": "https://www.youtube.com/watch?v=NakXHibk2xs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "74 views",
+    "view_count": "74 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "\"Voices of the Nakba\" book launch",
+    "date": "2024-08-29",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Credits to the Mosaic Rooms, London",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:34.314885",
+    "extraction_method": "Playlist Video Page"
+  }
+}

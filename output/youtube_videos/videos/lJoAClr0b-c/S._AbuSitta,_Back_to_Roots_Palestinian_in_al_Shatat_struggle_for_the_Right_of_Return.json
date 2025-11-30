@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "lJoAClr0b-c",
+    "title": "S. AbuSitta, Back to Roots: Palestinian in al Shatat struggle for the Right of Return",
+    "href": "/watch?v=lJoAClr0b-c",
+    "full_url": "https://www.youtube.com/watch?v=lJoAClr0b-c",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "39 views",
+    "view_count": "39 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "S. AbuSitta, Back to Roots: Palestinian in al Shatat struggle for the Right of Return",
+    "date": "2019-05-01",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Palestinian in al Shatat struggle for the Right of Return, Istanbul Zaim University Istanbul, 27 April 2019",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:55.479751",
+    "extraction_method": "Playlist Video Page"
+  }
+}

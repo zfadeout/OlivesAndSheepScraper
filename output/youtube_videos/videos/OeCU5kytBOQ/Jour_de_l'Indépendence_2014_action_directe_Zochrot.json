@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "OeCU5kytBOQ",
+    "title": "Jour de l'Indépendence 2014 / action directe Zochrot",
+    "href": "/watch?v=OeCU5kytBOQ",
+    "full_url": "https://www.youtube.com/watch?v=OeCU5kytBOQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "226 views",
+    "view_count": "226 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Jour de l'Indépendence 2014 / action directe Zochrot",
+    "date": "2014-12-18",
+    "place": "Aparicio",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Dans la continuité du projet \"The New KKL (JNF)\" (\"Nouveau KKL - FNJ) mené par Zochrot, une douzaine de militants ont commémoré la Nakba la veille du Jour de l'Indépendance israelienne. Ils ont accroché d'immenses portraits d'IsraelienNEs reconnaissant publiquement la Nakba sur le mur de ce qui etait une maison de Manshiya, devenue depuis un musée à la gloire des combattants de l'Irgun, négligeant de mentionner la vie des PalestinienNEs jusqu'en 1948. Pour plus d'infos concernant le projet \"New KKL\": http://www.zochrot.org/en/video/creat... Film: Lia Tarachansky Montage: Moran Barir & Eitan Bronstein Aparicio Idée du projet et design, trad. en francais: Eléonore Merza Production: Zochrot Durée de la vidéo 5:19 min Octobre, 2014",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:14.410297",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "BSCuf7OxLY4",
+    "title": "[Arabic] FLY OVER PALESTINE [Tour-15]: Abu Jaber - Jerusalem (DTM only)",
+    "href": "/watch?v=BSCuf7OxLY4",
+    "full_url": "https://www.youtube.com/watch?v=BSCuf7OxLY4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "51 views",
+    "view_count": "51 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "[Arabic] FLY OVER PALESTINE [Tour-15]: Abu Jaber - Jerusalem (DTM only)",
+    "date": "2012-06-21",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "[Arabic] FLY OVER PALESTINE [Tour-15]: Abu Jaber - Jerusalem (DTM only) 0Likes51Views2012Jun 21 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:01.142976",
+    "extraction_method": "Playlist Video Page"
+  }
+}

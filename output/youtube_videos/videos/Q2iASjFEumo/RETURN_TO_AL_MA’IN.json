@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Q2iASjFEumo",
+    "title": "RETURN TO AL MA’IN",
+    "href": "/watch?v=Q2iASjFEumo",
+    "full_url": "https://www.youtube.com/watch?v=Q2iASjFEumo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "86 views",
+    "view_count": "86 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "RETURN TO AL MA’IN",
+    "date": "2025-06-25",
+    "place": "Curzon",
+    "topic": "Violence/Confrontation",
+    "description": "A project by Forensic Architecture in association with Dr. Salman Abu Sitta presented at Curzon Theatre in London on 14 May 2025. Based on maps and aerial photos before and after 1948, Al Ma’in is recreated through the special techniques of Forensic Architecture. This is followed by a personal narrative by Dr. Salman Abu Sitta on his birth at Al Ma’in, the Israeli attack on it and becoming a refugee struggling all his life to achieve his Right of Return his home in Al Ma’in. The project (RETURN TO AL MA’IN) by Forensic Architecture is given here in full: https://forensic-architecture.org/inv...",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:31.940566",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "RfAroLAISH8",
+    "title": "محاكمة بلفور(Balfour on Trial)",
+    "href": "/watch?v=RfAroLAISH8",
+    "full_url": "https://www.youtube.com/watch?v=RfAroLAISH8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "111 views",
+    "view_count": "111 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "محاكمة بلفور(Balfour on Trial)",
+    "date": "2025-09-03",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "محاكمة بلفور دكتور سلمان أبوسته",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:30.673801",
+    "extraction_method": "Playlist Video Page"
+  }
+}

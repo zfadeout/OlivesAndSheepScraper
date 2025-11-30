@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "VFqeaZSQvUg",
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "href": "/watch?v=VFqeaZSQvUg",
+    "full_url": "https://www.youtube.com/watch?v=VFqeaZSQvUg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "57 views",
+    "view_count": "57 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "date": "2020-09-13",
+    "place": "Jerusalem",
+    "topic": "General Documentation",
+    "description": "How did Zionism develop? \"Next year in Jerusalem\"",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:23.050274",
+    "extraction_method": "Playlist Video Page"
+  }
+}

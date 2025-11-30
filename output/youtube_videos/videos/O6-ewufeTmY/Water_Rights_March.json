@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "O6-ewufeTmY",
+    "title": "Water Rights March",
+    "href": "/watch?v=O6-ewufeTmY",
+    "full_url": "https://www.youtube.com/watch?v=O6-ewufeTmY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "348 views",
+    "view_count": "348 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Water Rights March",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Protest/Demonstration",
+    "description": "Protest/Demonstration - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:48.689532",
+    "extraction_method": "Playlist Video Page"
+  }
+}

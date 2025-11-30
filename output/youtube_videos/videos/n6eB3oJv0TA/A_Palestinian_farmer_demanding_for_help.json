@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "n6eB3oJv0TA",
+    "title": "A Palestinian farmer demanding for help",
+    "href": "/watch?v=n6eB3oJv0TA",
+    "full_url": "https://www.youtube.com/watch?v=n6eB3oJv0TA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "83 views",
+    "view_count": "83 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "A Palestinian farmer demanding for help",
+    "date": "2021-07-05",
+    "place": "West Bank",
+    "topic": "Settlement Expansion",
+    "description": "On May 14, 2021, in the midst of the recent Israeli operation in Gaza, dozens of masked settlers descended from the illegal outpost of Givat Ronen on the Palestinian village of Burin in the northern West Bank. They set fire to olive trees and hurled stones at homes and cars. The home of farmer Bashar Eid was in the first line of fire. Bashar was brutally attacked, and suffered fractures to his arm and leg, and injuries to his head. Now he pleads for a protective wall to separate his home from the attackers. Support the Olive Harvest now: https://www.causematch.com/en/rhr Join us and support the Palestinian farmers here: https://www.rhr.org.il/eng",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:24.065862",
+    "extraction_method": "Playlist Video Page"
+  }
+}

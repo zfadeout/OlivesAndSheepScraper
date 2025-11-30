@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "wJ_7YGORW78",
+    "title": "A Tapestry of Voices: Co-creating a Just & Peaceful Future",
+    "href": "/watch?v=wJ_7YGORW78",
+    "full_url": "https://www.youtube.com/watch?v=wJ_7YGORW78",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "547 views",
+    "view_count": "547 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "A Tapestry of Voices: Co-creating a Just & Peaceful Future",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:40.796998",
+    "extraction_method": "Playlist Video Page"
+  }
+}

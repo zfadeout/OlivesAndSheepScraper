@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "EfSwSYP7Uaw",
+    "title": "A Talk about the Israeli Elections with Avrum Burg",
+    "href": "/watch?v=EfSwSYP7Uaw",
+    "full_url": "https://www.youtube.com/watch?v=EfSwSYP7Uaw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "407 views",
+    "view_count": "407 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "A Talk about the Israeli Elections with Avrum Burg",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Palestinian-Israeli Conflict - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:44.858213",
+    "extraction_method": "Playlist Video Page"
+  }
+}

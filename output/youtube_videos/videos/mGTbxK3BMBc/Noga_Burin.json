@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "mGTbxK3BMBc",
+    "title": "Noga Burin",
+    "href": "/watch?v=mGTbxK3BMBc",
+    "full_url": "https://www.youtube.com/watch?v=mGTbxK3BMBc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "58 views",
+    "view_count": "58 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Noga Burin",
+    "date": "2020-11-11",
+    "place": "Location Not Specified",
+    "topic": "A volunteer",
+    "description": "A volunteer from the harvest",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:25.116519",
+    "extraction_method": "Playlist Video Page"
+  }
+}

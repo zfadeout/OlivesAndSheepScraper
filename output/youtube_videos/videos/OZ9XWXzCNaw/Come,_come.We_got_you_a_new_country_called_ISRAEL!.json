@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "OZ9XWXzCNaw",
+    "title": "Come, come.We got you a new country called ISRAEL!",
+    "href": "/watch?v=OZ9XWXzCNaw&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=OZ9XWXzCNaw&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "109 views",
+    "view_count": "109 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Come, come.We got you a new country called ISRAEL!",
+    "date": "2021-10-31",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "New Asian immigrants coming to their new country \"Israel\"",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:40.915647",
+    "extraction_method": "Playlist Video Page"
+  }
+}

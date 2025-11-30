@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "SorYIv_NPzk",
+    "title": "The Right of Return to Free Palestine​",
+    "href": "/watch?v=SorYIv_NPzk",
+    "full_url": "https://www.youtube.com/watch?v=SorYIv_NPzk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "109 views",
+    "view_count": "109 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "The Right of Return to Free Palestine​",
+    "date": "2024-04-25",
+    "place": "Palestina",
+    "topic": "Dr Salman Abu Sitta To be delivered",
+    "description": "Dr Salman Abu Sitta To be delivered at Palestina Kongress, Berlin.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:36.239618",
+    "extraction_method": "Playlist Video Page"
+  }
+}

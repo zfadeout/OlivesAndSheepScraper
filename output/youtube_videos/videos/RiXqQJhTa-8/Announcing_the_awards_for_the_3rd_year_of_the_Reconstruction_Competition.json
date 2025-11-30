@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "RiXqQJhTa-8",
+    "title": "Announcing the awards for the 3rd year of the Reconstruction Competition",
+    "href": "/watch?v=RiXqQJhTa-8&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=RiXqQJhTa-8&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "36 views",
+    "view_count": "36 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Announcing the awards for the 3rd year of the Reconstruction Competition",
+    "date": "2019-09-23",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Palestine Land Society: The Reconstruction of Destroyed Palestinian Villages Competition Year 3.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:53.763931",
+    "extraction_method": "Playlist Video Page"
+  }
+}

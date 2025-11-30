@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "BjbpSQuhYB4",
+    "title": "English Video-05: Presentation of \"Atlas of Palestine 1917-1966\"",
+    "href": "/watch?v=BjbpSQuhYB4",
+    "full_url": "https://www.youtube.com/watch?v=BjbpSQuhYB4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "697 views",
+    "view_count": "697 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-05: Presentation of \"Atlas of Palestine 1917-1966\"",
+    "date": "2011-02-13",
+    "place": "Palestine",
+    "topic": "English",
+    "description": "Presentation of \"Atlas of Palestine 1917-1966\" at Westminster, London, 12 November, 2010",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:07.928095",
+    "extraction_method": "Playlist Video Page"
+  }
+}

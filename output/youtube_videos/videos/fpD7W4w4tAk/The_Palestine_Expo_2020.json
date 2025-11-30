@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "fpD7W4w4tAk",
+    "title": "The Palestine Expo 2020",
+    "href": "/watch?v=fpD7W4w4tAk",
+    "full_url": "https://www.youtube.com/watch?v=fpD7W4w4tAk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "160 views",
+    "view_count": "160 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "The Palestine Expo 2020",
+    "date": "2020-07-05",
+    "place": "Palestine",
+    "topic": "Salman Abu Sitta",
+    "description": "Salman Abu Sitta intervention during The Palestine Expo 2020",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:48.649315",
+    "extraction_method": "Playlist Video Page"
+  }
+}

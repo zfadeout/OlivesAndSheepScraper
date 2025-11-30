@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Bh__znphiYo",
+    "title": "Salman Abu Sitta: “How feasible is the return of the biggest refugee group?”",
+    "href": "/watch?v=Bh__znphiYo",
+    "full_url": "https://www.youtube.com/watch?v=Bh__znphiYo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "135 views",
+    "view_count": "135 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Salman Abu Sitta: “How feasible is the return of the biggest refugee group?”",
+    "date": "2023-05-19",
+    "place": "Redesigning",
+    "topic": "Clip",
+    "description": "Clip from Redesigning the Holy Land event on Monday 15 May 2023 Credits to : Pakhuis de Zwijger - Het Grote Midden Oosten Platform",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:38.364015",
+    "extraction_method": "Playlist Video Page"
+  }
+}

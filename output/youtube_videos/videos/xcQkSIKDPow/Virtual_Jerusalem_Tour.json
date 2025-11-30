@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "xcQkSIKDPow",
+    "title": "Virtual Jerusalem Tour",
+    "href": "/watch?v=xcQkSIKDPow",
+    "full_url": "https://www.youtube.com/watch?v=xcQkSIKDPow",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "996 views",
+    "view_count": "996 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Virtual Jerusalem Tour",
+    "date": "2020-05-28",
+    "place": "Location Not Specified",
+    "topic": "Separation Wall/Barrier",
+    "description": "This Jerusalem Tour was conducted on 26th May 2020 by Green Olive Partner and tour guide, Yahav Zohar. It is a multi-media virtual tour of Jerusalem from the dome of the rock to the separation wall. On how religion and politics come together in one of the most contested places in the world and the effects on daily life of those who live in the city.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:33.328882",
+    "extraction_method": "Playlist Video Page"
+  }
+}

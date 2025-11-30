@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "7CR4NT7zkuo",
+    "title": "Women's Testimonies of the Nakba סיפורן של נשים על הנכבה",
+    "href": "/watch?v=7CR4NT7zkuo",
+    "full_url": "https://www.youtube.com/watch?v=7CR4NT7zkuo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "556 views",
+    "view_count": "556 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Women's Testimonies of the Nakba סיפורן של נשים על הנכבה",
+    "date": "2009-09-16",
+    "place": "Palestine",
+    "topic": "Oral history of the Nakba",
+    "description": "Oral history of the Nakba in Palestine by five women (Arabic w/English subtitles) צילום ועריכה: רנין ג'רייס شهادات نساء حول النكبة www.zochrot.org",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:39.606097",
+    "extraction_method": "Playlist Video Page"
+  }
+}

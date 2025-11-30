@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "VuyqwOqksho",
+    "title": "Fred's Daily Minute - July 18",
+    "href": "/watch?v=VuyqwOqksho",
+    "full_url": "https://www.youtube.com/watch?v=VuyqwOqksho",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "24 views",
+    "view_count": "24 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 18",
+    "date": "2020-07-18",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Wake up my fellow Jews. The reckoning is nigh!",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:24.317908",
+    "extraction_method": "Playlist Video Page"
+  }
+}

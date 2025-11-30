@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "-JlH81MQw5k",
+    "title": "Al Nakba Anatomy",
+    "href": "/watch?v=-JlH81MQw5k",
+    "full_url": "https://www.youtube.com/watch?v=-JlH81MQw5k",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.6K views",
+    "view_count": "1.6K views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Al Nakba Anatomy",
+    "date": "2019-05-15",
+    "place": "Palestine",
+    "topic": "Refugees/Displacement",
+    "description": "This is a very compelling and informative animation of the Zionist invasion of Palestine in 1948, in two-week intervals, showing the occupied areas, the depopulated villages, the expelled population and the Israeli military operation.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:55.045406",
+    "extraction_method": "Playlist Video Page"
+  }
+}

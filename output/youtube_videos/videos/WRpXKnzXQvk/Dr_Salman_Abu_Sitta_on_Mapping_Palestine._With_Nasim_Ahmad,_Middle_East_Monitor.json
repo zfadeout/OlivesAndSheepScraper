@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "WRpXKnzXQvk",
+    "title": "Dr Salman Abu Sitta on Mapping Palestine. With Nasim Ahmad, Middle East Monitor",
+    "href": "/watch?v=WRpXKnzXQvk",
+    "full_url": "https://www.youtube.com/watch?v=WRpXKnzXQvk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "208 views",
+    "view_count": "208 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Dr Salman Abu Sitta on Mapping Palestine. With Nasim Ahmad, Middle East Monitor",
+    "date": "2020-08-27",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Conversation with Dr Salman Abu Sitta on Mapping Palestine. With Nasim Ahmad, Middle East Monitor",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:48.042237",
+    "extraction_method": "Playlist Video Page"
+  }
+}

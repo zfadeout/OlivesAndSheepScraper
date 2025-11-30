@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "WPClQouAylo",
+    "title": "English Video-09: Right of Return Conference, Day 1 Salman Abu Sitta speech, Keynote",
+    "href": "/watch?v=WPClQouAylo",
+    "full_url": "https://www.youtube.com/watch?v=WPClQouAylo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "195 views",
+    "view_count": "195 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-09: Right of Return Conference, Day 1 Salman Abu Sitta speech, Keynote",
+    "date": "2013-05-28",
+    "place": "Location Not Specified",
+    "topic": "Arrest/Detention",
+    "description": "The lecture of Dr. Abu Sitta at (Desc) The Right of Return Conference held at the University of Boston, 6-7 April 2013",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:59.875796",
+    "extraction_method": "Playlist Video Page"
+  }
+}

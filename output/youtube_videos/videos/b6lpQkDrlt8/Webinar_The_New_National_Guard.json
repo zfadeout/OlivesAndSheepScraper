@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "b6lpQkDrlt8",
+    "title": "Webinar: The \"New\" National Guard",
+    "href": "/watch?v=b6lpQkDrlt8",
+    "full_url": "https://www.youtube.com/watch?v=b6lpQkDrlt8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "167 views",
+    "view_count": "167 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Webinar: The \"New\" National Guard",
+    "date": "2023-05-01",
+    "place": "West Bank",
+    "topic": "Protest/Demonstration",
+    "description": "On Sunday, April 30th of 2023 the Green Olive Collective joined with senior guide Yahav Zohar for a webinar reckoning with the growing reach of occupation. We discussed the recent announcement of a new security force after months of demonstrations, and the ways that military dictatorship in the West Bank is continuing to extend itself across the Green Line. Yahav spoke about the formation of the national guard and its implications within a broader history of policy, policing, and security administration in Israel. This recording of the webinar is free and open to the public, but you can contribute at the link below to sustain the Green Olive Collective and our work to challenge the violence of occupation and advocate for a democratic future: https://greenolivetours.com/contribut...",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:17.144705",
+    "extraction_method": "Playlist Video Page"
+  }
+}

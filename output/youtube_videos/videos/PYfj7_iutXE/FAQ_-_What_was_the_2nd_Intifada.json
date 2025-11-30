@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "PYfj7_iutXE",
+    "title": "FAQ - What was the 2nd Intifada?",
+    "href": "/watch?v=PYfj7_iutXE",
+    "full_url": "https://www.youtube.com/watch?v=PYfj7_iutXE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "195 views",
+    "view_count": "195 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "FAQ - What was the 2nd Intifada?",
+    "date": "2022-03-28",
+    "place": "Location Not Specified",
+    "topic": "Violence/Confrontation",
+    "description": "In the year 2000, there was an eruption of violence in the Wets Bank. Why?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:18.813845",
+    "extraction_method": "Playlist Video Page"
+  }
+}

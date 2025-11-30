@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ghzCQqT57D8",
+    "title": "Humanitarian Aid to Unrecognized Bedouin Villages",
+    "href": "/watch?v=ghzCQqT57D8",
+    "full_url": "https://www.youtube.com/watch?v=ghzCQqT57D8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "57 views",
+    "view_count": "57 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Humanitarian Aid to Unrecognized Bedouin Villages",
+    "date": "2023-12-14",
+    "place": "Villages",
+    "topic": "Activism/Advocacy",
+    "description": "Distributing over 500 emergency food parcels to vulnerable families in the Unrecognized Bedouin Villages in the Negev, December 2023",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:20.043140",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "SgDF6E_ahBg",
+    "title": "Webinar: A Conversation With Sari Bashi",
+    "href": "/watch?v=SgDF6E_ahBg",
+    "full_url": "https://www.youtube.com/watch?v=SgDF6E_ahBg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "563 views",
+    "view_count": "563 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Webinar: A Conversation With Sari Bashi",
+    "date": "2022-04-14",
+    "place": "Ramallah",
+    "topic": "Human Rights",
+    "description": "Sari Bashi is an author, human rights lawyer and activist. She founded the NGO Gisha and is the author of a book, Maklooba (in English, Upside Down Love) and the blog Umm Forat. She is a Jewish Israeli woman living with her husband and children in the middle of Ramallah and discusses all this and more in this webinar.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:18.598802",
+    "extraction_method": "Playlist Video Page"
+  }
+}

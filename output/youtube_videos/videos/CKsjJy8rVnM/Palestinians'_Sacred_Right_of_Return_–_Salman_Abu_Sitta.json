@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "CKsjJy8rVnM",
+    "title": "Palestinians' Sacred Right of Return – Salman Abu Sitta",
+    "href": "/watch?v=CKsjJy8rVnM",
+    "full_url": "https://www.youtube.com/watch?v=CKsjJy8rVnM",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "83 views",
+    "view_count": "83 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Palestinians' Sacred Right of Return – Salman Abu Sitta",
+    "date": "2024-06-02",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Source: If Americans Knew https://israelpalestinenews.org/the-r...",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:35.612780",
+    "extraction_method": "Playlist Video Page"
+  }
+}

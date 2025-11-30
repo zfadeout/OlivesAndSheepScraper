@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "NJurg5eyGgU",
+    "title": "Fred's Daily minute - July 12",
+    "href": "/watch?v=NJurg5eyGgU",
+    "full_url": "https://www.youtube.com/watch?v=NJurg5eyGgU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "16 views",
+    "view_count": "16 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily minute - July 12",
+    "date": "2020-07-12",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "One-state solution? State of Palestine or Greater Israel?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:25.398846",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3A79FzfLMBc",
+    "title": "Our Way Forward",
+    "href": "/watch?v=3A79FzfLMBc",
+    "full_url": "https://www.youtube.com/watch?v=3A79FzfLMBc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "175 views",
+    "view_count": "175 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Our Way Forward",
+    "date": "2023-12-12",
+    "place": "Location Not Specified",
+    "topic": "Human Rights",
+    "description": "Donate to Rabbis for Human Rights https://causematch.com/rabbisforhuman...",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:20.261463",
+    "extraction_method": "Playlist Video Page"
+  }
+}

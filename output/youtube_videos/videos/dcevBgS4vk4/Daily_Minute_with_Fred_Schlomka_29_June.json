@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "dcevBgS4vk4",
+    "title": "Daily Minute with Fred Schlomka 29 June",
+    "href": "/watch?v=dcevBgS4vk4",
+    "full_url": "https://www.youtube.com/watch?v=dcevBgS4vk4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "28 views",
+    "view_count": "28 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 29 June",
+    "date": "2020-06-29",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Israelis are progressive on social issues and fascist on national matters.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:28.150535",
+    "extraction_method": "Playlist Video Page"
+  }
+}

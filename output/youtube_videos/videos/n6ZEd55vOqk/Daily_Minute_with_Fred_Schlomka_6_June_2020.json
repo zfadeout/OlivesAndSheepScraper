@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "n6ZEd55vOqk",
+    "title": "Daily Minute with Fred Schlomka 6 June 2020",
+    "href": "/watch?v=n6ZEd55vOqk",
+    "full_url": "https://www.youtube.com/watch?v=n6ZEd55vOqk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "26 views",
+    "view_count": "26 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 6 June 2020",
+    "date": "2020-06-07",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Black Lives Matter - Palestinian Lives Matter",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:33.113400",
+    "extraction_method": "Playlist Video Page"
+  }
+}

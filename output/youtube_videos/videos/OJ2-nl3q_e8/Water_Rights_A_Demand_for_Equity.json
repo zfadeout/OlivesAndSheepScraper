@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "OJ2-nl3q_e8",
+    "title": "Water Rights: A Demand for Equity",
+    "href": "/watch?v=OJ2-nl3q_e8",
+    "full_url": "https://www.youtube.com/watch?v=OJ2-nl3q_e8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "154 views",
+    "view_count": "154 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Water Rights: A Demand for Equity",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Water Rights",
+    "description": "Water Rights - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:48.259184",
+    "extraction_method": "Playlist Video Page"
+  }
+}

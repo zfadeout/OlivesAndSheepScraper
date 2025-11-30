@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ybTPP28gwyE",
+    "title": "Maya Discovers Green Olive Tours",
+    "href": "/watch?v=ybTPP28gwyE",
+    "full_url": "https://www.youtube.com/watch?v=ybTPP28gwyE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "776 views",
+    "view_count": "776 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Maya Discovers Green Olive Tours",
+    "date": "2019-09-08",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "Showcasing Green Olive Tours and the story of Maya to promote the 2019 Equity Crowdfunding Campaign of the Green Olive Collective Inc.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:34.180005",
+    "extraction_method": "Playlist Video Page"
+  }
+}

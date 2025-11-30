@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "j2kTnGJ_v1M",
+    "title": "Database For Palestinian Villages in 2000 Years",
+    "href": "/watch?v=j2kTnGJ_v1M",
+    "full_url": "https://www.youtube.com/watch?v=j2kTnGJ_v1M",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "277 views",
+    "view_count": "277 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Database For Palestinian Villages in 2000 Years",
+    "date": "2020-09-26",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "A comprehensive database for depopulated Palestinian villages in 20 centuries (The 21st, 20th, 19th, 15th and 4th).",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:47.192723",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "1oLkvIznPUY",
+    "title": "شهاده سلطانة سبيت - لاجئة من قرية اقرث | Sultana Sbait - Refugee from Iqrith",
+    "href": "/watch?v=1oLkvIznPUY",
+    "full_url": "https://www.youtube.com/watch?v=1oLkvIznPUY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.6K views",
+    "view_count": "1.6K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "شهاده سلطانة سبيت - لاجئة من قرية اقرث | Sultana Sbait - Refugee from Iqrith",
+    "date": "2020-08-27",
+    "place": "Acre",
+    "topic": "Interview/Testimony",
+    "description": "شهادة سلطانة ذياب سبيت سنة الولادة 1924 مكان الولادة: قرية اقرث - قضاء عكا مكان اجراء المقابلة: كفرياسيف تاريخ المقابلة: 6\\2016 لغة المقابلة: العربية עדותה של סולטאנה דיאב סבית שנת לידה: 1924 מקום לידה: כפר אִקְרִת מגורים נוכחיים: כפר יאסיף תאריך ראיון: 6\\2016 שפת ראיון: ערבית Testimony by Sultana Diab Sbait Year of Birth: 1924 Place of birth: The destroyed village of Iqrith (Acre District) Current residence: Kafr Yasif Date of Interview: 6\\2016 Language: Arabic",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:16.928744",
+    "extraction_method": "Playlist Video Page"
+  }
+}

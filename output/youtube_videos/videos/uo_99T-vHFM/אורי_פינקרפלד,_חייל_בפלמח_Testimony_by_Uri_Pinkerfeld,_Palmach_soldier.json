@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "uo_99T-vHFM",
+    "title": "אורי פינקרפלד, חייל בפלמ\"ח // Testimony by Uri Pinkerfeld, Palmach soldier",
+    "href": "/watch?v=uo_99T-vHFM",
+    "full_url": "https://www.youtube.com/watch?v=uo_99T-vHFM",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "4.4K views",
+    "view_count": "4.4K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "אורי פינקרפלד, חייל בפלמ\"ח // Testimony by Uri Pinkerfeld, Palmach soldier",
+    "date": "2013-02-09",
+    "place": "Jerusalem",
+    "topic": "Interview/Testimony",
+    "description": "אורי פינקרפלד, חייל בפלמ\"ח, נולד בירושליים בשנת 1928 התגייס לפלמ\"ח, התגייס לגדוד השלישי, פלוגות ג' + ח' צולם יחד עם אשתו גאולה פינקרפלד בקיבוץ רבדים. ראיון, צילום ועריכה: רנין ג'רייס ועמי אשר ___________ Testimony by Uri Pinkerfeld, Palmach soldier, Born in Jerusalem in 1928 Served in the Palmach's Third Battalion Filmed with his wife Geula in Kibbutz Revadim Interview, Filming and Editing by Ami Asher and Raneen Jeries",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:26.475920",
+    "extraction_method": "Playlist Video Page"
+  }
+}

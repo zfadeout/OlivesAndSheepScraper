@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "4_WtxPzp6m0",
+    "title": "Courage in the Unknown: Exploring New Possibilities",
+    "href": "/watch?v=4_WtxPzp6m0&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=4_WtxPzp6m0&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.5K views",
+    "view_count": "1.5K views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Courage in the Unknown: Exploring New Possibilities",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Courage",
+    "description": "Courage - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:41.012972",
+    "extraction_method": "Playlist Video Page"
+  }
+}

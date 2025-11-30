@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "AnIHDil_Wik",
+    "title": "Rabbi Oded Mazor Burin, RHR Olive Harvest 2020, 3 Nov",
+    "href": "/watch?v=AnIHDil_Wik",
+    "full_url": "https://www.youtube.com/watch?v=AnIHDil_Wik",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "107 views",
+    "view_count": "107 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Rabbi Oded Mazor Burin, RHR Olive Harvest 2020, 3 Nov",
+    "date": "2020-11-03",
+    "place": "West Bank",
+    "topic": "Settlement Expansion",
+    "description": "Rabbis for Human Rights member, Rabbi Oded Mazor of Jerusalem speaks from the olive groves of the West Bank Palestinian village of Burin. Rabbi Oded speaks of the importance of protecting the right to harvest of Palestinian farmers faced with the difficulties of the Occupation, violent settlers, and security force indifference.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:25.764974",
+    "extraction_method": "Playlist Video Page"
+  }
+}

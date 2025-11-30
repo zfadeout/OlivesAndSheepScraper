@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "AyJ7A5M21eQ",
+    "title": "The Power of Collective Grief: Ex-Combatants on Healing Across Divides",
+    "href": "/watch?v=AyJ7A5M21eQ",
+    "full_url": "https://www.youtube.com/watch?v=AyJ7A5M21eQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "93 views",
+    "view_count": "93 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "The Power of Collective Grief: Ex-Combatants on Healing Across Divides",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:37.969371",
+    "extraction_method": "Playlist Video Page"
+  }
+}

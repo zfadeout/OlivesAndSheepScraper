@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "lvvJokxKIQY",
+    "title": "FLY OVER PALESTINE [Tour-10]: Al Faluja - Bethlehem",
+    "href": "/watch?v=lvvJokxKIQY",
+    "full_url": "https://www.youtube.com/watch?v=lvvJokxKIQY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "498 views",
+    "view_count": "498 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-10]: Al Faluja - Bethlehem",
+    "date": "2012-06-09",
+    "place": "Bethlehem",
+    "topic": "General Documentation",
+    "description": "FLY OVER PALESTINE [Tour-10]: Al Faluja - Bethlehem 6Likes498Views2012Jun 9 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:02.409376",
+    "extraction_method": "Playlist Video Page"
+  }
+}

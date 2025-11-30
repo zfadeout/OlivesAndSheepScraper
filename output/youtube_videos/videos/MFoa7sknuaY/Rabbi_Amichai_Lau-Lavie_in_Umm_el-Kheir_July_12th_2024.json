@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "MFoa7sknuaY",
+    "title": "Rabbi Amichai Lau-Lavie in Umm el-Kheir July 12th 2024",
+    "href": "/watch?v=MFoa7sknuaY",
+    "full_url": "https://www.youtube.com/watch?v=MFoa7sknuaY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "137 views",
+    "view_count": "137 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Rabbi Amichai Lau-Lavie in Umm el-Kheir July 12th 2024",
+    "date": "2024-07-12",
+    "place": "Umm el",
+    "topic": "Human Rights",
+    "description": "Transcript Follow along using the transcript. Show transcript רבנים לזכויות אדם | Rabbis for Human Rights 147 subscribers",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:18.759075",
+    "extraction_method": "Playlist Video Page"
+  }
+}

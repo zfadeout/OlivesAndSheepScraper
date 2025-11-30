@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "h2g7qFCEdY8",
+    "title": "Fred's Daily Minute July 1",
+    "href": "/watch?v=h2g7qFCEdY8&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=h2g7qFCEdY8&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "18 views",
+    "view_count": "18 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute July 1",
+    "date": "2020-07-01",
+    "place": "Israel",
+    "topic": "Segregated Schools",
+    "description": "Segregated Schools in Israel and Palestine",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:27.718935",
+    "extraction_method": "Playlist Video Page"
+  }
+}

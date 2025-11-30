@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "UWRN5jnvESQ",
+    "title": "Old City of Jerusalem",
+    "href": "/watch?v=UWRN5jnvESQ",
+    "full_url": "https://www.youtube.com/watch?v=UWRN5jnvESQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "60 views",
+    "view_count": "60 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Old City of Jerusalem",
+    "date": "2020-07-04",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Attend a briefing and walking tour of the Old City of Jerusalem with guide, Yahav Zohar",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:27.086869",
+    "extraction_method": "Playlist Video Page"
+  }
+}

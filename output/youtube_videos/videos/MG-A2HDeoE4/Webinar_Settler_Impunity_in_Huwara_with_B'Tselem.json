@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "MG-A2HDeoE4",
+    "title": "Webinar: Settler Impunity in Huwara with B'Tselem",
+    "href": "/watch?v=MG-A2HDeoE4",
+    "full_url": "https://www.youtube.com/watch?v=MG-A2HDeoE4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "190 views",
+    "view_count": "190 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Webinar: Settler Impunity in Huwara with B'Tselem",
+    "date": "2023-03-27",
+    "place": "West Bank",
+    "topic": "Settlement Expansion",
+    "description": "On Sunday, March 26th of 2023 the Green Olive Collective joined with Roy Yellin of B'Tselem for a webinar reflecting on the settler attack in Huwara and the ways settler violence is state policy in the occupied West Bank. We discussed why the military protects you if you come to attack Palestinians, arrests you if you come to express solidarity with the victims, and how the ongoing relationship between the settler movement and law enforcement creates a reality in which attacks like the one in Huwara can take place with impunity. This recording of the webinar is free and open to the public, but you can contribute at the link below to sustain the Green Olive Collective and our work to challenge the violence of occupation and advocate for a democratic future: https://greenolivetours.com/contribut...",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:17.346422",
+    "extraction_method": "Playlist Video Page"
+  }
+}

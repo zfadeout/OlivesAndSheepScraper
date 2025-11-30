@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "prsrKmMroI4",
+    "title": "Help Combatants for Peace Grow!-cfpeace.org",
+    "href": "/watch?v=prsrKmMroI4",
+    "full_url": "https://www.youtube.com/watch?v=prsrKmMroI4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "393 views",
+    "view_count": "393 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Help Combatants for Peace Grow!-cfpeace.org",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:57.825181",
+    "extraction_method": "Playlist Video Page"
+  }
+}

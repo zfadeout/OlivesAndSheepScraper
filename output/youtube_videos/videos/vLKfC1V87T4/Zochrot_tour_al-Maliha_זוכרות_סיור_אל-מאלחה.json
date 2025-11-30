@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "vLKfC1V87T4",
+    "title": "Zochrot tour al-Maliha זוכרות סיור אל-מאלחה",
+    "href": "/watch?v=vLKfC1V87T4",
+    "full_url": "https://www.youtube.com/watch?v=vLKfC1V87T4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.4K views",
+    "view_count": "1.4K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Zochrot tour al-Maliha זוכרות סיור אל-מאלחה",
+    "date": "2009-09-16",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "סיור עמותת זוכרות בכפר אל-מאלחה בנפת ירושליים (2008) צילום: נמרוד צין עריכה: עמותת זוכרות جولة في قرية المالحة www.zochrot.org",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:38.585672",
+    "extraction_method": "Playlist Video Page"
+  }
+}

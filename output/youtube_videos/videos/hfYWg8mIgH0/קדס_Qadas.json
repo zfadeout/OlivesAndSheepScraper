@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "hfYWg8mIgH0",
+    "title": "קדס Qadas",
+    "href": "/watch?v=hfYWg8mIgH0",
+    "full_url": "https://www.youtube.com/watch?v=hfYWg8mIgH0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "258 views",
+    "view_count": "258 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "קדס Qadas",
+    "date": "2014-08-04",
+    "place": "Safed",
+    "topic": "General Documentation",
+    "description": "שרידי הכפר קדס, נפת ספד (צפת) The remains of Qadas, Safed District",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:17.126638",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "cBuTDPg2Fbg",
+    "title": "Rabbi Yehiel Grenimann, Olive Harvest - Burin, The Occupied West Bank",
+    "href": "/watch?v=cBuTDPg2Fbg",
+    "full_url": "https://www.youtube.com/watch?v=cBuTDPg2Fbg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "67 views",
+    "view_count": "67 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Rabbi Yehiel Grenimann, Olive Harvest - Burin, The Occupied West Bank",
+    "date": "2020-11-10",
+    "place": "West Bank",
+    "topic": "Human Rights",
+    "description": "Rabbi Yehiel Grenimann, member of Rabbis for Human Rights board of directors, speaks from the Olive groves in the West Bank village of Burin to remind us that the Palestinians’ struggle for human rights is also our struggle as Jews who live by the sacred commandment, “love your neighbor as you love yourself”. He explains that as a Jewish human rights organization, RHR’s place is “not just about making sure that human rights are being respected but also about bearing witness and sharing the message about what we see here and about the need to remember that all people are created in the divine image.” The violations of these Palestinian farmers’ right to make a living from their land undermines that vision and aspiration.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:25.333385",
+    "extraction_method": "Playlist Video Page"
+  }
+}

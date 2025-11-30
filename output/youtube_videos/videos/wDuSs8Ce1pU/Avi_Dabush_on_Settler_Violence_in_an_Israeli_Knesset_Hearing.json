@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "wDuSs8Ce1pU",
+    "title": "Avi Dabush on Settler Violence in an Israeli Knesset Hearing",
+    "href": "/watch?v=wDuSs8Ce1pU",
+    "full_url": "https://www.youtube.com/watch?v=wDuSs8Ce1pU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "22 views",
+    "view_count": "22 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Avi Dabush on Settler Violence in an Israeli Knesset Hearing",
+    "date": "2024-11-11",
+    "place": "Rabbi Avi Dabush",
+    "topic": "Human Rights",
+    "description": "5th November 2024 Rabbi Avi Dabush, CEO Rabbis for Human Rights",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:17.259930",
+    "extraction_method": "Playlist Video Page"
+  }
+}

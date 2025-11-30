@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Fbp2Ep9BXpQ",
+    "title": "On the day Yafa`s refugees return - zochrot 2010",
+    "href": "/watch?v=Fbp2Ep9BXpQ",
+    "full_url": "https://www.youtube.com/watch?v=Fbp2Ep9BXpQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "6.1K views",
+    "view_count": "6.1K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "On the day Yafa`s refugees return - zochrot 2010",
+    "date": "2010-03-09",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "On the day jaffa`s refugees return - zochrot 2010",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:37.117259",
+    "extraction_method": "Playlist Video Page"
+  }
+}

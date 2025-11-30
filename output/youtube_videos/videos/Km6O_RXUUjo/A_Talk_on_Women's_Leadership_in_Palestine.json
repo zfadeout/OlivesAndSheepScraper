@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Km6O_RXUUjo",
+    "title": "A Talk on Women's Leadership in Palestine",
+    "href": "/watch?v=Km6O_RXUUjo",
+    "full_url": "https://www.youtube.com/watch?v=Km6O_RXUUjo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "214 views",
+    "view_count": "214 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "A Talk on Women's Leadership in Palestine",
+    "date": "Date Not Available",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "General Documentation - Palestine",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:49.511724",
+    "extraction_method": "Playlist Video Page"
+  }
+}

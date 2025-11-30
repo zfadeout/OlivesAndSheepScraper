@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "oAdfRp_lJp0",
+    "title": "Interfaith Prayer",
+    "href": "/watch?v=oAdfRp_lJp0",
+    "full_url": "https://www.youtube.com/watch?v=oAdfRp_lJp0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "223 views",
+    "view_count": "223 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Interfaith Prayer",
+    "date": "2023-10-22",
+    "place": "Location Not Specified",
+    "topic": "Arrest/Detention",
+    "description": "Last week, along with eight partner organisations, we held an online Interfaith prayer. Christian, Muslim and Jewish leaders gathered to pray and mourn together, seeking peace and a shared future free from suffering.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:21.558552",
+    "extraction_method": "Playlist Video Page"
+  }
+}

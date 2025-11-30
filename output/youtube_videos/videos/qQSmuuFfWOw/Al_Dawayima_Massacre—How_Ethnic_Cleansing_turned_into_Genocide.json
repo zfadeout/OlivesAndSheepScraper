@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "qQSmuuFfWOw",
+    "title": "Al Dawayima Massacre—How Ethnic Cleansing turned into Genocide",
+    "href": "/watch?v=qQSmuuFfWOw",
+    "full_url": "https://www.youtube.com/watch?v=qQSmuuFfWOw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "328 views",
+    "view_count": "328 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Al Dawayima Massacre—How Ethnic Cleansing turned into Genocide",
+    "date": "2025-02-19",
+    "place": "Palestine",
+    "topic": "Documentation/Investigation",
+    "description": "Forensic Architecture (Goldsmith College) made an amazing field and laboratory investigation into Dawayima massacre in Palestine in October 1948, (https://forensic-architecture.org/inv..., namely locating survivors of Tor ez Zagh, a cave near the village where 80 women and children were hiding from the killing. The Haganah terrorists (later the Israeli army) found and slaughtered most of them. Dr Salman Abu Sitta, who made earlier a thorough report on the massacre (https://www.plands.org/en/articles-sp..., explains here the anatomy of the massacre, its objective to seize land and eliminate its people and how ethnic cleansing in 1948 turned today to plain Genocide.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:32.802876",
+    "extraction_method": "Playlist Video Page"
+  }
+}

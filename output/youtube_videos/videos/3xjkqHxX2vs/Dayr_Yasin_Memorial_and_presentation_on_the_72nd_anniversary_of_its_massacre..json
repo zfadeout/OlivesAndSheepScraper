@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3xjkqHxX2vs",
+    "title": "Dayr Yasin Memorial and presentation on the 72nd anniversary of its massacre.",
+    "href": "/watch?v=3xjkqHxX2vs",
+    "full_url": "https://www.youtube.com/watch?v=3xjkqHxX2vs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "809 views",
+    "view_count": "809 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Dayr Yasin Memorial and presentation on the 72nd anniversary of its massacre.",
+    "date": "2020-04-13",
+    "place": "Israel",
+    "topic": "Violence/Confrontation",
+    "description": "On the 72nd anniversary of the Dayr Yasin massacre, the occupation and depopulation of the village, Zochrot organized an international virtual memorial event, together with Palestinian, Jewish and international activists. Zochrot believes its tradition of commemorating the Nakba, and particularly the Dayr Yasin massacre memorial must be maintained, even under the pandemic. We must use new channels under the situation forced upon humanity to convey information. In a virtual meeting on Thursday, April 9, we shared a presentation of photos and texts, talked about the history of Dayr Yasin, the attack on the village, the massacre and expulsion. We described the present condition of the village and showed some of its ruins, extant private homes, the school and the cemetery. We discussed the fact that right in the center of Dayr Yasin, within Palestinian houses still standing, Israel established the Kfar Shaul psychiatric hospital.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:18.169038",
+    "extraction_method": "Playlist Video Page"
+  }
+}

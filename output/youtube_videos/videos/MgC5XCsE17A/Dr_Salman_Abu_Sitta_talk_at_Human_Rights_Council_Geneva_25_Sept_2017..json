@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "MgC5XCsE17A",
+    "title": "Dr Salman Abu Sitta talk at Human Rights Council Geneva 25 Sept 2017.",
+    "href": "/watch?v=MgC5XCsE17A",
+    "full_url": "https://www.youtube.com/watch?v=MgC5XCsE17A",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "96 views",
+    "view_count": "96 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Dr Salman Abu Sitta talk at Human Rights Council Geneva 25 Sept 2017.",
+    "date": "2018-12-29",
+    "place": "Human",
+    "topic": "Human Rights",
+    "description": "Transcript Follow along using the transcript. Show transcript PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:59.443035",
+    "extraction_method": "Playlist Video Page"
+  }
+}

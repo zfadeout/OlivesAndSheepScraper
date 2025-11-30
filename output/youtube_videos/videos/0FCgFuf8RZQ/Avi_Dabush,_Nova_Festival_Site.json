@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "0FCgFuf8RZQ",
+    "title": "Avi Dabush, Nova Festival Site",
+    "href": "/watch?v=0FCgFuf8RZQ",
+    "full_url": "https://www.youtube.com/watch?v=0FCgFuf8RZQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "56 views",
+    "view_count": "56 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Avi Dabush, Nova Festival Site",
+    "date": "2024-07-18",
+    "place": "Location Not Specified",
+    "topic": "Avi Dabush on the need to hold multiple truths",
+    "description": "Avi Dabush on the need to hold multiple truths at once, during a tour given to North American Rabbis of the Nova festival site where hundreds were killed on October 7th.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:18.543466",
+    "extraction_method": "Playlist Video Page"
+  }
+}

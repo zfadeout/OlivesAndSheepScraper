@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "YX1tfNm_lAg",
+    "title": "Interfaith March",
+    "href": "/watch?v=YX1tfNm_lAg",
+    "full_url": "https://www.youtube.com/watch?v=YX1tfNm_lAg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "31 views",
+    "view_count": "31 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Interfaith March",
+    "date": "2024-06-13",
+    "place": "Location Not Specified",
+    "topic": "Protest/Demonstration",
+    "description": "Transcript Follow along using the transcript. Show transcript",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:19.192155",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "dwBzKuFg0wo",
+    "title": "Dr. Salman Abu Sitta intervention during the PYM Webinar : From Nakba To Return (16 May 2020)",
+    "href": "/watch?v=dwBzKuFg0wo",
+    "full_url": "https://www.youtube.com/watch?v=dwBzKuFg0wo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "152 views",
+    "view_count": "152 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Dr. Salman Abu Sitta intervention during the PYM Webinar : From Nakba To Return (16 May 2020)",
+    "date": "2020-05-20",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "PYM: From Nakba To Return: The Ongoing Struggle for Palestinian Liberation Palestinian Youth Movement (PYM)- حركة الشباب الفلسطيني",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:50.532352",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "4axtCzCA6cI",
+    "title": "Collective Liberation: International BIPOC Solidarity",
+    "href": "/watch?v=4axtCzCA6cI",
+    "full_url": "https://www.youtube.com/watch?v=4axtCzCA6cI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "74 views",
+    "view_count": "74 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Collective Liberation: International BIPOC Solidarity",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:41.661205",
+    "extraction_method": "Playlist Video Page"
+  }
+}

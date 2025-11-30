@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Z9w0TrqEvuQ",
+    "title": "Visite du village d'Al-Manshiyya, à côté d'Acre",
+    "href": "/watch?v=Z9w0TrqEvuQ&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=Z9w0TrqEvuQ&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "290 views",
+    "view_count": "290 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Visite du village d'Al-Manshiyya, à côté d'Acre",
+    "date": "2012-05-20",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Visite du village d'Al-Manshiyya, à côté d'Acre 120 personnes environ ont participé à la visite du village palestinien détruit d'Al-Manshiyya, près de Acre, organisée par Zochrot. Environ la moitié des participants étaient des étudiants et des militants étrangers, les autres étant des juifs israéliens et des Palestiniens ayant la citoyenneté israélienne. www.zochrot.org",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:29.383665",
+    "extraction_method": "Playlist Video Page"
+  }
+}

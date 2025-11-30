@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Xxel6uJqudo",
+    "title": "The Survey of Western Palestine Revisited: The Visible and The Hidden",
+    "href": "/watch?v=Xxel6uJqudo&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=Xxel6uJqudo&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "73 views",
+    "view_count": "73 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "The Survey of Western Palestine Revisited: The Visible and The Hidden",
+    "date": "2020-03-09",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "The Survey of Western Palestine Revisited: The Visible and The Hidden S. Abu Sitta: At SOAS University of London, Bloomsbury, February 28, 2020",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:51.598268",
+    "extraction_method": "Playlist Video Page"
+  }
+}

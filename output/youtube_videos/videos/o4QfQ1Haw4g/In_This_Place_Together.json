@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "o4QfQ1Haw4g",
+    "title": "In This Place Together",
+    "href": "/watch?v=o4QfQ1Haw4g",
+    "full_url": "https://www.youtube.com/watch?v=o4QfQ1Haw4g",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "740 views",
+    "view_count": "740 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "In This Place Together",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:50.593979",
+    "extraction_method": "Playlist Video Page"
+  }
+}

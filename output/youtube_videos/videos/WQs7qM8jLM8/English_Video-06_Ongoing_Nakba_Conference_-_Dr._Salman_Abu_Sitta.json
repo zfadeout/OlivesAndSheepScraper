@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "WQs7qM8jLM8",
+    "title": "English Video-06: Ongoing Nakba Conference - Dr. Salman Abu Sitta",
+    "href": "/watch?v=WQs7qM8jLM8",
+    "full_url": "https://www.youtube.com/watch?v=WQs7qM8jLM8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "98 views",
+    "view_count": "98 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-06: Ongoing Nakba Conference - Dr. Salman Abu Sitta",
+    "date": "2011-07-06",
+    "place": "Location Not Specified",
+    "topic": "English",
+    "description": "Ongoing Nakba Conference, London, 16 January 2011",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:07.496791",
+    "extraction_method": "Playlist Video Page"
+  }
+}

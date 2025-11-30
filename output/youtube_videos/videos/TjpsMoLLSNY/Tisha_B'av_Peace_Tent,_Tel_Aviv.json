@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "TjpsMoLLSNY",
+    "title": "Tisha B'av Peace Tent, Tel Aviv",
+    "href": "/watch?v=TjpsMoLLSNY",
+    "full_url": "https://www.youtube.com/watch?v=TjpsMoLLSNY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "84 views",
+    "view_count": "84 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Tisha B'av Peace Tent, Tel Aviv",
+    "date": "2025-08-04",
+    "place": "Location Not Specified",
+    "topic": "Rabbi Kobi Weiss is teaching",
+    "description": "Rabbi Kobi Weiss is teaching at the tent on Dizengoff. As hateful shouts are hurled at those gathered, he responds with the living word of G-d, offering calm and dignity in a tense moment.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:14.320533",
+    "extraction_method": "Playlist Video Page"
+  }
+}

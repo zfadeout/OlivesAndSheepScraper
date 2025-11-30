@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "rSMl0b4-de8",
+    "title": "Join us for the 2023 Joint Nakba Remembrance Ceremony",
+    "href": "/watch?v=rSMl0b4-de8",
+    "full_url": "https://www.youtube.com/watch?v=rSMl0b4-de8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "233 views",
+    "view_count": "233 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Join us for the 2023 Joint Nakba Remembrance Ceremony",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:42.525728",
+    "extraction_method": "Playlist Video Page"
+  }
+}

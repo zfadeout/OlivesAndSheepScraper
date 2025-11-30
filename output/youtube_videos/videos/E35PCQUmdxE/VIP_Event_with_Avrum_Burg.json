@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "E35PCQUmdxE",
+    "title": "VIP Event with Avrum Burg",
+    "href": "/watch?v=E35PCQUmdxE",
+    "full_url": "https://www.youtube.com/watch?v=E35PCQUmdxE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "140 views",
+    "view_count": "140 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "VIP Event with Avrum Burg",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:48.892163",
+    "extraction_method": "Playlist Video Page"
+  }
+}

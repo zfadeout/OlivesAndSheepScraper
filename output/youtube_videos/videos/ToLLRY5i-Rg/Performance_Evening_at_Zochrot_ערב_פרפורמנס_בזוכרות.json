@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ToLLRY5i-Rg",
+    "title": "Performance Evening at Zochrot / ערב פרפורמנס בזוכרות",
+    "href": "/watch?v=ToLLRY5i-Rg",
+    "full_url": "https://www.youtube.com/watch?v=ToLLRY5i-Rg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.1K views",
+    "view_count": "1.1K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Performance Evening at Zochrot / ערב פרפורמנס בזוכרות",
+    "date": "2013-06-22",
+    "place": "Aparicio",
+    "topic": "Performance Evening",
+    "description": "\"לא אבדה תקוותנו?\" 16/5/2013 ערב פרפורמנס בתערוכה \"שקיעה או זריחה?\" מאת איתן ויתקון. אוצרת: מירב עוז מנחה: איתן ברונשטין אפריסיו פרפורמרים (לפי סדר ההופעה): זרע עמלק -- איתמר שפירא, נעה אבנד וגיא אלחנן נטע רודיך ורזיה מזרחי יובל בן-עמי סמדר יערון יסמין יזבק גיא אלחנן רז וינר נטלי כהן וקסברג צילום ועריכה: מורן בריר צלם נוסף: ערן טורבינר הגברה: סקאינט בע\"מ Haven't We Lost Hope? 6/5/2013 A Performance evening at the exhibition \"Downfall or Sunrise?\" by Eitan Vitkon. Curator: Meirav Oz Host: Eitan Bronstein Aparicio Performing: (in order of performance) Zera Amalek -- Itamar Shapira, Noa Abend and Guy Elhanan Neta Rudich and Razia Mizrahi Yuval Ben-Ami Smadar Yaaron Yasmin Yazbek Guy Elhanan Raz Weiner Natali Cohen Vaxberg Camere and Edit: Moran Barir Second Camera Man: Eran Turbiner Sound: Skynet Ltd",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:26.044392",
+    "extraction_method": "Playlist Video Page"
+  }
+}

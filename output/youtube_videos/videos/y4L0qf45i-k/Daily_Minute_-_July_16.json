@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "y4L0qf45i-k",
+    "title": "Daily Minute - July 16",
+    "href": "/watch?v=y4L0qf45i-k",
+    "full_url": "https://www.youtube.com/watch?v=y4L0qf45i-k",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "29 views",
+    "view_count": "29 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute - July 16",
+    "date": "2020-07-16",
+    "place": "Israel",
+    "topic": "Refugees/Displacement",
+    "description": "It's time for Israel to acknowledge its crimes and extend a welcome home to the Palestinian refugees.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:24.750287",
+    "extraction_method": "Playlist Video Page"
+  }
+}

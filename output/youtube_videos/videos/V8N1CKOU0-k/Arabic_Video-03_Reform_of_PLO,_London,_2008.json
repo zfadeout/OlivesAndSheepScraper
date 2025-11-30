@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "V8N1CKOU0-k",
+    "title": "Arabic Video-03: Reform of PLO, London, 2008",
+    "href": "/watch?v=V8N1CKOU0-k",
+    "full_url": "https://www.youtube.com/watch?v=V8N1CKOU0-k",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "108 views",
+    "view_count": "108 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Arabic Video-03: Reform of PLO, London, 2008",
+    "date": "2011-07-15",
+    "place": "Location Not Specified",
+    "topic": "Arabic",
+    "description": "Reform of PLO Dr. Salman Abu Sitta London, 2008",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:05.161669",
+    "extraction_method": "Playlist Video Page"
+  }
+}

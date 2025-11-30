@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "DrvwHdxv2sY",
+    "title": "Virtual Tour of the South Hebron Hills",
+    "href": "/watch?v=DrvwHdxv2sY",
+    "full_url": "https://www.youtube.com/watch?v=DrvwHdxv2sY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "454 views",
+    "view_count": "454 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Virtual Tour of the South Hebron Hills",
+    "date": "2023-02-27",
+    "place": "West Bank",
+    "topic": "Protest/Demonstration",
+    "description": "On Sunday, February 26th of 2023 the Green Olive Collective hosted a virtual tour of the South Hebron Hills, exploring the geopolitics and lived realities of communities living in Area C of the West Bank. Twelve villages in South Hebron are currently facing eviction in what would be one of the largest single forced expulsions by Israel in recent decades. We joined with Awdah Hathaleen, a community resident of Umm Il-Kheir, to learn about why Israel is intent on displacing these communities and about the history of nonviolent resistance in the region.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:17.548291",
+    "extraction_method": "Playlist Video Page"
+  }
+}

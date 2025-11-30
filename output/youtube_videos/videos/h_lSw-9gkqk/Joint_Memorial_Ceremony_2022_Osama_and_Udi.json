@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "h_lSw-9gkqk",
+    "title": "Joint Memorial Ceremony 2022: Osama and Udi",
+    "href": "/watch?v=h_lSw-9gkqk",
+    "full_url": "https://www.youtube.com/watch?v=h_lSw-9gkqk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "296 views",
+    "view_count": "296 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Joint Memorial Ceremony 2022: Osama and Udi",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:45.494536",
+    "extraction_method": "Playlist Video Page"
+  }
+}

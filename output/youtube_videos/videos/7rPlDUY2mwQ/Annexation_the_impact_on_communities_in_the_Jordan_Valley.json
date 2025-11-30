@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "7rPlDUY2mwQ",
+    "title": "Annexation: the impact on communities in the Jordan Valley",
+    "href": "/watch?v=7rPlDUY2mwQ",
+    "full_url": "https://www.youtube.com/watch?v=7rPlDUY2mwQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "161 views",
+    "view_count": "161 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Annexation: the impact on communities in the Jordan Valley",
+    "date": "Date Not Available",
+    "place": "Jordan Valley",
+    "topic": "General Documentation",
+    "description": "General Documentation - Jordan Valley",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:55.492293",
+    "extraction_method": "Playlist Video Page"
+  }
+}

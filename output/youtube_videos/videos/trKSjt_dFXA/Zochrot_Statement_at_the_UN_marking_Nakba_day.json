@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "trKSjt_dFXA",
+    "title": "Zochrot Statement at the UN marking Nakba day",
+    "href": "/watch?v=trKSjt_dFXA",
+    "full_url": "https://www.youtube.com/watch?v=trKSjt_dFXA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "341 views",
+    "view_count": "341 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Zochrot Statement at the UN marking Nakba day",
+    "date": "2025-05-18",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Zochrot statement in the first 2025 civil society engagement “International Action Towards Ending the Nakba & Realizing the Inalienable Rights of the Palestinian People” organized by the UN Palestinian's rights committee",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:08.202965",
+    "extraction_method": "Playlist Video Page"
+  }
+}

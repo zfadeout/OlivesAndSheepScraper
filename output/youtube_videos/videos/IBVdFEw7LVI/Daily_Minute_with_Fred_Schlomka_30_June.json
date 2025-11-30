@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "IBVdFEw7LVI",
+    "title": "Daily Minute with Fred Schlomka 30 June",
+    "href": "/watch?v=IBVdFEw7LVI",
+    "full_url": "https://www.youtube.com/watch?v=IBVdFEw7LVI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "14 views",
+    "view_count": "14 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 30 June",
+    "date": "2020-06-30",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Accusations of Anti Semitism. Freedom of speech.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:27.934600",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3mLJ2pzNCaY",
+    "title": "Nakba post Zoom Meeting",
+    "href": "/watch?v=3mLJ2pzNCaY",
+    "full_url": "https://www.youtube.com/watch?v=3mLJ2pzNCaY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "32 views",
+    "view_count": "32 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Nakba post Zoom Meeting",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:49.944921",
+    "extraction_method": "Playlist Video Page"
+  }
+}

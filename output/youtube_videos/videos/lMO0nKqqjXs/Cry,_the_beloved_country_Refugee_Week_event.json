@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "lMO0nKqqjXs",
+    "title": "Cry, the beloved country: Refugee Week event",
+    "href": "/watch?v=lMO0nKqqjXs",
+    "full_url": "https://www.youtube.com/watch?v=lMO0nKqqjXs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "57 views",
+    "view_count": "57 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Cry, the beloved country: Refugee Week event",
+    "date": "2020-07-07",
+    "place": "Aparicio the founder of the NGO Zochrot and De",
+    "topic": "Refugees/Displacement",
+    "description": "The event for Refugee Week 2020, is part of the exhibition \"Cry, the beloved country\" by Gil Mualem Doron that was launched online in April and will be showing at P21 Gallery in September 2020. The event will include a presentation of photography and film projects on the subject of Palestinian refugees followed by a conversation with the Palestinian historian Dr Salman Abu Sitta, the artist Dr Gil Mualem-Doron, Eitan Bronstein Aparicio the founder of the NGO Zochrot and De-Colonizer and the curator Ghazaleh Zogheib.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:48.447620",
+    "extraction_method": "Playlist Video Page"
+  }
+}

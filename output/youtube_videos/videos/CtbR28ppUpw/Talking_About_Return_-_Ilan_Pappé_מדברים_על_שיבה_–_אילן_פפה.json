@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "CtbR28ppUpw",
+    "title": "Talking About Return - Ilan Pappé | מדברים על שיבה – אילן פפה",
+    "href": "/watch?v=CtbR28ppUpw",
+    "full_url": "https://www.youtube.com/watch?v=CtbR28ppUpw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "685 views",
+    "view_count": "685 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Talking About Return - Ilan Pappé | מדברים על שיבה – אילן פפה",
+    "date": "2018-09-10",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "\"חשוב לשאול את השאלה לא רק האם יש אפשרות לממש את זכות השיבה בפועל, אלא על פי אלו עקרונות אנחנו מקבלים או דוחים את זכות השיבה... אני חושב שעדיין לא נולד ולא ייוולד המנהיג הפלסטיני שבאמת יוותר על זכות השיבה.\" אילן פפה על זכות השיבה והפרקטיקה של מימושה, תפישת הנושא בקרב הציבור הפלסטיני אל מול הישראלי ויחסן של הרשויות. \"It is important to ask the question not only whether it is possible to realize the right of return in practice, but based on what principles do we accept or reject the right of return ... I think the Palestinian leader to give up the right of return was yet to be born, nor will one ever be.\" Ilan Pappé on the right of return and the practice of its realization, the perception of the issue among the Palestinian public facing the Israeli public and the attitude of the authorities.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:24.092532",
+    "extraction_method": "Playlist Video Page"
+  }
+}

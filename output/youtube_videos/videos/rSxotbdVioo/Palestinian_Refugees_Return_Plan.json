@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "rSxotbdVioo",
+    "title": "Palestinian Refugees Return Plan",
+    "href": "/watch?v=rSxotbdVioo",
+    "full_url": "https://www.youtube.com/watch?v=rSxotbdVioo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "46 views",
+    "view_count": "46 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Palestinian Refugees Return Plan",
+    "date": "2019-03-30",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "This is part of an extensive Return Plan of Palestinian refugees to their homes presented at an international conference organized by Brown University, Watson Institute of International Affairs on 13 April 2018.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:55.682687",
+    "extraction_method": "Playlist Video Page"
+  }
+}

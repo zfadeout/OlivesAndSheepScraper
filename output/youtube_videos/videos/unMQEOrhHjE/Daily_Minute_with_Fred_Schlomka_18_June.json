@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "unMQEOrhHjE",
+    "title": "Daily Minute with Fred Schlomka 18 June",
+    "href": "/watch?v=unMQEOrhHjE",
+    "full_url": "https://www.youtube.com/watch?v=unMQEOrhHjE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "16 views",
+    "view_count": "16 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 18 June",
+    "date": "2020-06-18",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "Israel's 'Law of Return' vs. Palestine's 'Right of Return'",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:30.720055",
+    "extraction_method": "Playlist Video Page"
+  }
+}

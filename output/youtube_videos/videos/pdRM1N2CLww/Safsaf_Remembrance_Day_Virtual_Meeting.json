@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "pdRM1N2CLww",
+    "title": "Safsaf Remembrance Day Virtual Meeting",
+    "href": "/watch?v=pdRM1N2CLww",
+    "full_url": "https://www.youtube.com/watch?v=pdRM1N2CLww",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "139 views",
+    "view_count": "139 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Safsaf Remembrance Day Virtual Meeting",
+    "date": "2022-10-31",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Safsaf Remembrance Day Virtual Meeting. 29 October 2022",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:39.199109",
+    "extraction_method": "Playlist Video Page"
+  }
+}

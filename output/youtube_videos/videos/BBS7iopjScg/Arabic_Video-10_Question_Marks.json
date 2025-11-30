@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "BBS7iopjScg",
+    "title": "Arabic Video-10: Question Marks",
+    "href": "/watch?v=BBS7iopjScg",
+    "full_url": "https://www.youtube.com/watch?v=BBS7iopjScg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "75 views",
+    "view_count": "75 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Arabic Video-10: Question Marks",
+    "date": "2011-07-06",
+    "place": "Location Not Specified",
+    "topic": "Arabic",
+    "description": "ANB TV Question Marks 17 November 2010",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:07.711352",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "F13bFmudSrI",
+    "title": "Combatants For Peace -Who We Are- cfpeace.org",
+    "href": "/watch?v=F13bFmudSrI",
+    "full_url": "https://www.youtube.com/watch?v=F13bFmudSrI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.7K views",
+    "view_count": "1.7K views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Combatants For Peace -Who We Are- cfpeace.org",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:58.042542",
+    "extraction_method": "Playlist Video Page"
+  }
+}

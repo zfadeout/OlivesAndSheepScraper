@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "JIDPesq9ysc",
+    "title": "Témoignage de Amnon Neumann, ancien soldat du Palmach",
+    "href": "/watch?v=JIDPesq9ysc",
+    "full_url": "https://www.youtube.com/watch?v=JIDPesq9ysc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "6.1K views",
+    "view_count": "6.1K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Témoignage de Amnon Neumann, ancien soldat du Palmach",
+    "date": "2012-02-21",
+    "place": "Location Not Specified",
+    "topic": "Occupation",
+    "description": "Une séance publique à Zochrot, un témoignage donné par Amnon Neumann, soldat de l'unité du Palmach en 1948, qui décrit l'occupation des villages du Néguev.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:29.786820",
+    "extraction_method": "Playlist Video Page"
+  }
+}

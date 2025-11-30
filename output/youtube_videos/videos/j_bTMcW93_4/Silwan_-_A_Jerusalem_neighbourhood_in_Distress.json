@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "j_bTMcW93_4",
+    "title": "Silwan - A Jerusalem neighbourhood in Distress",
+    "href": "/watch?v=j_bTMcW93_4",
+    "full_url": "https://www.youtube.com/watch?v=j_bTMcW93_4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "135 views",
+    "view_count": "135 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Silwan - A Jerusalem neighbourhood in Distress",
+    "date": "2022-02-24",
+    "place": "Distress",
+    "topic": "Settlement Expansion",
+    "description": "with Presented by Yahav Zohar & Yonatan Mizrachi - For many years, the Jerusalem neighbourhood of Silwan has been pressured by the settler organisation, Elad, which has created the touristic and highly politicised 'City of David' within the community and is moving in settlers as part of it's 'Judaisation' policies. In this recorded online event, Yahav and Yanatan discuss the history and current status of the the issues.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:19.030030",
+    "extraction_method": "Playlist Video Page"
+  }
+}

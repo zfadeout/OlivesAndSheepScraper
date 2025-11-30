@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Cuhei_1nKBY",
+    "title": "Voices from Gaza",
+    "href": "/watch?v=Cuhei_1nKBY",
+    "full_url": "https://www.youtube.com/watch?v=Cuhei_1nKBY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "388 views",
+    "view_count": "388 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Voices from Gaza",
+    "date": "Date Not Available",
+    "place": "Gaza",
+    "topic": "Voices",
+    "description": "Voices - Gaza",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:50.808303",
+    "extraction_method": "Playlist Video Page"
+  }
+}

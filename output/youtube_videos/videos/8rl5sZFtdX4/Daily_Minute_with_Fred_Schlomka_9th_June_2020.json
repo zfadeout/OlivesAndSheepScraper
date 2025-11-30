@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "8rl5sZFtdX4",
+    "title": "Daily Minute with Fred Schlomka 9th June 2020",
+    "href": "/watch?v=8rl5sZFtdX4",
+    "full_url": "https://www.youtube.com/watch?v=8rl5sZFtdX4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "13 views",
+    "view_count": "13 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 9th June 2020",
+    "date": "2020-06-09",
+    "place": "Jordan Valley",
+    "topic": "General Documentation",
+    "description": "Jordan Valley Annexation",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:32.466750",
+    "extraction_method": "Playlist Video Page"
+  }
+}

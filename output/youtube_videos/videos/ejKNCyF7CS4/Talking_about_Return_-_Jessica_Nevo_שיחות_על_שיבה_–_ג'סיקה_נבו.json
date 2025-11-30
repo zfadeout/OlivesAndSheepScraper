@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ejKNCyF7CS4",
+    "title": "Talking about Return - Jessica Nevo | שיחות על שיבה – ג'סיקה נבו",
+    "href": "/watch?v=ejKNCyF7CS4",
+    "full_url": "https://www.youtube.com/watch?v=ejKNCyF7CS4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "170 views",
+    "view_count": "170 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Talking about Return - Jessica Nevo | שיחות על שיבה – ג'סיקה נבו",
+    "date": "2018-09-09",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "היכן התרחשו שיבות של פליטים ברחבי העולם? מה אנחנו יכולים ללמוד מסכסוכים אחרים שנפתרו? שיחה עם ג'סיקה נבו, חוקרת של תהליכי 'צדק מעברי'. צילום: נמרוד גרשוני עריכה: נמרוד גרשוני כתב/ת: יובל אברהם Where, around the world, have refugees came back home? What can we learn, from other resolved conflicts, A conversation with Jessica Nevo, who's investigating the processes of 'transitional justice'.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:25.563105",
+    "extraction_method": "Playlist Video Page"
+  }
+}

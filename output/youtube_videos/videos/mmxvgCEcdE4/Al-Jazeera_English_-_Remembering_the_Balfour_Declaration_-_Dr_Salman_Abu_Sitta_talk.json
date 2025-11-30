@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "mmxvgCEcdE4",
+    "title": "Al-Jazeera English - Remembering the Balfour Declaration - Dr Salman Abu Sitta talk",
+    "href": "/watch?v=mmxvgCEcdE4",
+    "full_url": "https://www.youtube.com/watch?v=mmxvgCEcdE4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "214 views",
+    "view_count": "214 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Al-Jazeera English - Remembering the Balfour Declaration - Dr Salman Abu Sitta talk",
+    "date": "2019-11-04",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "The Balfour Declaration was signed 99 years ago today, pledging a Jewish homeland in historic Palestine. We're talking to Palestinian historian Dr. Salman Abu-Sitta. What do you want to ask him about Palestine?",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:52.480782",
+    "extraction_method": "Playlist Video Page"
+  }
+}

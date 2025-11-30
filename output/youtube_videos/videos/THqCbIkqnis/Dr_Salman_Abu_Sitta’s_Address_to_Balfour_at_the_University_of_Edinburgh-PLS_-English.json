@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "THqCbIkqnis",
+    "title": "Dr Salman Abu Sitta’s Address to Balfour at the University of Edinburgh-PLS -English",
+    "href": "/watch?v=THqCbIkqnis",
+    "full_url": "https://www.youtube.com/watch?v=THqCbIkqnis",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "413 views",
+    "view_count": "413 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Dr Salman Abu Sitta’s Address to Balfour at the University of Edinburgh-PLS -English",
+    "date": "2025-05-07",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Transcript Follow along using the transcript. Show transcript PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:32.586760",
+    "extraction_method": "Playlist Video Page"
+  }
+}

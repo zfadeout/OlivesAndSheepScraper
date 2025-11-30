@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "WowVev3rvy0",
+    "title": "Acre Dreams | עכו חלומות | أحلام عكا - trailer",
+    "href": "/watch?v=WowVev3rvy0",
+    "full_url": "https://www.youtube.com/watch?v=WowVev3rvy0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "2.7K views",
+    "view_count": "2.7K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Acre Dreams | עכו חלומות | أحلام عكا - trailer",
+    "date": "2018-11-28",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Director: Daniel Wachsmann Acre Dreams will be screened at the 48mm Film Festival From Nakba To Return on December 14 at 2.30 pm at the Cinematheque Tel Aviv",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:21.757103",
+    "extraction_method": "Playlist Video Page"
+  }
+}

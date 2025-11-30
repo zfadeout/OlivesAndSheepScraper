@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "E_7nNZFzEuc",
+    "title": "P03: ANB TV 03",
+    "href": "/watch?v=E_7nNZFzEuc&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=E_7nNZFzEuc&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "20 views",
+    "view_count": "20 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "P03: ANB TV 03",
+    "date": "2011-07-08",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "P03: ANB TV 03 1Likes20Views2011Jul 9 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:06.848389",
+    "extraction_method": "Playlist Video Page"
+  }
+}

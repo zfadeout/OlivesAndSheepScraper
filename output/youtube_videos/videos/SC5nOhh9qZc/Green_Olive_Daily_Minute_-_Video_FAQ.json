@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "SC5nOhh9qZc",
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "href": "/watch?v=SC5nOhh9qZc",
+    "full_url": "https://www.youtube.com/watch?v=SC5nOhh9qZc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "64 views",
+    "view_count": "64 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "date": "2020-09-24",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "British Mandate of Palestine Did the British colonise Palestine?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:21.796664",
+    "extraction_method": "Playlist Video Page"
+  }
+}

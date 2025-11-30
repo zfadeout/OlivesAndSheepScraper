@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "D_R5wppfqeQ",
+    "title": "Green Olive Tours 2019 Equity Crowdfunding",
+    "href": "/watch?v=D_R5wppfqeQ",
+    "full_url": "https://www.youtube.com/watch?v=D_R5wppfqeQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "217 views",
+    "view_count": "217 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Tours 2019 Equity Crowdfunding",
+    "date": "2019-09-01",
+    "place": "Location Not Specified",
+    "topic": "our Partners and inviting investment",
+    "description": "Green Olive Tours - featuring our Partners and inviting investment",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:34.612921",
+    "extraction_method": "Playlist Video Page"
+  }
+}

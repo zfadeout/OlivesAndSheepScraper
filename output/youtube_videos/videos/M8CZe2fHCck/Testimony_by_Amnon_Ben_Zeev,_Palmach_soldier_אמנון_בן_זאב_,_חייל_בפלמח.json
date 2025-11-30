@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "M8CZe2fHCck",
+    "title": "Testimony by Amnon Ben Zeev, Palmach soldier // אמנון בן זאב , חייל בפלמ\"ח",
+    "href": "/watch?v=M8CZe2fHCck",
+    "full_url": "https://www.youtube.com/watch?v=M8CZe2fHCck",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.7K views",
+    "view_count": "1.7K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Testimony by Amnon Ben Zeev, Palmach soldier // אמנון בן זאב , חייל בפלמ\"ח",
+    "date": "2017-08-15",
+    "place": "Kiryat",
+    "topic": "Interview/Testimony",
+    "description": "אמנון בן זאב לחם בגדוד הראשון של הפלמ\"ח, פלוגה א'. רואיין על ידי יהודית יהב ב 25.12.16 בקרית אונו Amnon Ben Zeev A soldier in the Palmach's First Battalion Interviewed by Yehudit Yahav on 25.12.16 at Kiryat Ono",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:34.803309",
+    "extraction_method": "Playlist Video Page"
+  }
+}

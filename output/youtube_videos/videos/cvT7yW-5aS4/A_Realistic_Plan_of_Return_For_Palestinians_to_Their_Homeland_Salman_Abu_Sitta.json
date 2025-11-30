@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "cvT7yW-5aS4",
+    "title": "A Realistic Plan of Return For Palestinians to Their Homeland | Salman Abu Sitta",
+    "href": "/watch?v=cvT7yW-5aS4",
+    "full_url": "https://www.youtube.com/watch?v=cvT7yW-5aS4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "178 views",
+    "view_count": "178 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "A Realistic Plan of Return For Palestinians to Their Homeland | Salman Abu Sitta",
+    "date": "2024-08-19",
+    "place": "Palestine",
+    "topic": "Documentation/Investigation",
+    "description": "This Is Not a Watermelon | Palestinian History & Culture Dr Salman Abu Sitta lived through the Nakba. In this episode of This Is Not A Watermelon, we hear about his experience, writing his memoir \"Mapping My Return: A Palestinian Memoir,\" and founding the Palestinian Land Society – an organization dedicated to the documentation of Palestine's land and people. Dr Abu Sitta gives us an overview of the history of the Zionist occupation of Palestine, explaining the role that the British and the Haganah played, ultimately betraying the Palestinians. This is a unique opportunity to learn about the events of 1948 from a first-hand perspective.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:35.181328",
+    "extraction_method": "Playlist Video Page"
+  }
+}

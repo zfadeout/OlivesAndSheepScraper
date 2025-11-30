@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "PH7wgkGbrqk",
+    "title": "Resisting Israeli Land Grabs webinar - Palestine Solidarity Campaign UK",
+    "href": "/watch?v=PH7wgkGbrqk",
+    "full_url": "https://www.youtube.com/watch?v=PH7wgkGbrqk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "80 views",
+    "view_count": "80 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Resisting Israeli Land Grabs webinar - Palestine Solidarity Campaign UK",
+    "date": "2022-01-30",
+    "place": "Palestine",
+    "topic": "Land Dispute",
+    "description": "Resisting Israeli Land Grabs webinar Speakers: Salman Abu Sitta Ahmad Amara Budour Hassan Annie O’Gara",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:40.063985",
+    "extraction_method": "Playlist Video Page"
+  }
+}

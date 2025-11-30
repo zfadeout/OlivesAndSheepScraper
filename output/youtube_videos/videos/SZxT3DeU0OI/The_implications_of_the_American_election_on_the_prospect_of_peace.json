@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "SZxT3DeU0OI",
+    "title": "The implications of the American election on the prospect of peace",
+    "href": "/watch?v=SZxT3DeU0OI",
+    "full_url": "https://www.youtube.com/watch?v=SZxT3DeU0OI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "309 views",
+    "view_count": "309 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "The implications of the American election on the prospect of peace",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:53.994122",
+    "extraction_method": "Playlist Video Page"
+  }
+}

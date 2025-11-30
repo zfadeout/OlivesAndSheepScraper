@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "KGgbrqE5dhg",
+    "title": "FLY OVER PALESTINE [Tour-4]: Yibna - Lydda",
+    "href": "/watch?v=KGgbrqE5dhg",
+    "full_url": "https://www.youtube.com/watch?v=KGgbrqE5dhg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "972 views",
+    "view_count": "972 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-4]: Yibna - Lydda",
+    "date": "2012-05-08",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "From: Yibna Passing by: Zarnuqa, Rehovot, El Ramle To: Lydda Duration: 1 min 33 sec",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:03.907732",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "C5mBxNnnZmI",
+    "title": "Arabic Video-12: Tenth Palestinians in Europe Conference",
+    "href": "/watch?v=C5mBxNnnZmI",
+    "full_url": "https://www.youtube.com/watch?v=C5mBxNnnZmI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "165 views",
+    "view_count": "165 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Arabic Video-12: Tenth Palestinians in Europe Conference",
+    "date": "2012-05-29",
+    "place": "Europe",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Copenhagen 28 April 2012",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:02.611372",
+    "extraction_method": "Playlist Video Page"
+  }
+}

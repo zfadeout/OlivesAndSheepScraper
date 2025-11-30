@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "0ZRXyhCk0NQ",
+    "title": "Rabbi Michael Marmur OliveHarvest23 10 10",
+    "href": "/watch?v=0ZRXyhCk0NQ",
+    "full_url": "https://www.youtube.com/watch?v=0ZRXyhCk0NQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "36 views",
+    "view_count": "36 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Rabbi Michael Marmur OliveHarvest23 10 10",
+    "date": "2020-10-23",
+    "place": "West Bank",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "RHR Chairperson, Rabbi Michael Marmur, talks about the importance of the Olive Harvest, from the Palestinian Village of Burin in the Occupied West Bank.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:26.196786",
+    "extraction_method": "Playlist Video Page"
+  }
+}

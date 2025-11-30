@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "9KKwCDuhAAk",
+    "title": "HOMELAND INSECURITY - Part 2 - Jerusalem Revealed",
+    "href": "/watch?v=9KKwCDuhAAk",
+    "full_url": "https://www.youtube.com/watch?v=9KKwCDuhAAk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.3K views",
+    "view_count": "1.3K views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "HOMELAND INSECURITY - Part 2 - Jerusalem Revealed",
+    "date": "2020-11-26",
+    "place": "Location Not Specified",
+    "topic": "Cultural Heritage",
+    "description": "A film by Green Olive Tours expanding the narrative on this ancient contested city. Contributions welcome at http://contribute.greenolivetours.com Thanks for your support.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:21.378060",
+    "extraction_method": "Playlist Video Page"
+  }
+}

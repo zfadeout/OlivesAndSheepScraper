@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "qOLKRIZWxRI",
+    "title": "Talking about Return - Danny Rubinstein | מדברים על שיבה – דני רובינשטיין",
+    "href": "/watch?v=qOLKRIZWxRI",
+    "full_url": "https://www.youtube.com/watch?v=qOLKRIZWxRI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "94 views",
+    "view_count": "94 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Talking about Return - Danny Rubinstein | מדברים על שיבה – דני רובינשטיין",
+    "date": "2018-09-10",
+    "place": "Israeli",
+    "topic": "Settlement Expansion",
+    "description": "דני רובינשטיין, אשר סיקר בשנת 1972 את החזרה אל ואדי פוכין, מדבר על זכות השיבה. \"אני יודע שזכות השיבה, זה הדבר הכי כואב בתודעה הישראלית. כי שינו הכל, שינו את השמות ואת המפה, ומתעלמים לחלוטין מזה שגרו שם ערבים בכל המקומות האלה, כל 400 הישובים, מנסים למחוק כל זכר שלהם.\" צילום: אורי בר-שלום אגמון עריכה: ארד טריפון רשף Danny Rubinstein, who in 1972 covered the return to Wadi Fukin, talks about the right of return. \"I know that the right of return is the most painful thing in Israeli consciousness, because they changed everything, changed the names and the map, and completely ignore the fact that Arabs lived there in all these places, all 400 settlements, they are trying to erase any trace of them. \"",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:24.510261",
+    "extraction_method": "Playlist Video Page"
+  }
+}

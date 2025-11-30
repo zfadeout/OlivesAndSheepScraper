@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "zfzMr7C5QVI",
+    "title": "Green Olive + Palestine Children Relief Fund online information session",
+    "href": "/watch?v=zfzMr7C5QVI",
+    "full_url": "https://www.youtube.com/watch?v=zfzMr7C5QVI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "182 views",
+    "view_count": "182 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive + Palestine Children Relief Fund online information session",
+    "date": "2021-03-04",
+    "place": "Palestine",
+    "topic": "Protest/Demonstration",
+    "description": "A public information and Q&A session on Zoom on 2 March 2021 to discuss the work of PCRF (to which Green Olive donates) and current events in Palestine (including COVID vaccination roll out, the upcoming elections and the Hamas-Fatah split)",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:20.946905",
+    "extraction_method": "Playlist Video Page"
+  }
+}

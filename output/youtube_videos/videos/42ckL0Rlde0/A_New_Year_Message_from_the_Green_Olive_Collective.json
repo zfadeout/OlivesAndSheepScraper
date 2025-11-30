@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "42ckL0Rlde0",
+    "title": "A New Year Message from the Green Olive Collective",
+    "href": "/watch?v=42ckL0Rlde0&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=42ckL0Rlde0&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "73 views",
+    "view_count": "73 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "A New Year Message from the Green Olive Collective",
+    "date": "2022-12-30",
+    "place": "Location Not Specified",
+    "topic": "A New Year Message",
+    "description": "Transcript Follow along using the transcript. Show transcript",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:17.979819",
+    "extraction_method": "Playlist Video Page"
+  }
+}

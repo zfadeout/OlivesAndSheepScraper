@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "_WlQbjhJGrc",
+    "title": "Nakba Day: EuroPal Forum webinar #NAKBA72",
+    "href": "/watch?v=_WlQbjhJGrc",
+    "full_url": "https://www.youtube.com/watch?v=_WlQbjhJGrc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "33 views",
+    "view_count": "33 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Nakba Day: EuroPal Forum webinar #NAKBA72",
+    "date": "2020-05-18",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Dr. Salman Abu Sitta intervention during the EuroPal Forum webinar highlights Palestinians’ ongoing Nakba and cautions against viewing annexation as independent of Zionism.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:50.962995",
+    "extraction_method": "Playlist Video Page"
+  }
+}

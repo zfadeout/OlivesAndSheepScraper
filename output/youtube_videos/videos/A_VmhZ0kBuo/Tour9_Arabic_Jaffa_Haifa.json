@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "A_VmhZ0kBuo",
+    "title": "Tour9 Arabic Jaffa Haifa",
+    "href": "/watch?v=A_VmhZ0kBuo",
+    "full_url": "https://www.youtube.com/watch?v=A_VmhZ0kBuo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "73 views",
+    "view_count": "73 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Tour9 Arabic Jaffa Haifa",
+    "date": "2012-10-29",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Tour9 Arabic Jaffa Haifa 0Likes73Views2012Oct 29 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:00.077781",
+    "extraction_method": "Playlist Video Page"
+  }
+}

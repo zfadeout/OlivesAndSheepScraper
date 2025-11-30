@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3gb4cj5pZFs",
+    "title": "South Hebron Hills Educational Webinar",
+    "href": "/watch?v=3gb4cj5pZFs",
+    "full_url": "https://www.youtube.com/watch?v=3gb4cj5pZFs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "222 views",
+    "view_count": "222 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "South Hebron Hills Educational Webinar",
+    "date": "Date Not Available",
+    "place": "Hebron",
+    "topic": "General Documentation",
+    "description": "General Documentation - Hebron",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:47.637762",
+    "extraction_method": "Playlist Video Page"
+  }
+}

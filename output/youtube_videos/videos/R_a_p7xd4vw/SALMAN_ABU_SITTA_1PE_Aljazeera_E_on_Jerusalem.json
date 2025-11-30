@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "R_a_p7xd4vw",
+    "title": "SALMAN ABU SITTA 1PE Aljazeera E on Jerusalem",
+    "href": "/watch?v=R_a_p7xd4vw",
+    "full_url": "https://www.youtube.com/watch?v=R_a_p7xd4vw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "77 views",
+    "view_count": "77 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "SALMAN ABU SITTA 1PE Aljazeera E on Jerusalem",
+    "date": "2018-12-31",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Transcript Follow along using the transcript. Show transcript PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:57.355289",
+    "extraction_method": "Playlist Video Page"
+  }
+}

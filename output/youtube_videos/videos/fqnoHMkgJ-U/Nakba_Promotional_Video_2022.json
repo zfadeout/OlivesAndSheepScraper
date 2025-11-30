@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "fqnoHMkgJ-U",
+    "title": "Nakba Promotional Video 2022",
+    "href": "/watch?v=fqnoHMkgJ-U",
+    "full_url": "https://www.youtube.com/watch?v=fqnoHMkgJ-U",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "27 views",
+    "view_count": "27 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Nakba Promotional Video 2022",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Nakba Promotional",
+    "description": "Nakba Promotional - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:45.708904",
+    "extraction_method": "Playlist Video Page"
+  }
+}

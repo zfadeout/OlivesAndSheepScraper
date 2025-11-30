@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "_5N0W8mpxEU",
+    "title": "Hebron & Bethlehem tour with Al Jezeera",
+    "href": "/watch?v=_5N0W8mpxEU",
+    "full_url": "https://www.youtube.com/watch?v=_5N0W8mpxEU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "2.6K views",
+    "view_count": "2.6K views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Hebron & Bethlehem tour with Al Jezeera",
+    "date": "2014-11-12",
+    "place": "Hebron",
+    "topic": "General Documentation",
+    "description": "The crew of Al Jezeera spend a day with a Green Olive tour group to Hebron and Bethlehem",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:35.044581",
+    "extraction_method": "Playlist Video Page"
+  }
+}

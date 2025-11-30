@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "_3Mg50ElHgk",
+    "title": "شهاده زهرة حجو - لاجئة من قرية لوبيا | Zahra Hajju - Refugee from Lubya",
+    "href": "/watch?v=_3Mg50ElHgk",
+    "full_url": "https://www.youtube.com/watch?v=_3Mg50ElHgk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "3.5K views",
+    "view_count": "3.5K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "شهاده زهرة حجو - لاجئة من قرية لوبيا | Zahra Hajju - Refugee from Lubya",
+    "date": "2018-10-24",
+    "place": "Lubya",
+    "topic": "Interview/Testimony",
+    "description": "شهادة زهرة فضيل حجو سنة الولادة: 1935 مكان الولادة: قرية لوبيا مكان السكن الحالي: دير حنا تاريخ المقابلة: 26.4.2015 لغة المقابلة: العربية עדותה של זהרה פדיל חג‘ו (1935) מקום לידה: כפר לוּבְּיָא מגורים נוכחיים: דיר חנא תאריך ראיון: 26.4.2015 שפת ראיון: ערבית Testimony by Zahra Fadel Haju (1935) Date of Birth Place of birth: Lubya Current residence: Dayr Hanna Date of Interview: 26.4.2015 Language: Arabic",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:22.836611",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "MWM5oBnk7bc",
+    "title": "Webinar| Britain & Palestine: Balfour to Boris",
+    "href": "/watch?v=MWM5oBnk7bc",
+    "full_url": "https://www.youtube.com/watch?v=MWM5oBnk7bc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "103 views",
+    "view_count": "103 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Webinar| Britain & Palestine: Balfour to Boris",
+    "date": "2020-11-03",
+    "place": "Palestine",
+    "topic": "Human Rights",
+    "description": "Discussing the Balfour Declarations' implications on Palestine and Palestinian human rights exactly 103 years on. Speakers: Dr Maria Holt Dr Salman Abu Sitta Ms Malia Bouattia",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:45.307091",
+    "extraction_method": "Playlist Video Page"
+  }
+}

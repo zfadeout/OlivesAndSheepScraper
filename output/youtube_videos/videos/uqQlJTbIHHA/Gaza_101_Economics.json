@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "uqQlJTbIHHA",
+    "title": "Gaza 101: Economics",
+    "href": "/watch?v=uqQlJTbIHHA",
+    "full_url": "https://www.youtube.com/watch?v=uqQlJTbIHHA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "185 views",
+    "view_count": "185 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Gaza 101: Economics",
+    "date": "Date Not Available",
+    "place": "Gaza Strip",
+    "topic": "General Documentation",
+    "description": "General Documentation - Gaza Strip",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:46.987817",
+    "extraction_method": "Playlist Video Page"
+  }
+}

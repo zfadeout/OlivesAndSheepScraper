@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "oWMxqYB_tww",
+    "title": "Planting Justice in Wadi a-Rahim, West Bank",
+    "href": "/watch?v=oWMxqYB_tww",
+    "full_url": "https://www.youtube.com/watch?v=oWMxqYB_tww",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "30 views",
+    "view_count": "30 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Planting Justice in Wadi a-Rahim, West Bank",
+    "date": "2025-01-06",
+    "place": "Hebron",
+    "topic": "Settlement Expansion",
+    "description": "Adam Rabea, head of RHR's Occupied Territories department, explains why we joined a Palestinian community in Wadi a-Rahim, South Hebron Hills, where together we planted 150 olive trees. This was one of few times the landowners could access their land in the past two years due to settler violence and military restrictions.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:16.841952",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "01T3jB4FN-w",
+    "title": "Fred's Daily Minute - July 10",
+    "href": "/watch?v=01T3jB4FN-w",
+    "full_url": "https://www.youtube.com/watch?v=01T3jB4FN-w",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "16 views",
+    "view_count": "16 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 10",
+    "date": "2020-07-10",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "Why is it OK for an Arab country to annex part of Palestine but not OK for a Jewish country to do the same thing?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:25.816456",
+    "extraction_method": "Playlist Video Page"
+  }
+}

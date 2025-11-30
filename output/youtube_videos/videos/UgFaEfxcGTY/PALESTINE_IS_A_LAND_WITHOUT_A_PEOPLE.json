@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "UgFaEfxcGTY",
+    "title": "PALESTINE IS A LAND WITHOUT A PEOPLE?",
+    "href": "/watch?v=UgFaEfxcGTY",
+    "full_url": "https://www.youtube.com/watch?v=UgFaEfxcGTY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "118 views",
+    "view_count": "118 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "PALESTINE IS A LAND WITHOUT A PEOPLE?",
+    "date": "2025-07-13",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "Dr Salman Abu Sitta, Key note speech, Barcelona University conference on Palestine, June 04, 2025, 9:30 am",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:31.510989",
+    "extraction_method": "Playlist Video Page"
+  }
+}

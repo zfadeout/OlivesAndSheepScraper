@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "l6PVyZYLH5s",
+    "title": "Angels of Death in Gaza",
+    "href": "/watch?v=l6PVyZYLH5s",
+    "full_url": "https://www.youtube.com/watch?v=l6PVyZYLH5s",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "719 views",
+    "view_count": "719 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Angels of Death in Gaza",
+    "date": "2021-11-29",
+    "place": "Gaza Strip",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "A live description by Dr. Salman Abu Sitta of what Palestinians in Gaza endure during constant Israeli bombardment.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:40.712705",
+    "extraction_method": "Playlist Video Page"
+  }
+}

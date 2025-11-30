@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "hPnMyedeTdI",
+    "title": "Raising women's voices on annexation",
+    "href": "/watch?v=hPnMyedeTdI",
+    "full_url": "https://www.youtube.com/watch?v=hPnMyedeTdI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "170 views",
+    "view_count": "170 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Raising women's voices on annexation",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:54.642024",
+    "extraction_method": "Playlist Video Page"
+  }
+}

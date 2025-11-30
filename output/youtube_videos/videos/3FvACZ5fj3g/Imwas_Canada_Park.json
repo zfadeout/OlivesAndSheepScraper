@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3FvACZ5fj3g",
+    "title": "Imwas / Canada Park",
+    "href": "/watch?v=3FvACZ5fj3g",
+    "full_url": "https://www.youtube.com/watch?v=3FvACZ5fj3g",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "559 views",
+    "view_count": "559 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Imwas / Canada Park",
+    "date": "2014-05-31",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Imwas / Canada Park 4Likes559Views2014May 31 … Zochrot 3.78K subscribers Facebook",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:20.452433",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "x3eAtuXk-6M",
+    "title": "\"Quand je suis ici, tout va bien\" - Marian Dau, à Kafr Bir'im",
+    "href": "/watch?v=x3eAtuXk-6M",
+    "full_url": "https://www.youtube.com/watch?v=x3eAtuXk-6M",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "302 views",
+    "view_count": "302 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "\"Quand je suis ici, tout va bien\" - Marian Dau, à Kafr Bir'im",
+    "date": "2014-09-12",
+    "place": "Aparicio",
+    "topic": "General Documentation",
+    "description": "Les habitants de Kafr Bir'im ont été expulsés en Novembre 1948. A l'été 2013, certains y sont retournés. Marian Dau (12 ans), nous montre le village and partage avec nous ses pensées. Filmé avec un téléphone portable, script et montage: Eitan Bronstein Aparicio Traduction en français: Eléonore Merza Septembre 2014 Zochrot",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:16.303845",
+    "extraction_method": "Playlist Video Page"
+  }
+}

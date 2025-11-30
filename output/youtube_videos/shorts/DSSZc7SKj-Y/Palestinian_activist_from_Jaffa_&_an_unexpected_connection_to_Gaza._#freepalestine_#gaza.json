@@ -1,0 +1,23 @@
+{
+  "video_identification": {
+    "video_id": "DSSZc7SKj-Y",
+    "title": "Palestinian activist from Jaffa & an unexpected connection to Gaza. #freepalestine #gaza",
+    "full_url": "https://www.youtube.com/shorts/DSSZc7SKj-Y",
+    "content_type": "shorts"
+  },
+  "basic_info": {
+    "duration": "Short Form",
+    "channel": "Zochrot",
+    "channel_url": "https://www.youtube.com/@Zochrot/shorts"
+  },
+  "extracted_metadata": {
+    "date": "2025-06-23",
+    "place": "Jaffa",
+    "topic": "Activism/Advocacy",
+    "description": "Yara Gharable's mother and Yara piece together their family history across generations and borders, leading to the emotional moment of realizing: “she really is our relative”.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "scraped_at": "2025-11-05T22:11:16.518738"
+  }
+}

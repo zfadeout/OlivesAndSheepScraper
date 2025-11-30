@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "DZ7CmbFEiyc",
+    "title": "סיור לכפר אלקבו Tour to al-Qabu village (القبو)",
+    "href": "/watch?v=DZ7CmbFEiyc",
+    "full_url": "https://www.youtube.com/watch?v=DZ7CmbFEiyc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "3.1K views",
+    "view_count": "3.1K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "סיור לכפר אלקבו Tour to al-Qabu village (القبو)",
+    "date": "2011-02-03",
+    "place": "Park",
+    "topic": "General Documentation",
+    "description": "סיור עמותת זוכרות לכפר אלקבו ההרוס (ירושליים), כיום הוא חלק מפרק בגין של הקק\"ל Tour to al-Qabu destroyed village, today it became JNF Begin Park جولة الى قرية القبو المهجرة- قضاء القدس. اليوم تحولت الى احراش تابعة لصندوق اسرائيل الجديد 22/1/2011",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:34.409418",
+    "extraction_method": "Playlist Video Page"
+  }
+}

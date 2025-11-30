@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "WNNTvWstUZs",
+    "title": "Fred's Daily Minute - July 28",
+    "href": "/watch?v=WNNTvWstUZs",
+    "full_url": "https://www.youtube.com/watch?v=WNNTvWstUZs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "34 views",
+    "view_count": "34 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 28",
+    "date": "2020-07-28",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Where were you when you were needed?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:23.468208",
+    "extraction_method": "Playlist Video Page"
+  }
+}

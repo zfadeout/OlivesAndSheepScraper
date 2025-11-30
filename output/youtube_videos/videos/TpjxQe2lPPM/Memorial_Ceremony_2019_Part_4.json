@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "TpjxQe2lPPM",
+    "title": "Memorial Ceremony 2019 Part 4",
+    "href": "/watch?v=TpjxQe2lPPM",
+    "full_url": "https://www.youtube.com/watch?v=TpjxQe2lPPM",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "17 views",
+    "view_count": "17 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Memorial Ceremony 2019 Part 4",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:56.139754",
+    "extraction_method": "Playlist Video Page"
+  }
+}

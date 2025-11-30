@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "7E9CrdQIdRg",
+    "title": "Palestinian Return Jewish accountability an online discussion",
+    "href": "/watch?v=7E9CrdQIdRg",
+    "full_url": "https://www.youtube.com/watch?v=7E9CrdQIdRg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "622 views",
+    "view_count": "622 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Palestinian Return Jewish accountability an online discussion",
+    "date": "2021-06-20",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "June 20th 2021, World Refugee Day Online panel With author Peter Beinart, Dr.Avi-ram Tzoreff & Inna Michaeli about different Jewish and Israeli communities and how they can take responsibility for the Nakba and support Palestinian right to return. Moderator: Dr. Munir Nusseibah",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:14.826914",
+    "extraction_method": "Playlist Video Page"
+  }
+}

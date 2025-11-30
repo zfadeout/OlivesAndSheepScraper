@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "OgbHBtPCrgg",
+    "title": "Visite du village d'al-Bassa - Zochrot",
+    "href": "/watch?v=OgbHBtPCrgg",
+    "full_url": "https://www.youtube.com/watch?v=OgbHBtPCrgg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "595 views",
+    "view_count": "595 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Visite du village d'al-Bassa - Zochrot",
+    "date": "2012-10-03",
+    "place": "Shlomi",
+    "topic": "Violence/Confrontation",
+    "description": "www.zochrot.org / zochrot al-Bassa Tour: The remains of al-Bassa are now located in the industrial area of Shlomi, a town in the western Galilee. Israeli authorities have demolished all the village's residential areas, and only a small number of buildings, partly ruined and abandoned, can still be seen. Our tour started in the square connecting Sandi Azoulay Road, or Route 899, with Rabbi Uziel Street in Shlomi. From the square headed north towards the industrial area, along a nameless street we have christened \"al-Bassa\". From the square to the Lebanese border, this street is a bit more than a mile long. From the street we could see the antennae on Mount al-Mushaqqah, which the al-Bassa refugees had to cross on their way to Lebanon as they fled the Haganah's attacking troops on May 14, 1948.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:27.728265",
+    "extraction_method": "Playlist Video Page"
+  }
+}

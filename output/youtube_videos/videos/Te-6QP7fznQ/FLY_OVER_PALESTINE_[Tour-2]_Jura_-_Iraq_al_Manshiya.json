@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Te-6QP7fznQ",
+    "title": "FLY OVER PALESTINE [Tour-2]: Jura - Iraq al Manshiya",
+    "href": "/watch?v=Te-6QP7fznQ",
+    "full_url": "https://www.youtube.com/watch?v=Te-6QP7fznQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.1K views",
+    "view_count": "1.1K views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-2]: Jura - Iraq al Manshiya",
+    "date": "2012-05-07",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "From: Al Jura Passing by: Al Majdal, Iraq Suwaydan, Al Faluja To: Iraq al Manshiyya Duration: 2 min 01 sec",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:04.326646",
+    "extraction_method": "Playlist Video Page"
+  }
+}

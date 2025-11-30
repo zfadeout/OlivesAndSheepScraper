@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "diBp3b-bq6A",
+    "title": "A short trailer of a tour with Umar Al-Ghubari to Lifta",
+    "href": "/watch?v=diBp3b-bq6A&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=diBp3b-bq6A&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "384 views",
+    "view_count": "384 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "A short trailer of a tour with Umar Al-Ghubari to Lifta",
+    "date": "2023-03-26",
+    "place": "Zochrot",
+    "topic": "Lifta, himself, his work at Zochrot and what he experiences everytime he is on a tour",
+    "description": "A short trailer of a tour with Umar Al-Ghubari to Lifta where he talks about Lifta, himself, his work at Zochrot and what he experiences everytime he is on a tour.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:12.663409",
+    "extraction_method": "Playlist Video Page"
+  }
+}

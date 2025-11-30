@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "44rqaBlsU_0",
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "href": "/watch?v=44rqaBlsU_0",
+    "full_url": "https://www.youtube.com/watch?v=44rqaBlsU_0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "34 views",
+    "view_count": "34 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "date": "2020-09-16",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "The Ottoman Era How did Muslims, Christians and Jews get along in Palestine during the Ottoman period?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:22.617920",
+    "extraction_method": "Playlist Video Page"
+  }
+}

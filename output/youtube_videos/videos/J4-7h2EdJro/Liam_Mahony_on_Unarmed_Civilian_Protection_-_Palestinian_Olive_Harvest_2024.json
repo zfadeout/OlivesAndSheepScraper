@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "J4-7h2EdJro",
+    "title": "Liam Mahony on Unarmed Civilian Protection - Palestinian Olive Harvest 2024",
+    "href": "/watch?v=J4-7h2EdJro",
+    "full_url": "https://www.youtube.com/watch?v=J4-7h2EdJro",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "83 views",
+    "view_count": "83 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Liam Mahony on Unarmed Civilian Protection - Palestinian Olive Harvest 2024",
+    "date": "2024-10-15",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Unarmed Civilian Protection - Liam Mahony, Senior Protection Adviser / NORCAP",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:17.476421",
+    "extraction_method": "Playlist Video Page"
+  }
+}

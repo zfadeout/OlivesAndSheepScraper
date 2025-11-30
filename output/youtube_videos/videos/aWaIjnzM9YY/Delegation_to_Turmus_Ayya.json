@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "aWaIjnzM9YY",
+    "title": "Delegation to Turmus Ayya",
+    "href": "/watch?v=aWaIjnzM9YY",
+    "full_url": "https://www.youtube.com/watch?v=aWaIjnzM9YY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "323 views",
+    "view_count": "323 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Delegation to Turmus Ayya",
+    "date": "2023-07-03",
+    "place": "West Bank",
+    "topic": "Settlement Expansion",
+    "description": "On 27th June a delegation from Rabbis for Human Rights visited the town of Turmus Aya after a horrific attack by Israeli settlers, which saw cars, homes, vehicles, trees and fields torched. Rabbis for Human Rights visited the family of Omar Qaten who was shot by the police as he attempted to evacuate injured people. We pledged our support to the people of Turmus Aya promised to stand with them during the planting and ploughing seasons. Every year along with our Palestinian partners, Rabbis for Human Rights plants trees in villages in the West Bank - cementing Palestinian connection to the land and planting justice where there is little. Support our work and plant a tree https://tree-rhr.org/",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:22.844390",
+    "extraction_method": "Playlist Video Page"
+  }
+}

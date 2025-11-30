@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "g7WbLi69EQ4",
+    "title": "Testimony by binyamin schnitzer, Palmach soldier // בנימין שניצר , חייל בפלמ\"ח",
+    "href": "/watch?v=g7WbLi69EQ4",
+    "full_url": "https://www.youtube.com/watch?v=g7WbLi69EQ4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "972 views",
+    "view_count": "972 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Testimony by binyamin schnitzer, Palmach soldier // בנימין שניצר , חייל בפלמ\"ח",
+    "date": "2018-06-16",
+    "place": "Schnitzer",
+    "topic": "Interview/Testimony",
+    "description": "עדותו של בנימין שניצר יליד 1928 לפני מלחמת 48, לחם במחלקה ב', פלוגה ב', בנען במהלך המלחמה, נלחם בחטיבת הראל בפלמ\"ח שפה: עברית עם כתוביות באנגלית ראיין: עמי אשר תאריך הראיון: יולי 2017, בת ים צילום ועריכה: הטלוויזיה החברתית شهادة بنيامين شنيتسر ولد عام1928 خلال الحرب ، حارب في لواء هرئيل - بلماح اللغة: العبرية مع ترجمة الى الإنجليزية اجرى المقابلة: عامي آشر تاريخ المقابلة: تمّوز 2017 المكان: بات يام تصوير ومونتاج: التلفزيون الإجتماعي Binyamin Schnitzer Born in 1928 Prior to the 48 war, fought in Platoon B, Company B, in Na`an During the war, fought in the Harel Brigade on the Palmach Language: Hebrew with English subtitles Interviewer: Ami Ashir July 2017, Bat Yam Filming and Editing: Social TV",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:29.350194",
+    "extraction_method": "Playlist Video Page"
+  }
+}

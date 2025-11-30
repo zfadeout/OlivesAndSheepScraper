@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "2iYyZRGqP5A",
+    "title": "Historic online Middle East railway tour",
+    "href": "/watch?v=2iYyZRGqP5A",
+    "full_url": "https://www.youtube.com/watch?v=2iYyZRGqP5A",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "367 views",
+    "view_count": "367 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Historic online Middle East railway tour",
+    "date": "2021-11-03",
+    "place": "Israel",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Words like ‘online’ and ‘historic’ may not usually go together when you think of a tour! But Green Olive has created this special online event to explore how war, religion, and economics have driven the development of trains in Israel, Palestine, Jordan and beyond. Nowhere else on the planet have railways connected three continents and been at the centre of such intense politics. At various points the story is driven by a desire to wage war and to pray for peace. It involves Arabs and Jews, South Africans and Turks, British and French. The tour covers it all; from the Ottoman era when the Middle East’s first railway linked Jaffa with Jerusalem and the Hejaz Express brought pilgrims to Islam’s holy cities; to British attempts to cross the Suez Canal and navigate the mountainous Lebanese coast; or even future plans to once again see international rail cross the Jordan and connect us to the Gulf. All aboard!",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:19.662689",
+    "extraction_method": "Playlist Video Page"
+  }
+}

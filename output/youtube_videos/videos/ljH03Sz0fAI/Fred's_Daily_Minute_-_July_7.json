@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ljH03Sz0fAI",
+    "title": "Fred's Daily Minute - July 7",
+    "href": "/watch?v=ljH03Sz0fAI",
+    "full_url": "https://www.youtube.com/watch?v=ljH03Sz0fAI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "21 views",
+    "view_count": "21 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 7",
+    "date": "2020-07-07",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "How are we going to fix Palestine & Israel?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:26.450322",
+    "extraction_method": "Playlist Video Page"
+  }
+}

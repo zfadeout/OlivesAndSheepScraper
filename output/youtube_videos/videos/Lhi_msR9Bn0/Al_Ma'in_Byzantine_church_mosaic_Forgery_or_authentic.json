@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Lhi_msR9Bn0",
+    "title": "Al Ma'in Byzantine church mosaic: Forgery or authentic?",
+    "href": "/watch?v=Lhi_msR9Bn0",
+    "full_url": "https://www.youtube.com/watch?v=Lhi_msR9Bn0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "53 views",
+    "view_count": "53 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Al Ma'in Byzantine church mosaic: Forgery or authentic?",
+    "date": "2019-09-16",
+    "place": "Byzantine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "What is a synagogue doing in the midst of Palestinian Christian region?",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:54.398215",
+    "extraction_method": "Playlist Video Page"
+  }
+}

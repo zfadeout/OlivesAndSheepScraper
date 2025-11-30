@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "l-jqrh2OffE",
+    "title": "English Video-04: The Geography of Occupation - Dr. Salman Abu Sitta",
+    "href": "/watch?v=l-jqrh2OffE",
+    "full_url": "https://www.youtube.com/watch?v=l-jqrh2OffE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "281 views",
+    "view_count": "281 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-04: The Geography of Occupation - Dr. Salman Abu Sitta",
+    "date": "2011-01-22",
+    "place": "Location Not Specified",
+    "topic": "Occupation",
+    "description": "Salman Abu Sitta: The Geography of Occupation. The story of al Nakba ethnic cleansing of 1948 by one of its survivors, the distinguished writer and researcher Salman Abu Sitta.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:08.346823",
+    "extraction_method": "Playlist Video Page"
+  }
+}

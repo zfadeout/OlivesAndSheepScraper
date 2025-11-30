@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "bpcAkR2Rri0",
+    "title": "Harvest in Yiddish",
+    "href": "/watch?v=bpcAkR2Rri0&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=bpcAkR2Rri0&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "319 views",
+    "view_count": "319 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Harvest in Yiddish",
+    "date": "2020-10-29",
+    "place": "Yiddish",
+    "topic": "Activism/Advocacy",
+    "description": "Ethel, a young volunteer and activist talks about the Olive Harvest (2020) in in Yiddish. The 2020 Olive Harvest continues!",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:25.981478",
+    "extraction_method": "Playlist Video Page"
+  }
+}

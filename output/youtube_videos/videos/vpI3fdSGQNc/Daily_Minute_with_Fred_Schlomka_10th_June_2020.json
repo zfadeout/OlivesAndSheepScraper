@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "vpI3fdSGQNc",
+    "title": "Daily Minute with Fred Schlomka 10th June 2020",
+    "href": "/watch?v=vpI3fdSGQNc",
+    "full_url": "https://www.youtube.com/watch?v=vpI3fdSGQNc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "5 views",
+    "view_count": "5 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 10th June 2020",
+    "date": "2020-06-10",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Israeli desecration of Muslim cemeteries",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:32.233582",
+    "extraction_method": "Playlist Video Page"
+  }
+}

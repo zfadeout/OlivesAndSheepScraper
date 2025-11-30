@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "9samx3z5UAY",
+    "title": "Fred's Daily Minute 4 July",
+    "href": "/watch?v=9samx3z5UAY",
+    "full_url": "https://www.youtube.com/watch?v=9samx3z5UAY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "15 views",
+    "view_count": "15 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute 4 July",
+    "date": "2020-07-04",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "Israel & Palestine - One State, two states, federation, con-federation or Union? Does it matter?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:26.869618",
+    "extraction_method": "Playlist Video Page"
+  }
+}

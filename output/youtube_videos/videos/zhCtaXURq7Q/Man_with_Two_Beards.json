@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "zhCtaXURq7Q",
+    "title": "Man with Two Beards",
+    "href": "/watch?v=zhCtaXURq7Q",
+    "full_url": "https://www.youtube.com/watch?v=zhCtaXURq7Q",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "97 views",
+    "view_count": "97 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Man with Two Beards",
+    "date": "2019-03-13",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Director: Amir Yatziv 4 min | 2015 | Heb & En subs A group of students received a collection of drawings taken from history textbooks of the two nations. The film presents the story composed by the children on the basis of these drawings.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:21.324392",
+    "extraction_method": "Playlist Video Page"
+  }
+}

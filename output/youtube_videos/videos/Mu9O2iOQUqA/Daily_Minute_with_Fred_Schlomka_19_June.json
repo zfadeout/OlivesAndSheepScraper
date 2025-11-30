@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Mu9O2iOQUqA",
+    "title": "Daily Minute with Fred Schlomka 19 June",
+    "href": "/watch?v=Mu9O2iOQUqA",
+    "full_url": "https://www.youtube.com/watch?v=Mu9O2iOQUqA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "12 views",
+    "view_count": "12 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 19 June",
+    "date": "2020-06-19",
+    "place": "Israel",
+    "topic": "Citizenship and denial of equal rights",
+    "description": "Citizenship and denial of equal rights in Israel & Palestine",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:30.506488",
+    "extraction_method": "Playlist Video Page"
+  }
+}

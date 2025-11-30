@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "JP5dWuQjJoU",
+    "title": "Daily Minute 15th June with Fred Schlomka",
+    "href": "/watch?v=JP5dWuQjJoU",
+    "full_url": "https://www.youtube.com/watch?v=JP5dWuQjJoU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "18 views",
+    "view_count": "18 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute 15th June with Fred Schlomka",
+    "date": "2020-06-15",
+    "place": "Israel",
+    "topic": "Concerning religion and marriage",
+    "description": "Concerning religion and marriage in Israel",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:31.370371",
+    "extraction_method": "Playlist Video Page"
+  }
+}

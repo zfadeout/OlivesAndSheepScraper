@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "c0AcIETa448",
+    "title": "Webinar: Unrooting the Jewish National Fund",
+    "href": "/watch?v=c0AcIETa448&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=c0AcIETa448&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "210 views",
+    "view_count": "210 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Webinar: Unrooting the Jewish National Fund",
+    "date": "2022-11-21",
+    "place": "Israel",
+    "topic": "Settlement Expansion",
+    "description": "On Sunday, November 20th 2022 the Green Olive Collective joined in conversation with human rights activists Maya Rosen and Daniel Roth, whose recent report shed light on the greenwashing tactics of the Jewish National Fund (JNF) and the way its deliberately opaque structure facilitates the expropriation of Palestinian land for Jewish settlement. The JNF owns the land where over half the population of the state of Israel lives. It is best known around the world for its forestation, tree planting, and environmental conservation efforts. This ethical image is contrasted by the central role the JNF plays in the ongoing dispossession of Palestinians on both sides of the Green Line.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:18.396833",
+    "extraction_method": "Playlist Video Page"
+  }
+}

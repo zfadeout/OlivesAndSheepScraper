@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "XFUyhYHg1s8",
+    "title": "FLY OVER PALESTINE [Tour-3]: Beit Affa - Bureir",
+    "href": "/watch?v=XFUyhYHg1s8",
+    "full_url": "https://www.youtube.com/watch?v=XFUyhYHg1s8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "363 views",
+    "view_count": "363 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-3]: Beit Affa - Bureir",
+    "date": "2012-05-08",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "From: Beit Affa Passing by: Kawkaba, Bayt Tima, Huleiqat To: Bureir Duration: 1 min 6 sec",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:04.110528",
+    "extraction_method": "Playlist Video Page"
+  }
+}

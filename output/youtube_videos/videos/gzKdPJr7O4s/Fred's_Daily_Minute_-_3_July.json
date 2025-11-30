@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "gzKdPJr7O4s",
+    "title": "Fred's Daily Minute - 3 July",
+    "href": "/watch?v=gzKdPJr7O4s&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=gzKdPJr7O4s&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "13 views",
+    "view_count": "13 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - 3 July",
+    "date": "2020-07-03",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "CoVid-19 and the USA meltdown",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:27.300497",
+    "extraction_method": "Playlist Video Page"
+  }
+}

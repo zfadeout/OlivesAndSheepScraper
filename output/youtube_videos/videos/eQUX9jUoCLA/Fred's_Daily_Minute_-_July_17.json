@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "eQUX9jUoCLA",
+    "title": "Fred's Daily Minute - July 17",
+    "href": "/watch?v=eQUX9jUoCLA",
+    "full_url": "https://www.youtube.com/watch?v=eQUX9jUoCLA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "28 views",
+    "view_count": "28 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 17",
+    "date": "2020-07-17",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "Is Israel a safe haven for the Jews?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:24.534067",
+    "extraction_method": "Playlist Video Page"
+  }
+}

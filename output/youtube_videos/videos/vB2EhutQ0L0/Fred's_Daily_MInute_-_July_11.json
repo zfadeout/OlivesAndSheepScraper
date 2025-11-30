@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "vB2EhutQ0L0",
+    "title": "Fred's Daily MInute - July 11",
+    "href": "/watch?v=vB2EhutQ0L0",
+    "full_url": "https://www.youtube.com/watch?v=vB2EhutQ0L0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "14 views",
+    "view_count": "14 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily MInute - July 11",
+    "date": "2020-07-12",
+    "place": "Israel",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Are words like 'genocide', 'ethnic cleansing' and 'Apartheid' too extreme to apply to Israel's treatment of Palestinians?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:25.614808",
+    "extraction_method": "Playlist Video Page"
+  }
+}

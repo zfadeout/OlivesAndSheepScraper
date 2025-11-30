@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "0SgGeRftIGE",
+    "title": "قرية لوبيا المهجرة | The destroy village of Lubya",
+    "href": "/watch?v=0SgGeRftIGE",
+    "full_url": "https://www.youtube.com/watch?v=0SgGeRftIGE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "747 views",
+    "view_count": "747 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "قرية لوبيا المهجرة | The destroy village of Lubya",
+    "date": "2018-10-03",
+    "place": "Lubya",
+    "topic": "Documentation/Investigation",
+    "description": "Lubya 1948 footages from Lubya tour | May, 2015 Zochrot More info https://zochrot.org/en/village/49244",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:23.240172",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3Gu2pmvObMI",
+    "title": "Daily Minute with Fred Schlomka 13 June 2020",
+    "href": "/watch?v=3Gu2pmvObMI&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=3Gu2pmvObMI&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "11 views",
+    "view_count": "11 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 13 June 2020",
+    "date": "2020-06-13",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Comments on online voting",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:31.800670",
+    "extraction_method": "Playlist Video Page"
+  }
+}

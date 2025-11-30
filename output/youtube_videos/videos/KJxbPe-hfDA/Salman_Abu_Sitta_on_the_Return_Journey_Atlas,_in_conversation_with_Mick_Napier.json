@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "KJxbPe-hfDA",
+    "title": "Salman Abu Sitta on the Return Journey Atlas, in conversation with Mick Napier",
+    "href": "/watch?v=KJxbPe-hfDA",
+    "full_url": "https://www.youtube.com/watch?v=KJxbPe-hfDA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "89 views",
+    "view_count": "89 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Salman Abu Sitta on the Return Journey Atlas, in conversation with Mick Napier",
+    "date": "2021-02-11",
+    "place": "Location Not Specified",
+    "topic": "Salman Abu Sitta on the Return Journey",
+    "description": "Salman Abu Sitta on the Return Journey Atlas In conversation with Mick Napier, Scottish PSC,Feb 6, 2021 02:00 PM London.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:44.053899",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "qna5CHoBf3c",
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "href": "/watch?v=qna5CHoBf3c",
+    "full_url": "https://www.youtube.com/watch?v=qna5CHoBf3c",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "34 views",
+    "view_count": "34 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "date": "2020-09-14",
+    "place": "Israel",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Israel/Palestine Conflict - Why is there a conflict between Israelis and Palestinians?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:22.840610",
+    "extraction_method": "Playlist Video Page"
+  }
+}

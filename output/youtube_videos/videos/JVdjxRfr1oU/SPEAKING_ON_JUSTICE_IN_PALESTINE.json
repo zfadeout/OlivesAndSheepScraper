@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "JVdjxRfr1oU",
+    "title": "SPEAKING ON JUSTICE IN PALESTINE",
+    "href": "/watch?v=JVdjxRfr1oU",
+    "full_url": "https://www.youtube.com/watch?v=JVdjxRfr1oU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "88 views",
+    "view_count": "88 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "SPEAKING ON JUSTICE IN PALESTINE",
+    "date": "2021-12-15",
+    "place": "Palestine",
+    "topic": "to students",
+    "description": "to students at University College London, Amnesty and SJP (Students for Justice in Palestine). Tuesday 14 December 2021, 5.00 pm UK time.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:40.482845",
+    "extraction_method": "Playlist Video Page"
+  }
+}

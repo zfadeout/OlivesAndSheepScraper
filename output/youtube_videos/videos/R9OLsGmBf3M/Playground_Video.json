@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "R9OLsGmBf3M",
+    "title": "Playground Video",
+    "href": "/watch?v=R9OLsGmBf3M",
+    "full_url": "https://www.youtube.com/watch?v=R9OLsGmBf3M",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "93 views",
+    "view_count": "93 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Playground Video",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Playground",
+    "description": "Playground - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:55.708821",
+    "extraction_method": "Playlist Video Page"
+  }
+}

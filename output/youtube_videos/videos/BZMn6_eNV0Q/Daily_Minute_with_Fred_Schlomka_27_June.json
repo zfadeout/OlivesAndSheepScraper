@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "BZMn6_eNV0Q",
+    "title": "Daily Minute with Fred Schlomka 27 June",
+    "href": "/watch?v=BZMn6_eNV0Q",
+    "full_url": "https://www.youtube.com/watch?v=BZMn6_eNV0Q",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "13 views",
+    "view_count": "13 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 27 June",
+    "date": "2020-06-27",
+    "place": "Location Not Specified",
+    "topic": "Home Demolition",
+    "description": "Home Demolitions, Oppression, & Annexation",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:28.568252",
+    "extraction_method": "Playlist Video Page"
+  }
+}

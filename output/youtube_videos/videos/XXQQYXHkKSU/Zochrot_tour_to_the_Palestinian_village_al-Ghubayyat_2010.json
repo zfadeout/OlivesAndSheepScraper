@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "XXQQYXHkKSU",
+    "title": "Zochrot tour to the Palestinian village \"al-Ghubayyat\" / 2010",
+    "href": "/watch?v=XXQQYXHkKSU",
+    "full_url": "https://www.youtube.com/watch?v=XXQQYXHkKSU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "575 views",
+    "view_count": "575 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Zochrot tour to the Palestinian village \"al-Ghubayyat\" / 2010",
+    "date": "2010-08-16",
+    "place": "Israeli",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Zochrot tour to the Palestinian village al-Ghubayyat Israeli occupation date: April 8, 1948 Location: 28 (km) South East of Haifa סיור זוכרות לכפר אלע'ביאת جولة جمعية ذاكرات الى قرى الغبيّات 3/2010 www.zochrot.org",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:36.483060",
+    "extraction_method": "Playlist Video Page"
+  }
+}

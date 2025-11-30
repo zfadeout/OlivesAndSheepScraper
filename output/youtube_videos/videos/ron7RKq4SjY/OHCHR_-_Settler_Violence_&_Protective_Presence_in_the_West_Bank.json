@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ron7RKq4SjY",
+    "title": "OHCHR - Settler Violence & Protective Presence in the West Bank",
+    "href": "/watch?v=ron7RKq4SjY&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=ron7RKq4SjY&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "52 views",
+    "view_count": "52 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "OHCHR - Settler Violence & Protective Presence in the West Bank",
+    "date": "2024-10-15",
+    "place": "West Bank",
+    "topic": "Settlement Expansion",
+    "description": "Settler Violence & Protective Presence in the West Bank; a view from the Office of the United Nations High Commissioner for Human Rights (OHCHR), Nicola Harrison & Ammar Imreizeiq",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:17.692849",
+    "extraction_method": "Playlist Video Page"
+  }
+}

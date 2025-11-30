@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "hwvAG_AkUPE",
+    "title": "Welcome Video Intro",
+    "href": "/watch?v=hwvAG_AkUPE",
+    "full_url": "https://www.youtube.com/watch?v=hwvAG_AkUPE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "73 views",
+    "view_count": "73 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Welcome Video Intro",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Welcome",
+    "description": "Welcome - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:53.143247",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "mjHq1L3faSc",
+    "title": "Year in Review 2021",
+    "href": "/watch?v=mjHq1L3faSc",
+    "full_url": "https://www.youtube.com/watch?v=mjHq1L3faSc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "32 views",
+    "view_count": "32 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Year in Review 2021",
+    "date": "Date Not Available",
+    "place": "Review",
+    "topic": "Year",
+    "description": "Year - Review",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:48.056097",
+    "extraction_method": "Playlist Video Page"
+  }
+}

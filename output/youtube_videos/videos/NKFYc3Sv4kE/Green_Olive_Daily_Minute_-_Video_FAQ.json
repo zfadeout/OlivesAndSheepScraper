@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "NKFYc3Sv4kE",
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "href": "/watch?v=NKFYc3Sv4kE",
+    "full_url": "https://www.youtube.com/watch?v=NKFYc3Sv4kE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "32 views",
+    "view_count": "32 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "date": "2020-09-17",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "The Ethnic State, Religion & Democracy Can Israel be both a democracy and a Jewish state?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:22.417039",
+    "extraction_method": "Playlist Video Page"
+  }
+}

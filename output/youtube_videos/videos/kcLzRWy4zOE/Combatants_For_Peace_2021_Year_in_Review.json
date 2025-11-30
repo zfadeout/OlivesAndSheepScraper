@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "kcLzRWy4zOE",
+    "title": "Combatants For Peace 2021 Year in Review",
+    "href": "/watch?v=kcLzRWy4zOE",
+    "full_url": "https://www.youtube.com/watch?v=kcLzRWy4zOE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "72 views",
+    "view_count": "72 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Combatants For Peace 2021 Year in Review",
+    "date": "Date Not Available",
+    "place": "Review",
+    "topic": "General Documentation",
+    "description": "General Documentation - Review",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:47.839360",
+    "extraction_method": "Playlist Video Page"
+  }
+}

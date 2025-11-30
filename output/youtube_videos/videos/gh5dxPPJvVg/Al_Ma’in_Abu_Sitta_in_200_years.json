@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "gh5dxPPJvVg",
+    "title": "Al Ma’in Abu Sitta in 200 years",
+    "href": "/watch?v=gh5dxPPJvVg",
+    "full_url": "https://www.youtube.com/watch?v=gh5dxPPJvVg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "111 views",
+    "view_count": "111 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Al Ma’in Abu Sitta in 200 years",
+    "date": "2024-11-25",
+    "place": "Gaza Strip",
+    "topic": "Refugees/Displacement",
+    "description": "Al Ma’in is the birthplace of Salman Abu Sitta. Here is its record for the last 200 years, including its destruction by Israel in 1948 and expelling the family of Abu Sitta, now refugees in Gaza Strip and the rest of the world. But their Right of Return is Sacred, Legal and Feasible. Al Ma’in will be rebuilt as shown here.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:33.235021",
+    "extraction_method": "Playlist Video Page"
+  }
+}

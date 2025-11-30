@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "nkLhLgD2OCQ",
+    "title": "English Video-10: Amsterdam remembers al Nakba, Abu Sitta speech",
+    "href": "/watch?v=nkLhLgD2OCQ",
+    "full_url": "https://www.youtube.com/watch?v=nkLhLgD2OCQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "85 views",
+    "view_count": "85 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-10: Amsterdam remembers al Nakba, Abu Sitta speech",
+    "date": "2013-05-28",
+    "place": "Amsterdam",
+    "topic": "Commemorating al al Nakba organized",
+    "description": "Commemorating al al Nakba organized in Amsterdam, Dr. Abu Sitta speaking, 12 May 2013",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:59.658639",
+    "extraction_method": "Playlist Video Page"
+  }
+}

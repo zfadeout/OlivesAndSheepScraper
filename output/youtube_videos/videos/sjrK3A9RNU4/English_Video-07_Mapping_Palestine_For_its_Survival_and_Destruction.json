@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "sjrK3A9RNU4",
+    "title": "English Video-07: Mapping Palestine For its Survival and Destruction",
+    "href": "/watch?v=sjrK3A9RNU4",
+    "full_url": "https://www.youtube.com/watch?v=sjrK3A9RNU4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "221 views",
+    "view_count": "221 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-07: Mapping Palestine For its Survival and Destruction",
+    "date": "2011-07-10",
+    "place": "Palestine",
+    "topic": "English",
+    "description": "Mapping Palestine For its Survival and Destruction, Jerusalem Fund, 26 April 2011,The Palestine Center,Washington, DC",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:06.416067",
+    "extraction_method": "Playlist Video Page"
+  }
+}

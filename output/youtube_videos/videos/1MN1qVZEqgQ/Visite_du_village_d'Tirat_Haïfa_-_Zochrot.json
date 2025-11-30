@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "1MN1qVZEqgQ",
+    "title": "Visite du village d'Tirat Haïfa - Zochrot",
+    "href": "/watch?v=1MN1qVZEqgQ",
+    "full_url": "https://www.youtube.com/watch?v=1MN1qVZEqgQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "550 views",
+    "view_count": "550 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Visite du village d'Tirat Haïfa - Zochrot",
+    "date": "2012-09-27",
+    "place": "Jenin",
+    "topic": "Refugees/Displacement",
+    "description": "www.zochrot.org / zochrot ____________________________________ We proceeded north on HaPalmach St. and turned right on HaCharuv St. After about 100m we arrived at a public park (to the right). This park was built over ruins of old village buildings, including an ancient mosque and the village public courtyard called al-Manzul. This was where the villagers were grouped by the occupying Israeli military in 1948, pushed on buses and expelled to the Jenin area.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:27.930869",
+    "extraction_method": "Playlist Video Page"
+  }
+}

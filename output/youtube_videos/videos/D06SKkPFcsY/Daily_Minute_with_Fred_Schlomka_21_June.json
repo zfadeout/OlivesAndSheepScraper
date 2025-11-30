@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "D06SKkPFcsY",
+    "title": "Daily Minute with Fred Schlomka 21 June",
+    "href": "/watch?v=D06SKkPFcsY",
+    "full_url": "https://www.youtube.com/watch?v=D06SKkPFcsY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "8 views",
+    "view_count": "8 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 21 June",
+    "date": "2020-06-23",
+    "place": "Israel",
+    "topic": "Peace Plans etc",
+    "description": "Peace Plans etc in Israel and Palestine",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:29.850401",
+    "extraction_method": "Playlist Video Page"
+  }
+}

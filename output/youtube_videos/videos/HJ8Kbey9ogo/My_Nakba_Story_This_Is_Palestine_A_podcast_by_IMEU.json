@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "HJ8Kbey9ogo",
+    "title": "My Nakba Story: This Is Palestine / A podcast by IMEU",
+    "href": "/watch?v=HJ8Kbey9ogo",
+    "full_url": "https://www.youtube.com/watch?v=HJ8Kbey9ogo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "316 views",
+    "view_count": "316 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "My Nakba Story: This Is Palestine / A podcast by IMEU",
+    "date": "2020-05-29",
+    "place": "Palestine",
+    "topic": "Refugees/Displacement",
+    "description": "Host Diana Buttu speaks with Salman Abu Sitta. A Palestinian researcher most known for his ground-breaking project mapping historic Palestine and developing a practical plan for implementing the right of return of Palestinian refugees. Salman Abu Sitta shares his family's Nakba story and what moving forward looks like.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:49.683560",
+    "extraction_method": "Playlist Video Page"
+  }
+}

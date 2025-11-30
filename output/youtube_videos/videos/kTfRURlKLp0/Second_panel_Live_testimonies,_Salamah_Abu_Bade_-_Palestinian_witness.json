@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "kTfRURlKLp0",
+    "title": "Second panel | Live testimonies, Salamah Abu Bade - Palestinian witness",
+    "href": "/watch?v=kTfRURlKLp0",
+    "full_url": "https://www.youtube.com/watch?v=kTfRURlKLp0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "210 views",
+    "view_count": "210 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Second panel | Live testimonies, Salamah Abu Bade - Palestinian witness",
+    "date": "2015-02-05",
+    "place": "Beersheba",
+    "topic": "Interview/Testimony",
+    "description": "Truth Commission on the Responsibility of Israeli Society for the Events of 1948-1960 in the South Public Event on Wednesday, December 10, 2014 in Beersheba / Bir al-Saba’ 10:00-19:00 Leonardo Hotel, 4 Henrietta Szold St. Beersheba Second panel | Live testimonies, Salamah Abu Bade - Palestinian witness",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:11.249377",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ucsjpuMfiCA",
+    "title": "סיור לכפר סבת Tour to Kafr Sabt village (كفرسبت)",
+    "href": "/watch?v=ucsjpuMfiCA",
+    "full_url": "https://www.youtube.com/watch?v=ucsjpuMfiCA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.1K views",
+    "view_count": "1.1K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "סיור לכפר סבת Tour to Kafr Sabt village (كفرسبت)",
+    "date": "2011-03-27",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "סיור עמותת זוכרות לכפר כפר סבת ההרוס (נפת טבריה) Tour to Kafr Sabt destroyed village جولة الى قرية كفرسبت المهجرة- قضاء طبريا. 19\\3\\2011",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:33.184733",
+    "extraction_method": "Playlist Video Page"
+  }
+}

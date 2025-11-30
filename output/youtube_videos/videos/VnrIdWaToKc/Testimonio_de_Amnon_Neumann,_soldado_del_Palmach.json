@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "VnrIdWaToKc",
+    "title": "Testimonio de Amnon Neumann, soldado del Palmach",
+    "href": "/watch?v=VnrIdWaToKc",
+    "full_url": "https://www.youtube.com/watch?v=VnrIdWaToKc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.2K views",
+    "view_count": "1.2K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Testimonio de Amnon Neumann, soldado del Palmach",
+    "date": "2012-01-23",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "www.zochrot.org Audiencia pública en Zochrot, Ibn Gvirol 61, Tel Aviv, 17 de Junio 2010. La audiencia reunió aproximádamente a veinte personas. Promovido y organizado por Amir Hallel. El testimonio fué grabado en video por Lia Tarachansky. Miri Barak realizó la transcripción. Eitan Bronstein editó, resumió y agregó notas al pie. Traducido por Yoko Vidal Carril",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:29.994013",
+    "extraction_method": "Playlist Video Page"
+  }
+}

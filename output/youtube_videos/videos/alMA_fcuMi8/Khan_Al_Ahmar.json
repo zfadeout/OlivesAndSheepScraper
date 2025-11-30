@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "alMA_fcuMi8",
+    "title": "Khan Al Ahmar",
+    "href": "/watch?v=alMA_fcuMi8",
+    "full_url": "https://www.youtube.com/watch?v=alMA_fcuMi8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "80 views",
+    "view_count": "80 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Khan Al Ahmar",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:52.739534",
+    "extraction_method": "Playlist Video Page"
+  }
+}

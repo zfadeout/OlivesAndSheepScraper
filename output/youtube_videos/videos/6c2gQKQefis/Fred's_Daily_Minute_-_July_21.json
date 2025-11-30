@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "6c2gQKQefis",
+    "title": "Fred's Daily Minute - July 21",
+    "href": "/watch?v=6c2gQKQefis",
+    "full_url": "https://www.youtube.com/watch?v=6c2gQKQefis",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "45 views",
+    "view_count": "45 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 21",
+    "date": "2020-07-21",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Are you ready to resist?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:23.900800",
+    "extraction_method": "Playlist Video Page"
+  }
+}

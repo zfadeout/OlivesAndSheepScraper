@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "zqfUNJD8oeA",
+    "title": "Films for Freedom: Israelism",
+    "href": "/watch?v=zqfUNJD8oeA",
+    "full_url": "https://www.youtube.com/watch?v=zqfUNJD8oeA",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "940 views",
+    "view_count": "940 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Films for Freedom: Israelism",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Palestinian-Israeli Conflict - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:39.901425",
+    "extraction_method": "Playlist Video Page"
+  }
+}

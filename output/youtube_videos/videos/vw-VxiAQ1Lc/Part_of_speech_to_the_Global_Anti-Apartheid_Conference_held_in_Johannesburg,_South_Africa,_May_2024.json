@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "vw-VxiAQ1Lc",
+    "title": "Part of speech to the Global Anti-Apartheid Conference held in Johannesburg, South Africa, May 2024",
+    "href": "/watch?v=vw-VxiAQ1Lc",
+    "full_url": "https://www.youtube.com/watch?v=vw-VxiAQ1Lc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "114 views",
+    "view_count": "114 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Part of speech to the Global Anti-Apartheid Conference held in Johannesburg, South Africa, May 2024",
+    "date": "2024-08-28",
+    "place": "Palestine",
+    "topic": "Arrest/Detention",
+    "description": "The following edited audio was prepared by Salman Abu Sitta as a speech to present to the Global Anti-Apartheid Conference on Palestine held in Johannesburg, South Africa on May 10-12, 2024. Credits to: \"If Americans Knew\", an independent research NGO with a focus on the Israeli-Palestinian issue.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:34.530646",
+    "extraction_method": "Playlist Video Page"
+  }
+}

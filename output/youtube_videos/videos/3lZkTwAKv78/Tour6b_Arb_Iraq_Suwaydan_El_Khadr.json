@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3lZkTwAKv78",
+    "title": "Tour6b Arb Iraq Suwaydan El Khadr",
+    "href": "/watch?v=3lZkTwAKv78",
+    "full_url": "https://www.youtube.com/watch?v=3lZkTwAKv78",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "30 views",
+    "view_count": "30 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Tour6b Arb Iraq Suwaydan El Khadr",
+    "date": "2012-10-24",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Tour6b Arb Iraq Suwaydan El Khadr 0Likes30Views2012Oct 24 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:00.293339",
+    "extraction_method": "Playlist Video Page"
+  }
+}

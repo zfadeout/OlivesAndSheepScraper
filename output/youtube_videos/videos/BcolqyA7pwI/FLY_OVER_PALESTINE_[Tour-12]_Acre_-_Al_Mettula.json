@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "BcolqyA7pwI",
+    "title": "FLY OVER PALESTINE [Tour-12]: Acre - Al Mettula",
+    "href": "/watch?v=BcolqyA7pwI",
+    "full_url": "https://www.youtube.com/watch?v=BcolqyA7pwI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "353 views",
+    "view_count": "353 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-12]: Acre - Al Mettula",
+    "date": "2012-06-11",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "FLY OVER PALESTINE [Tour-12]: Acre - Al Mettula 2Likes353Views2012Jun 11 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:01.992267",
+    "extraction_method": "Playlist Video Page"
+  }
+}

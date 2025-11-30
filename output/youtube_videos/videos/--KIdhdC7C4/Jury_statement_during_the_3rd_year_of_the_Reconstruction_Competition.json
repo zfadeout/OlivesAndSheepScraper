@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "--KIdhdC7C4",
+    "title": "Jury statement during the 3rd year of the Reconstruction Competition",
+    "href": "/watch?v=--KIdhdC7C4&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=--KIdhdC7C4&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "51 views",
+    "view_count": "51 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Jury statement during the 3rd year of the Reconstruction Competition",
+    "date": "2019-09-22",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Palestine Land Society: The Reconstruction of Destroyed Palestinian Villages Competition Year 3.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:54.196013",
+    "extraction_method": "Playlist Video Page"
+  }
+}

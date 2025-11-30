@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "4h7iPTIMhHk",
+    "title": "How the Southern Half of Palestine was lost to Israel and How Gaza Strip was created.",
+    "href": "/watch?v=4h7iPTIMhHk",
+    "full_url": "https://www.youtube.com/watch?v=4h7iPTIMhHk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "31 views",
+    "view_count": "31 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "How the Southern Half of Palestine was lost to Israel and How Gaza Strip was created.",
+    "date": "2025-07-29",
+    "place": "Gaza Strip",
+    "topic": "General Documentation",
+    "description": "How the Southern Half of Palestine was lost to Israel and How Gaza Strip was created, Now they are trying to eliminate it altogether.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:31.077461",
+    "extraction_method": "Playlist Video Page"
+  }
+}

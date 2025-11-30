@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3yonnRQKJX0",
+    "title": "Wadi al Ahmar",
+    "href": "/watch?v=3yonnRQKJX0",
+    "full_url": "https://www.youtube.com/watch?v=3yonnRQKJX0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "169 views",
+    "view_count": "169 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Wadi al Ahmar",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:52.320103",
+    "extraction_method": "Playlist Video Page"
+  }
+}

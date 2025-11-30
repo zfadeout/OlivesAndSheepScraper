@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "RFi-tG-1FV4",
+    "title": "Water Rights Campaign",
+    "href": "/watch?v=RFi-tG-1FV4",
+    "full_url": "https://www.youtube.com/watch?v=RFi-tG-1FV4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "102 views",
+    "view_count": "102 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Water Rights Campaign",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "Refugees/Displacement - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:48.474849",
+    "extraction_method": "Playlist Video Page"
+  }
+}

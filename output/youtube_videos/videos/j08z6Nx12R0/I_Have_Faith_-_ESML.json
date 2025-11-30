@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "j08z6Nx12R0",
+    "title": "\"I Have Faith\" - ESML",
+    "href": "/watch?v=j08z6Nx12R0",
+    "full_url": "https://www.youtube.com/watch?v=j08z6Nx12R0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "457 views",
+    "view_count": "457 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "\"I Have Faith\" - ESML",
+    "date": "2019-10-26",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "\" I have faith \", (3min). Concluding remarks of my Edward Said Memorial Lecture. Adelaide, Australia, 5 October 2019.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:52.913514",
+    "extraction_method": "Playlist Video Page"
+  }
+}

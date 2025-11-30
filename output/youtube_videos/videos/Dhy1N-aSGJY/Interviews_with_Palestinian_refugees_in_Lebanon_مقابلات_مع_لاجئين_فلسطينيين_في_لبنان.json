@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Dhy1N-aSGJY",
+    "title": "Interviews with Palestinian refugees in Lebanon / مقابلات مع لاجئين فلسطينيين في لبنان",
+    "href": "/watch?v=Dhy1N-aSGJY",
+    "full_url": "https://www.youtube.com/watch?v=Dhy1N-aSGJY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "5.5K views",
+    "view_count": "5.5K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Interviews with Palestinian refugees in Lebanon / مقابلات مع لاجئين فلسطينيين في لبنان",
+    "date": "2017-07-04",
+    "place": "Palestine",
+    "topic": "Refugees/Displacement",
+    "description": "Nakba archive 2008 by Diana Allan (short version) Interviewers: ISMAIL SHAMMOUT Year of birth: 1923 From: Lydda, District of Ramla, Palestine Residence in Lebanon: Ein el-Hilweh Refugee Camp MERIAM OTHMAN Year of birth: 1937 From:Husseiniyeh, District of Safad, Palestine Residence in Lebanon: Burj al-Shamali Refugee Camp GEORGE FARAJ Year of birth: 1924 From: Jerusalem, District of Palestine Residence in Lebanon: Beirut more about the project: http://nakba-archive.org/",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:36.505787",
+    "extraction_method": "Playlist Video Page"
+  }
+}

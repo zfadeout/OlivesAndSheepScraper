@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "VYrEoJVGTAg",
+    "title": "DOCUMENTING PALESTINE",
+    "href": "/watch?v=VYrEoJVGTAg",
+    "full_url": "https://www.youtube.com/watch?v=VYrEoJVGTAg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "72 views",
+    "view_count": "72 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "DOCUMENTING PALESTINE",
+    "date": "2025-05-26",
+    "place": "Palestine",
+    "topic": "Documentary/Investigation",
+    "description": "Palestine Land Society Dr. Salman Abu Sitta. Review of 38- Atlases, Books and Maps. Documenting Palestine in 200 years.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:32.155453",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "WEvg4yRBrk0",
+    "title": "Jerusalem Interfaith Webinar! Israeli and Palestinian religious leaders unite for PEACE",
+    "href": "/watch?v=WEvg4yRBrk0",
+    "full_url": "https://www.youtube.com/watch?v=WEvg4yRBrk0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "32 views",
+    "view_count": "32 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Jerusalem Interfaith Webinar! Israeli and Palestinian religious leaders unite for PEACE",
+    "date": "2024-07-28",
+    "place": "Jerusalem",
+    "topic": "Protest/Demonstration",
+    "description": "A follow up webinar to our 2024 interfaith march for human rights and peace, which took place in Jerusalem in June, 2024. Speakers include: David Goren, Jonathan Khuttab, Ghadir Hani, Rabanit Leah Shakdiel.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:18.126026",
+    "extraction_method": "Playlist Video Page"
+  }
+}

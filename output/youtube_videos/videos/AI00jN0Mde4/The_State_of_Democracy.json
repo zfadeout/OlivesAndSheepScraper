@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "AI00jN0Mde4",
+    "title": "The State of Democracy",
+    "href": "/watch?v=AI00jN0Mde4",
+    "full_url": "https://www.youtube.com/watch?v=AI00jN0Mde4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "159 views",
+    "view_count": "159 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "The State of Democracy",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:54.209128",
+    "extraction_method": "Playlist Video Page"
+  }
+}

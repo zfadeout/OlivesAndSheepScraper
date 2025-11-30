@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ldEIyjw9hhU",
+    "title": "Holding on to Humanity & Hope - Combatants for Peace",
+    "href": "/watch?v=ldEIyjw9hhU",
+    "full_url": "https://www.youtube.com/watch?v=ldEIyjw9hhU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "5.6K views",
+    "view_count": "5.6K views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Holding on to Humanity & Hope - Combatants for Peace",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:41.445106",
+    "extraction_method": "Playlist Video Page"
+  }
+}

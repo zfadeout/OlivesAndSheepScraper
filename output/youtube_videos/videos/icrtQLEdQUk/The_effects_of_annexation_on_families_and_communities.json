@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "icrtQLEdQUk",
+    "title": "The effects of annexation on families and communities",
+    "href": "/watch?v=icrtQLEdQUk",
+    "full_url": "https://www.youtube.com/watch?v=icrtQLEdQUk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "145 views",
+    "view_count": "145 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "The effects of annexation on families and communities",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:55.275049",
+    "extraction_method": "Playlist Video Page"
+  }
+}

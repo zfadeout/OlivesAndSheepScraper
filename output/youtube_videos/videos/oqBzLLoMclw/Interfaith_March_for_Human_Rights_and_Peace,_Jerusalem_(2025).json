@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "oqBzLLoMclw",
+    "title": "Interfaith March for Human Rights and Peace, Jerusalem (2025)",
+    "href": "/watch?v=oqBzLLoMclw",
+    "full_url": "https://www.youtube.com/watch?v=oqBzLLoMclw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "218 views",
+    "view_count": "218 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Interfaith March for Human Rights and Peace, Jerusalem (2025)",
+    "date": "2025-06-04",
+    "place": "Location Not Specified",
+    "topic": "Protest/Demonstration",
+    "description": "نطالب بحقوق الإنسان. نؤمن بالسلام. צועדים יחד. קוראים לזכויות אדם. מאמינים בשלום. Marching together. Calling for human rights. Believing in peace.",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:14.953936",
+    "extraction_method": "Playlist Video Page"
+  }
+}

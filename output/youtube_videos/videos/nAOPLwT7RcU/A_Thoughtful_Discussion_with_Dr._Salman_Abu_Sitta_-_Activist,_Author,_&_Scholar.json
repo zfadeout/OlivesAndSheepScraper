@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "nAOPLwT7RcU",
+    "title": "A Thoughtful Discussion with Dr. Salman Abu Sitta - Activist, Author, & Scholar",
+    "href": "/watch?v=nAOPLwT7RcU",
+    "full_url": "https://www.youtube.com/watch?v=nAOPLwT7RcU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "133 views",
+    "view_count": "133 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "A Thoughtful Discussion with Dr. Salman Abu Sitta - Activist, Author, & Scholar",
+    "date": "2024-08-19",
+    "place": "Palestine",
+    "topic": "The zoom recording",
+    "description": "The zoom recording from LIZerature's meeting with Dr. Salman Abu Sitta, Founder and President of the Palestine Land Society and his daughter, Rania.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:35.397127",
+    "extraction_method": "Playlist Video Page"
+  }
+}

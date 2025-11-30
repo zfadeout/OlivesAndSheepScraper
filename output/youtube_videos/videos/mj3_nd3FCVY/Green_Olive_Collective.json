@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "mj3_nd3FCVY",
+    "title": "Green Olive Collective",
+    "href": "/watch?v=mj3_nd3FCVY",
+    "full_url": "https://www.youtube.com/watch?v=mj3_nd3FCVY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "930 views",
+    "view_count": "930 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Collective",
+    "date": "2020-04-06",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Transcript Follow along using the transcript. Show transcript",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:33.760371",
+    "extraction_method": "Playlist Video Page"
+  }
+}

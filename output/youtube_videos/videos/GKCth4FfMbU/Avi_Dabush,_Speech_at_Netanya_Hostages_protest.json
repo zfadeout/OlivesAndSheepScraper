@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "GKCth4FfMbU",
+    "title": "Avi Dabush, Speech at Netanya Hostages protest",
+    "href": "/watch?v=GKCth4FfMbU",
+    "full_url": "https://www.youtube.com/watch?v=GKCth4FfMbU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "30 views",
+    "view_count": "30 views",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "extracted_metadata": {
+    "title": "Avi Dabush, Speech at Netanya Hostages protest",
+    "date": "2024-06-27",
+    "place": "Netanya",
+    "topic": "Human Rights",
+    "description": "Transcript Follow along using the transcript. Show transcript רבנים לזכויות אדם | Rabbis for Human Rights 147 subscribers",
+    "channel": "rabbisforhumanrights4516"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:22:18.977044",
+    "extraction_method": "Playlist Video Page"
+  }
+}

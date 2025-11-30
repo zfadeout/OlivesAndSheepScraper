@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "v3gx4lS9kKE",
+    "title": "FLY OVER PALESTINE [Tour-6]: Haifa - Hittin",
+    "href": "/watch?v=v3gx4lS9kKE",
+    "full_url": "https://www.youtube.com/watch?v=v3gx4lS9kKE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "475 views",
+    "view_count": "475 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-6]: Haifa - Hittin",
+    "date": "2012-05-08",
+    "place": "Duration",
+    "topic": "General Documentation",
+    "description": "From: Haifa Passing by: Nesher, Bayt Lahm, Malul, Nazareth, Kafr Kanna, Nimrin To: Hittin Duration: 3 min 17 sec",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:03.259854",
+    "extraction_method": "Playlist Video Page"
+  }
+}

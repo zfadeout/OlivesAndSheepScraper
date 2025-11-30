@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Ic6Cfggnt2M",
+    "title": "RESTORING PALESTINE: 2000 Years of Mapping",
+    "href": "/watch?v=Ic6Cfggnt2M",
+    "full_url": "https://www.youtube.com/watch?v=Ic6Cfggnt2M",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "633 views",
+    "view_count": "633 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "RESTORING PALESTINE: 2000 Years of Mapping",
+    "date": "2020-11-21",
+    "place": "Palestine",
+    "topic": "Documentation/Investigation",
+    "description": "Inaugural lecture by Dr. Salman Abu Sitta on the foundation of Palestine Land Studies Center (PLSC) at AUB for the documentation and study of Palestine’s Land and People. The center will conduct research projects and assist undergraduate students and graduates for their MSc and Ph.D. degrees in addition to holding conferences and seminars. The research is assisted by 10,000 items in ABUSITTA ARCHIVES.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:44.875785",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "22UbP7U-o1w",
+    "title": "Dr. Salman Abu Sitta in \"Makdisi Street\"",
+    "href": "/watch?v=22UbP7U-o1w",
+    "full_url": "https://www.youtube.com/watch?v=22UbP7U-o1w",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "334 views",
+    "view_count": "334 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Dr. Salman Abu Sitta in \"Makdisi Street\"",
+    "date": "2024-02-10",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "The brothers welcome to the show the preeminent scholar and Nakba survivor Dr. Salman Abu Sitta to discuss his personal journey after 1948, the relative simplicity of implementing UN resolution 194 for Palestinians to return to their lands, and his high hopes for younger generations.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:36.448891",
+    "extraction_method": "Playlist Video Page"
+  }
+}

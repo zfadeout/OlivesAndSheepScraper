@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "9_V74mKe_0Y",
+    "title": "There Is Another Way: Exclusive Virtual Screening & Conversation",
+    "href": "/watch?v=9_V74mKe_0Y",
+    "full_url": "https://www.youtube.com/watch?v=9_V74mKe_0Y",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "415 views",
+    "view_count": "415 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "There Is Another Way: Exclusive Virtual Screening & Conversation",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:38.184740",
+    "extraction_method": "Playlist Video Page"
+  }
+}

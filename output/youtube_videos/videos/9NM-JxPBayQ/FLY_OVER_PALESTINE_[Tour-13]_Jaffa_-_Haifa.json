@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "9NM-JxPBayQ",
+    "title": "FLY OVER PALESTINE [Tour-13]: Jaffa - Haifa",
+    "href": "/watch?v=9NM-JxPBayQ",
+    "full_url": "https://www.youtube.com/watch?v=9NM-JxPBayQ",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "958 views",
+    "view_count": "958 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-13]: Jaffa - Haifa",
+    "date": "2012-06-11",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "FLY OVER PALESTINE [Tour-13]: Jaffa - Haifa 9Likes958Views2012Jun 11 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:01.776164",
+    "extraction_method": "Playlist Video Page"
+  }
+}

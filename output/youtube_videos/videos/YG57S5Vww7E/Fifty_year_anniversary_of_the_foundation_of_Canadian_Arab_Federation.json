@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "YG57S5Vww7E",
+    "title": "Fifty year anniversary of the foundation of Canadian Arab Federation",
+    "href": "/watch?v=YG57S5Vww7E",
+    "full_url": "https://www.youtube.com/watch?v=YG57S5Vww7E",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "28 views",
+    "view_count": "28 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Fifty year anniversary of the foundation of Canadian Arab Federation",
+    "date": "2018-12-30",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Transcript Follow along using the transcript. Show transcript PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:59.011891",
+    "extraction_method": "Playlist Video Page"
+  }
+}

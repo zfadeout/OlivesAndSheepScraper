@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3-paXif2Odo",
+    "title": "FLY OVER PALESTINE [Tour-8]: Bani Suheila - Qdeirat",
+    "href": "/watch?v=3-paXif2Odo",
+    "full_url": "https://www.youtube.com/watch?v=3-paXif2Odo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "326 views",
+    "view_count": "326 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-8]: Bani Suheila - Qdeirat",
+    "date": "2012-05-09",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "From: Bani Suheila Passing by: Abasan el Saghir, Abu Sitteh/Ghawali, Franji, Bdinat, Karkur To: Qdeirat(BS) Duration: 3 min 47 sec",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:03.043162",
+    "extraction_method": "Playlist Video Page"
+  }
+}

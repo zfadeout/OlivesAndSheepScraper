@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "V_aWBeYq8mY",
+    "title": "Zochrot tour of al-Kafryn זוכרות סיור באל כפרין",
+    "href": "/watch?v=V_aWBeYq8mY",
+    "full_url": "https://www.youtube.com/watch?v=V_aWBeYq8mY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "639 views",
+    "view_count": "639 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Zochrot tour of al-Kafryn זוכרות סיור באל כפרין",
+    "date": "2009-09-16",
+    "place": "Jenin",
+    "topic": "Violence/Confrontation",
+    "description": "Al-Kafrayn is located on the Carmel mountains, south-east of Haifa. On April 12th Etzel units attacked the village, which was found empty of its inhabitants, and on the same day they bombed 30 houses. The village refugees are dispersed today, among them some in Jenin refugee camps, awaiting their return. Arabic and Hebrew w/English subtitles Filming and Editing: Zochrot 2007",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:39.822342",
+    "extraction_method": "Playlist Video Page"
+  }
+}

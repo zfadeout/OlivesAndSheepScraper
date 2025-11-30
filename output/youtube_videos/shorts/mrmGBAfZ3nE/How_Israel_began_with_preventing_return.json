@@ -1,0 +1,23 @@
+{
+  "video_identification": {
+    "video_id": "mrmGBAfZ3nE",
+    "title": "How Israel began with preventing return",
+    "full_url": "https://www.youtube.com/shorts/mrmGBAfZ3nE",
+    "content_type": "shorts"
+  },
+  "basic_info": {
+    "duration": "Short Form",
+    "channel": "Zochrot",
+    "channel_url": "https://www.youtube.com/@Zochrot/shorts"
+  },
+  "extracted_metadata": {
+    "date": "2025-07-29",
+    "place": "Palestinian",
+    "topic": "Refugees/Displacement",
+    "description": "Even in the midst of war in 1948, Israeli forces were focused not only on fighting, but on ensuring that Palestinian refugees would never return. An intelligence report from June 1948 found that over 70% of Palestinians fled due to actions by Zionist armed groups, not because of calls from Arab leaders. At the same time, a Transfer Committee was already planning how to make their displacement permanent.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "scraped_at": "2025-11-05T22:11:16.517749"
+  }
+}

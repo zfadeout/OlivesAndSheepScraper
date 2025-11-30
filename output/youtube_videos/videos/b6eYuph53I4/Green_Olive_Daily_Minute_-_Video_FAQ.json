@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "b6eYuph53I4",
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "href": "/watch?v=b6eYuph53I4",
+    "full_url": "https://www.youtube.com/watch?v=b6eYuph53I4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "41 views",
+    "view_count": "41 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ",
+    "date": "2020-09-20",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "What was the 1st Intifada",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:22.215050",
+    "extraction_method": "Playlist Video Page"
+  }
+}

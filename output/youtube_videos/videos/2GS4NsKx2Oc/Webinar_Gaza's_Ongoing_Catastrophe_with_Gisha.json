@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "2GS4NsKx2Oc",
+    "title": "Webinar: Gaza's Ongoing Catastrophe with Gisha",
+    "href": "/watch?v=2GS4NsKx2Oc",
+    "full_url": "https://www.youtube.com/watch?v=2GS4NsKx2Oc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "332 views",
+    "view_count": "332 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Webinar: Gaza's Ongoing Catastrophe with Gisha",
+    "date": "2023-07-02",
+    "place": "Gaza Strip",
+    "topic": "Violence/Confrontation",
+    "description": "On Sunday, July 2nd of 223 the Green Olive Collective joined with Gisha for a webinar discussing the ways Israeli policy has created an ongoing humanitarian and political catastrophe. Gaza is frequently referred to as the largest prison in the world and has been under closure since 2007. With almost annual military assaults by Israel and a near total ban on international observers, it is more important than ever for all of us to educate ourselves and bear witness to the systems of violence that permeate daily life in Gaza. We spoke with Ma'ayan Cohen, Dor Chavoinik, and Mohammed Azaiza, Gisha's Field Coordinator in Gaza, about the reality in Gaza.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:16.726931",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "-8Rxd_HOhgA",
+    "title": "Gaza 101: Politics",
+    "href": "/watch?v=-8Rxd_HOhgA&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=-8Rxd_HOhgA&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "362 views",
+    "view_count": "362 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Gaza 101: Politics",
+    "date": "Date Not Available",
+    "place": "Gaza Strip",
+    "topic": "General Documentation",
+    "description": "General Documentation - Gaza Strip",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:46.778252",
+    "extraction_method": "Playlist Video Page"
+  }
+}

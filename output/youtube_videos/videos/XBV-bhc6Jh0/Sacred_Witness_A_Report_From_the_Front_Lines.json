@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "XBV-bhc6Jh0",
+    "title": "Sacred Witness: A Report From the Front Lines",
+    "href": "/watch?v=XBV-bhc6Jh0",
+    "full_url": "https://www.youtube.com/watch?v=XBV-bhc6Jh0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "282 views",
+    "view_count": "282 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Sacred Witness: A Report From the Front Lines",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Interview/Testimony",
+    "description": "Interview/Testimony - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:38.386023",
+    "extraction_method": "Playlist Video Page"
+  }
+}

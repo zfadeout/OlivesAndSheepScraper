@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "MFiU5uGp5bU",
+    "title": "Shortlisted Statements during the 3rd year of the Reconstruction Competition",
+    "href": "/watch?v=MFiU5uGp5bU",
+    "full_url": "https://www.youtube.com/watch?v=MFiU5uGp5bU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "39 views",
+    "view_count": "39 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Shortlisted Statements during the 3rd year of the Reconstruction Competition",
+    "date": "2019-09-22",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Palestine Land Society: The Reconstruction of Destroyed Palestinian Villages Competition Year 3.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:53.979500",
+    "extraction_method": "Playlist Video Page"
+  }
+}

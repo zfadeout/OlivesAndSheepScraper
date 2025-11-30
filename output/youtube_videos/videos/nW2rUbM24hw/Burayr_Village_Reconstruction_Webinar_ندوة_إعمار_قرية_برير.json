@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "nW2rUbM24hw",
+    "title": "Burayr Village Reconstruction Webinar ندوة إعمار قرية برير",
+    "href": "/watch?v=nW2rUbM24hw",
+    "full_url": "https://www.youtube.com/watch?v=nW2rUbM24hw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "216 views",
+    "view_count": "216 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Burayr Village Reconstruction Webinar ندوة إعمار قرية برير",
+    "date": "2020-11-18",
+    "place": "Location Not Specified",
+    "topic": "Infrastructure/Construction",
+    "description": "ندوة عبر الإنترنت لإعادة إعمار قرية بريرهي لقاء افتراضي يستضيفه الدكتور سلمان أبو ستة (جمعية أرض فلسطين) لمناقشة المشروع المعماري الفائز \"إعادة إحياء قرية معلول المهجرة\". تم عرض و شرح المشاريع بالتفصيل من قبل الطلاب الفائزين.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:45.092106",
+    "extraction_method": "Playlist Video Page"
+  }
+}

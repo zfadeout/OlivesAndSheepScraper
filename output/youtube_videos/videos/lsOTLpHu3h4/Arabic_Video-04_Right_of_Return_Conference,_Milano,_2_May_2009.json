@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "lsOTLpHu3h4",
+    "title": "Arabic Video-04: Right of Return Conference, Milano, 2 May 2009",
+    "href": "/watch?v=lsOTLpHu3h4",
+    "full_url": "https://www.youtube.com/watch?v=lsOTLpHu3h4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "100 views",
+    "view_count": "100 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Arabic Video-04: Right of Return Conference, Milano, 2 May 2009",
+    "date": "2011-07-12",
+    "place": "Location Not Specified",
+    "topic": "Arabic",
+    "description": "Al Hiwar TV Right of Return Conference - Dr. Salman Abu Sitta Milano, 2 May 2009.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:05.377760",
+    "extraction_method": "Playlist Video Page"
+  }
+}

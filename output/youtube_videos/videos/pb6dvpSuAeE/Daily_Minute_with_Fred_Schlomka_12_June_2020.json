@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "pb6dvpSuAeE",
+    "title": "Daily Minute with Fred Schlomka 12 June 2020",
+    "href": "/watch?v=pb6dvpSuAeE",
+    "full_url": "https://www.youtube.com/watch?v=pb6dvpSuAeE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "12 views",
+    "view_count": "12 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 12 June 2020",
+    "date": "2020-06-12",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Transcript Follow along using the transcript. Show transcript",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:32.018717",
+    "extraction_method": "Playlist Video Page"
+  }
+}

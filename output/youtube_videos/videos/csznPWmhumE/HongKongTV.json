@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "csznPWmhumE",
+    "title": "HongKongTV",
+    "href": "/watch?v=csznPWmhumE",
+    "full_url": "https://www.youtube.com/watch?v=csznPWmhumE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "100 views",
+    "view_count": "100 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "HongKongTV",
+    "date": "2019-05-31",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "Hong Kong TV spend several days exploring occupied Palestine with Green Olive Partners.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:34.828809",
+    "extraction_method": "Playlist Video Page"
+  }
+}

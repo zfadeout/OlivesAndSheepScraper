@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "FOaKKhpKRXE",
+    "title": "Daily Minute Schlomka with Fred 23 June",
+    "href": "/watch?v=FOaKKhpKRXE",
+    "full_url": "https://www.youtube.com/watch?v=FOaKKhpKRXE",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "15 views",
+    "view_count": "15 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute Schlomka with Fred 23 June",
+    "date": "2020-06-23",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Transcript Follow along using the transcript. Show transcript",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:29.431569",
+    "extraction_method": "Playlist Video Page"
+  }
+}

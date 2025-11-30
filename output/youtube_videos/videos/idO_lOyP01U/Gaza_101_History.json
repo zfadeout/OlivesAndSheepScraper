@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "idO_lOyP01U",
+    "title": "Gaza 101: History",
+    "href": "/watch?v=idO_lOyP01U",
+    "full_url": "https://www.youtube.com/watch?v=idO_lOyP01U",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "514 views",
+    "view_count": "514 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Gaza 101: History",
+    "date": "Date Not Available",
+    "place": "Gaza Strip",
+    "topic": "General Documentation",
+    "description": "General Documentation - Gaza Strip",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:46.571763",
+    "extraction_method": "Playlist Video Page"
+  }
+}

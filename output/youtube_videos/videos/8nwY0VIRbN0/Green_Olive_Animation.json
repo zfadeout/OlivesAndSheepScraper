@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "8nwY0VIRbN0",
+    "title": "Green Olive Animation",
+    "href": "/watch?v=8nwY0VIRbN0",
+    "full_url": "https://www.youtube.com/watch?v=8nwY0VIRbN0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "87 views",
+    "view_count": "87 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Animation",
+    "date": "2019-09-08",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "Short animated video describing Green Olive Tours and the 2019 equity crowdfunding campaign",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:34.396600",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Tn367mrlvzM",
+    "title": "Nakba Ceremony Promotional Clip",
+    "href": "/watch?v=Tn367mrlvzM&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=Tn367mrlvzM&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "118 views",
+    "view_count": "118 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Nakba Ceremony Promotional Clip",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:50.160446",
+    "extraction_method": "Playlist Video Page"
+  }
+}

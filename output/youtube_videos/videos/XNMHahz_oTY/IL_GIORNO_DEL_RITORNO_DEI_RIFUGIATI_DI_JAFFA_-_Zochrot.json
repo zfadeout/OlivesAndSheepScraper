@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "XNMHahz_oTY",
+    "title": "\"IL GIORNO DEL RITORNO DEI RIFUGIATI DI JAFFA\" - Zochrot",
+    "href": "/watch?v=XNMHahz_oTY",
+    "full_url": "https://www.youtube.com/watch?v=XNMHahz_oTY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "273 views",
+    "view_count": "273 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "\"IL GIORNO DEL RITORNO DEI RIFUGIATI DI JAFFA\" - Zochrot",
+    "date": "2010-05-12",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "\"IL GIORNO DEL RITORNO DEI RIFUGIATI DI JAFFA\" www.zochrot.org",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:36.901143",
+    "extraction_method": "Playlist Video Page"
+  }
+}

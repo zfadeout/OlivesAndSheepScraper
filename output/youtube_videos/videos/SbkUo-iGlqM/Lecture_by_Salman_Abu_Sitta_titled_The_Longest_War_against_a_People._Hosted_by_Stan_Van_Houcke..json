@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "SbkUo-iGlqM",
+    "title": "Lecture by Salman Abu Sitta titled: The Longest War against a People. Hosted by Stan Van Houcke.",
+    "href": "/watch?v=SbkUo-iGlqM",
+    "full_url": "https://www.youtube.com/watch?v=SbkUo-iGlqM",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "77 views",
+    "view_count": "77 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Lecture by Salman Abu Sitta titled: The Longest War against a People. Hosted by Stan Van Houcke.",
+    "date": "2021-05-04",
+    "place": "Location Not Specified",
+    "topic": "Interview/Testimony",
+    "description": "Lecture by and interview with the Palestinian scholar Salman Abu Sitta under the title: The Longest War against a People: The Palestinians/ Struggle for Freedom. November 18, 2008",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:42.786952",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "BHl2HSPES9U",
+    "title": "Discussion during the Second International Conference On Palestine hosted by CIGA",
+    "href": "/watch?v=BHl2HSPES9U",
+    "full_url": "https://www.youtube.com/watch?v=BHl2HSPES9U",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "45 views",
+    "view_count": "45 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Discussion during the Second International Conference On Palestine hosted by CIGA",
+    "date": "2021-06-21",
+    "place": "Palestine",
+    "topic": "Discussion Second",
+    "description": "Discussion Second International Conference On Palestine hosted by the Center for Islam and Global Affairs CIGA",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:41.951335",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "dUHp9T3fbCU",
+    "title": "Manshiyya - un nouveau film de Zochrot (sous-titré en français)",
+    "href": "/watch?v=dUHp9T3fbCU",
+    "full_url": "https://www.youtube.com/watch?v=dUHp9T3fbCU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.9K views",
+    "view_count": "1.9K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Manshiyya - un nouveau film de Zochrot (sous-titré en français)",
+    "date": "2011-10-25",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Manshiyya - Un nouveau film de Zochrot racontant l'histoire de Saleh Masri et Iftikhar Turk, deux réfugiés palestiniens expulsés d'Al-Manshiyya",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:30.840355",
+    "extraction_method": "Playlist Video Page"
+  }
+}

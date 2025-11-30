@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "5HygxecUskY",
+    "title": "Zochrot Tour to the destroyed village Iqrith / جولة في قرية إقرث",
+    "href": "/watch?v=5HygxecUskY",
+    "full_url": "https://www.youtube.com/watch?v=5HygxecUskY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "1.6K views",
+    "view_count": "1.6K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Zochrot Tour to the destroyed village Iqrith / جولة في قرية إقرث",
+    "date": "2010-10-25",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "جولة جمعية ذاكرات الى قرية اقرث Zohcorot Tour to the destroyed village Iqrith in the uper Galilee (Palestine) 2/10/2010",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:36.065672",
+    "extraction_method": "Playlist Video Page"
+  }
+}

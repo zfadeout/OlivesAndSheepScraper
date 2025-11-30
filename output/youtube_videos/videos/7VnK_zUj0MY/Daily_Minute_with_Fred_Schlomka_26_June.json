@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "7VnK_zUj0MY",
+    "title": "Daily Minute with Fred Schlomka 26 June",
+    "href": "/watch?v=7VnK_zUj0MY",
+    "full_url": "https://www.youtube.com/watch?v=7VnK_zUj0MY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "15 views",
+    "view_count": "15 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 26 June",
+    "date": "2020-06-26",
+    "place": "Jordan Valley",
+    "topic": "Human Rights",
+    "description": "On the Jordan Valley, Arab reservations, and human rights",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:28.784231",
+    "extraction_method": "Playlist Video Page"
+  }
+}

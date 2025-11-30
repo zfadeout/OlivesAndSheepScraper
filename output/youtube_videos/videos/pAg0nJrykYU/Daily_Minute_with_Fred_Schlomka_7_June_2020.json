@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "pAg0nJrykYU",
+    "title": "Daily Minute with Fred Schlomka 7 June 2020",
+    "href": "/watch?v=pAg0nJrykYU",
+    "full_url": "https://www.youtube.com/watch?v=pAg0nJrykYU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "21 views",
+    "view_count": "21 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 7 June 2020",
+    "date": "2020-06-07",
+    "place": "Jerusalem",
+    "topic": "Commentary",
+    "description": "Commentary from Jerusalem",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:32.900536",
+    "extraction_method": "Playlist Video Page"
+  }
+}

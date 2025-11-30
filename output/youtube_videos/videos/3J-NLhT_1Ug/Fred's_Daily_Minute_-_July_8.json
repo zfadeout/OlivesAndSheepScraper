@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "3J-NLhT_1Ug",
+    "title": "Fred's Daily Minute - July 8",
+    "href": "/watch?v=3J-NLhT_1Ug",
+    "full_url": "https://www.youtube.com/watch?v=3J-NLhT_1Ug",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "19 views",
+    "view_count": "19 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 8",
+    "date": "2020-07-08",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "Covid-19 rips thru the USA, Palestine & Israel!",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:26.234199",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "-VcFnbEVKRY",
+    "title": "Fred's Daily Minute - July 23",
+    "href": "/watch?v=-VcFnbEVKRY",
+    "full_url": "https://www.youtube.com/watch?v=-VcFnbEVKRY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "33 views",
+    "view_count": "33 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Fred's Daily Minute - July 23",
+    "date": "2020-07-23",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Don't forget the Uighurs of Xinjiang",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:23.684064",
+    "extraction_method": "Playlist Video Page"
+  }
+}

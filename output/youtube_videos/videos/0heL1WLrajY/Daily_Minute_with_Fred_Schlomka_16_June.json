@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "0heL1WLrajY",
+    "title": "Daily Minute with Fred Schlomka 16 June",
+    "href": "/watch?v=0heL1WLrajY",
+    "full_url": "https://www.youtube.com/watch?v=0heL1WLrajY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "14 views",
+    "view_count": "14 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 16 June",
+    "date": "2020-06-16",
+    "place": "Israel",
+    "topic": "Checkpoints & Access",
+    "description": "Segreagated Roads, Walls and Checkpoints in Israel and Palestine",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:31.154902",
+    "extraction_method": "Playlist Video Page"
+  }
+}

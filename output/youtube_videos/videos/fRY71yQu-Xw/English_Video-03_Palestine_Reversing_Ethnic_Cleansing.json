@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "fRY71yQu-Xw",
+    "title": "English Video-03: Palestine: Reversing Ethnic Cleansing",
+    "href": "/watch?v=fRY71yQu-Xw",
+    "full_url": "https://www.youtube.com/watch?v=fRY71yQu-Xw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "157 views",
+    "view_count": "157 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-03: Palestine: Reversing Ethnic Cleansing",
+    "date": "2011-01-24",
+    "place": "Palestine",
+    "topic": "English",
+    "description": "AUB, Beirut January 14,2010 - Dr. Salman Abu Sitta Palestine: Reversing Ethnic Cleansing by Salman Abu Sitta. A practical plan to implement the Right of Return.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:08.129630",
+    "extraction_method": "Playlist Video Page"
+  }
+}

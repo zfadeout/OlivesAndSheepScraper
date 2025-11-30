@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "HJRwjyyosk0",
+    "title": "Daily Minute with Fred Schlomka 14th June",
+    "href": "/watch?v=HJRwjyyosk0",
+    "full_url": "https://www.youtube.com/watch?v=HJRwjyyosk0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "42 views",
+    "view_count": "42 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 14th June",
+    "date": "2020-06-14",
+    "place": "Israel",
+    "topic": "Home Demolition",
+    "description": "Home demolitions in Palestine and Israel",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:31.585150",
+    "extraction_method": "Playlist Video Page"
+  }
+}

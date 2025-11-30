@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "YM4yqd2WTLs",
+    "title": "P01: ANB TV 01",
+    "href": "/watch?v=YM4yqd2WTLs",
+    "full_url": "https://www.youtube.com/watch?v=YM4yqd2WTLs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "20 views",
+    "view_count": "20 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "P01: ANB TV 01",
+    "date": "2011-07-07",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Music 1 songs Breaking Story - 30 Second VersionDe Wolfe Music Library Music PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:07.280579",
+    "extraction_method": "Playlist Video Page"
+  }
+}

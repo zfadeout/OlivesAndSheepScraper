@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "7xVvX-QWWTI",
+    "title": "Gaza 101: Culture",
+    "href": "/watch?v=7xVvX-QWWTI",
+    "full_url": "https://www.youtube.com/watch?v=7xVvX-QWWTI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "711 views",
+    "view_count": "711 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Gaza 101: Culture",
+    "date": "Date Not Available",
+    "place": "Gaza Strip",
+    "topic": "General Documentation",
+    "description": "General Documentation - Gaza Strip",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:46.355958",
+    "extraction_method": "Playlist Video Page"
+  }
+}

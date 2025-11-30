@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "45IsXozDP60",
+    "title": "Sing for Return",
+    "href": "/watch?v=45IsXozDP60",
+    "full_url": "https://www.youtube.com/watch?v=45IsXozDP60",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "172 views",
+    "view_count": "172 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Sing for Return",
+    "date": "2019-05-01",
+    "place": "Location Not Specified",
+    "topic": "Protest/Demonstration",
+    "description": "#ReturnVision Sing for millions of Palestinians who DARE TO IMAGINE their return. As the #Eurovision19 coincides with the 71st anniversary of the Palestinian Nakba, and will be held on the land of the destroyed Palestinian village of Sheikh Muannas , ZOCHROT invites the artists around the world to sing for return. Vis-a-vis the ongoing erasure of Palestinian history, we choose to remember and offer a vision of a better future, a vision of return. Join us in our campaign of cultural resistance: send us your song, poem or music video clip to share your vision for return to: media@zochrot.org All submissions received before May 14, 2019 - the start of #Eurovision19 - will be highlighted as part of our Sing for Return campaign on social media and our web. Help us spread the word - tweet @Zochrot using the hashtag #ReturnVision",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:21.107463",
+    "extraction_method": "Playlist Video Page"
+  }
+}

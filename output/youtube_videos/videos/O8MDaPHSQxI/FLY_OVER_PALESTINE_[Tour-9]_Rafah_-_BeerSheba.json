@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "O8MDaPHSQxI",
+    "title": "FLY OVER PALESTINE [Tour-9]: Rafah - BeerSheba",
+    "href": "/watch?v=O8MDaPHSQxI",
+    "full_url": "https://www.youtube.com/watch?v=O8MDaPHSQxI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "480 views",
+    "view_count": "480 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-9]: Rafah - BeerSheba",
+    "date": "2012-05-10",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "From: Rafah Passing by: Arab el Qilai, Abu Sousain, Abu Yehya, Al Soufi To: Beer Sheba Duration: 3 min 9 sec",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:02.827438",
+    "extraction_method": "Playlist Video Page"
+  }
+}

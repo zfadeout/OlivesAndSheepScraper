@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ZnyF-cyUQBs",
+    "title": "Daily Minute with Fred Schlomka 20 June",
+    "href": "/watch?v=ZnyF-cyUQBs&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=ZnyF-cyUQBs&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "21 views",
+    "view_count": "21 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 20 June",
+    "date": "2020-06-20",
+    "place": "Location Not Specified",
+    "topic": "Ethnic cleansing",
+    "description": "Ethnic cleansing in the Golan Heights",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:30.288698",
+    "extraction_method": "Playlist Video Page"
+  }
+}

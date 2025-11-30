@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "EaURjBjmIiU",
+    "title": "Piazza pulita: memoria di un popolo oppresso che si ostina a resistere",
+    "href": "/watch?v=EaURjBjmIiU",
+    "full_url": "https://www.youtube.com/watch?v=EaURjBjmIiU",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "213 views",
+    "view_count": "213 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Piazza pulita: memoria di un popolo oppresso che si ostina a resistere",
+    "date": "2012-11-21",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "\"La cancellazione sistematica della memoria del popolo Palestinese fa parte della politica di pulizia etnica adottata dagli Israeliani\" non è Al-Fatah a dirlo ma ILAN PAPPE un famoso storico Israeliano intervistato in questo documentario di Nandino Capovilla e Piero Fontana...",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:26.909116",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "2GSNb065WE4",
+    "title": "Mapping the Nakba - Movement for Liberation from Nakba",
+    "href": "/watch?v=2GSNb065WE4",
+    "full_url": "https://www.youtube.com/watch?v=2GSNb065WE4",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "169 views",
+    "view_count": "169 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Mapping the Nakba - Movement for Liberation from Nakba",
+    "date": "2023-05-22",
+    "place": "Palestine",
+    "topic": "Settlement Expansion",
+    "description": "This video of the webinar explores what exists in the Israeli archives about the Nakba and the immediate years after the destruction of Palestine. The archives, along with other Palestinian sources, provides an accurate picture of the Palestinian villages, towns, and urban neighborhood, on the eve of their occupation. They also provide forensic insights into the way the pillage of the villages, people’s property and lands were confiscated, and divided between Zionist institutors and Jewish settlers within the first decade after the Nakba. There is a clip containing basic visuals of each destroyed Palestinian village using maps, audio and visual clips and testimonies and how lands and property were confiscated. This fuses the historical narrative of the Palestinians with a decolonized archival work within the settler colonial state. These documents are not available anymore but were offered by historians who generously shared vital evidence.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:38.162130",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "L1MUBHxMtV0",
+    "title": "Tour10b Arabic Lubiya Shawka at Tahta",
+    "href": "/watch?v=L1MUBHxMtV0",
+    "full_url": "https://www.youtube.com/watch?v=L1MUBHxMtV0",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "39 views",
+    "view_count": "39 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Tour10b Arabic Lubiya Shawka at Tahta",
+    "date": "2012-09-23",
+    "place": "Tahta",
+    "topic": "General Documentation",
+    "description": "Tour10b Arabic Lubiya Shawka at Tahta 0Likes39Views2012Sep 23 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:00.724739",
+    "extraction_method": "Playlist Video Page"
+  }
+}

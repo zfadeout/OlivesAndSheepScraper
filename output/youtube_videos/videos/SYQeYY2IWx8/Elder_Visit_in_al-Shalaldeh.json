@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "SYQeYY2IWx8",
+    "title": "Elder Visit in al-Shalaldeh",
+    "href": "/watch?v=SYQeYY2IWx8",
+    "full_url": "https://www.youtube.com/watch?v=SYQeYY2IWx8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "82 views",
+    "view_count": "82 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Elder Visit in al-Shalaldeh",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Elder Visit",
+    "description": "Elder Visit - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:47.204000",
+    "extraction_method": "Playlist Video Page"
+  }
+}

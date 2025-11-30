@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ilQaZFwVbhQ",
+    "title": "Daily Minute with Fred Schlomka 11 June",
+    "href": "/watch?v=ilQaZFwVbhQ&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=ilQaZFwVbhQ&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "23 views",
+    "view_count": "23 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 11 June",
+    "date": "2020-06-21",
+    "place": "Israel",
+    "topic": "Religion and the state",
+    "description": "Religion and the state in Palestine and Israel",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:30.051894",
+    "extraction_method": "Playlist Video Page"
+  }
+}

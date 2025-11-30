@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "do1GXgzHvH8",
+    "title": "Talking About Return - Meron Rappaport | מדברים על שיבה – מירון רפפורט",
+    "href": "/watch?v=do1GXgzHvH8",
+    "full_url": "https://www.youtube.com/watch?v=do1GXgzHvH8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "102 views",
+    "view_count": "102 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Talking About Return - Meron Rappaport | מדברים על שיבה – מירון רפפורט",
+    "date": "2018-09-10",
+    "place": "Palestine",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "\"זכות השיבה היא חלק מכל פתרון. אין פתרון בלי הכרה בזכות השיבה. לא יכול להיות פתרון. זכות השיבה היא זכות אוניברסאלית והיא לכולם. והרעיון שלנו מדבר על כך שבעצם כל פלסטיני יהיה זכאי לחזור ולהיות אזרח פלסטיני של מדינת פלסטין.\" מירון רפפורט מדבר על זכות השיבה בהקשר של היוזמה \"שתי מדינות, מולדת אחת\". The right of return is part of any solution, there is no solution without recognition of the right of return, there can be no solution, the right of return is a universal right and it is for everyone, and our idea is that every Palestinian will be entitled to return to being a Palestinian citizen of the state of Palestine.\" Meron Rappaport talks about the right of return in the context of the \"Two States, One Homeland\" initiative.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:24.294011",
+    "extraction_method": "Playlist Video Page"
+  }
+}

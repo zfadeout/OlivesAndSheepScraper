@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "ubBI3YNyP3Q",
+    "title": "Salman AbuSitta speech at convening the PCPNA, 28 April 2018",
+    "href": "/watch?v=ubBI3YNyP3Q",
+    "full_url": "https://www.youtube.com/watch?v=ubBI3YNyP3Q",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "24 views",
+    "view_count": "24 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Salman AbuSitta speech at convening the PCPNA, 28 April 2018",
+    "date": "2018-12-31",
+    "place": "Location Not Specified",
+    "topic": "Salman AbuSitta speech",
+    "description": "Transcript Follow along using the transcript. Show transcript PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:57.571387",
+    "extraction_method": "Playlist Video Page"
+  }
+}

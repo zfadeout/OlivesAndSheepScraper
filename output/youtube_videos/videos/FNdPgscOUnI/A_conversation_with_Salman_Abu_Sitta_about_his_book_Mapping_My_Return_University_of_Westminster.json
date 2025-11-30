@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "FNdPgscOUnI",
+    "title": "A conversation with Salman Abu Sitta about his book \"Mapping My Return\" | University of Westminster",
+    "href": "/watch?v=FNdPgscOUnI",
+    "full_url": "https://www.youtube.com/watch?v=FNdPgscOUnI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "284 views",
+    "view_count": "284 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "A conversation with Salman Abu Sitta about his book \"Mapping My Return\" | University of Westminster",
+    "date": "2021-04-09",
+    "place": "Location Not Specified",
+    "topic": "Protest/Demonstration",
+    "description": "A conversation with Salman Abu Sitta about his book \"Mapping My Return\" Hosted by Dr. Alessandro Columbu from the University of Westminster Broadcasted on the 23rd of March 2021",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:43.419443",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "bO2cdQRBdJs",
+    "title": "FLY OVER PALESTINE [Tour-5]: Jimzu - Jerusalem",
+    "href": "/watch?v=bO2cdQRBdJs",
+    "full_url": "https://www.youtube.com/watch?v=bO2cdQRBdJs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "725 views",
+    "view_count": "725 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "FLY OVER PALESTINE [Tour-5]: Jimzu - Jerusalem",
+    "date": "2012-05-08",
+    "place": "Palestine",
+    "topic": "General Documentation",
+    "description": "From: Jimzu Passing by: Kharruba, Salbit, Imwas, Dayr Ayyub, Saris, Suba To: Jerusalem Duration: 1 min 48 sec",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:03.691932",
+    "extraction_method": "Playlist Video Page"
+  }
+}

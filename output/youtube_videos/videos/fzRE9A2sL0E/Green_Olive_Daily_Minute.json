@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "fzRE9A2sL0E",
+    "title": "Green Olive Daily Minute",
+    "href": "/watch?v=fzRE9A2sL0E",
+    "full_url": "https://www.youtube.com/watch?v=fzRE9A2sL0E",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "41 views",
+    "view_count": "41 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute",
+    "date": "2020-09-11",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "FAQ - ZIONISM How did Zionism develop?",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:23.266201",
+    "extraction_method": "Playlist Video Page"
+  }
+}

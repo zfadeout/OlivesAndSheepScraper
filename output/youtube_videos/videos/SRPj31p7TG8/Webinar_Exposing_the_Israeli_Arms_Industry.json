@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "SRPj31p7TG8",
+    "title": "Webinar: Exposing the Israeli Arms Industry",
+    "href": "/watch?v=SRPj31p7TG8",
+    "full_url": "https://www.youtube.com/watch?v=SRPj31p7TG8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "282 views",
+    "view_count": "282 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Webinar: Exposing the Israeli Arms Industry",
+    "date": "2021-12-15",
+    "place": "Azerbaijan to Myanmar or the Mexico",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "In this webinar, Green Olive is joined by an expert in the Israeli arms trade who researches for the Database of Israeli Military and Security Export (https://www.dimse.info/). Together we explore the diverse parts of the globe where Israeli weapons can be found, from Azerbaijan to Myanmar or the Mexico-US border.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:19.461460",
+    "extraction_method": "Playlist Video Page"
+  }
+}

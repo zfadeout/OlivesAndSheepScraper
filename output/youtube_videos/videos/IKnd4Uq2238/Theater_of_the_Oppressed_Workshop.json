@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "IKnd4Uq2238",
+    "title": "Theater of the Oppressed Workshop",
+    "href": "/watch?v=IKnd4Uq2238&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=IKnd4Uq2238&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "460 views",
+    "view_count": "460 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Theater of the Oppressed Workshop",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "General Documentation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:44.426265",
+    "extraction_method": "Playlist Video Page"
+  }
+}

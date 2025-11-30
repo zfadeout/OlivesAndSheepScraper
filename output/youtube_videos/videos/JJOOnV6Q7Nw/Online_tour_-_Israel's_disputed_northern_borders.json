@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "JJOOnV6Q7Nw",
+    "title": "Online tour - Israel's disputed northern borders",
+    "href": "/watch?v=JJOOnV6Q7Nw",
+    "full_url": "https://www.youtube.com/watch?v=JJOOnV6Q7Nw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "251 views",
+    "view_count": "251 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Online tour - Israel's disputed northern borders",
+    "date": "2022-01-24",
+    "place": "Israel",
+    "topic": "Arrest/Detention",
+    "description": "In this online tour we will visit the Golan Heights, an area Israel conquered in the 1967 Six Day War and has held ever since, despite the international community considering it occupied territory. We will explore the fate of the people living there before and after, many of whom became refugees in Syria and others who do not have Israeli citizenship despite being born and living their whole lives in Israeli controlled territory. We will discuss the Druze, a thousand year old ethno-religious group whose main homeland is today split between Israel, Lebanon and Syria. We will visit border communities living an uneasy life waiting decades for an official resolution to the wars many fought there. You are encouraged to contribute whatever you felt the tour was worth at https://contribute.greenolivetours.com.",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:19.245012",
+    "extraction_method": "Playlist Video Page"
+  }
+}

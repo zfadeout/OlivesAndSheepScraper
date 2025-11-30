@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "otrOCU3mc8s",
+    "title": "I Almost Forgot כמעט שכחתי",
+    "href": "/watch?v=otrOCU3mc8s",
+    "full_url": "https://www.youtube.com/watch?v=otrOCU3mc8s",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "629 views",
+    "view_count": "629 views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "I Almost Forgot כמעט שכחתי",
+    "date": "2009-09-16",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "פעילות \"כמעת שכחתי\" זוכרות 58 שנה לנכבה הפלסטינית בתל-אביב צילום ועריכה: קרן שעיו (אקטיביסטילס) 01:39 2006 www.zochrot.org",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:39.201515",
+    "extraction_method": "Playlist Video Page"
+  }
+}

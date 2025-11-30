@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "LylTBcdKWv8",
+    "title": "Daily Minute - July 13",
+    "href": "/watch?v=LylTBcdKWv8",
+    "full_url": "https://www.youtube.com/watch?v=LylTBcdKWv8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "20 views",
+    "view_count": "20 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute - July 13",
+    "date": "2020-07-13",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Annexation? - Maybe can save us all",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:25.183783",
+    "extraction_method": "Playlist Video Page"
+  }
+}

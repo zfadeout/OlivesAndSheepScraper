@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "KGUjQE68_vI",
+    "title": "Manshiyya (المنشية) -- A new film produced by Zochrot",
+    "href": "/watch?v=KGUjQE68_vI",
+    "full_url": "https://www.youtube.com/watch?v=KGUjQE68_vI",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "2.3K views",
+    "view_count": "2.3K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Manshiyya (المنشية) -- A new film produced by Zochrot",
+    "date": "2011-02-22",
+    "place": "Location Not Specified",
+    "topic": "Refugees/Displacement",
+    "description": "Manshiyya -- A new film produced by Zochrot, telling the story of Saleh Masri and Iftikhar Turk, two internally displaced Palestinians, refugees from AlManshiyya (2010) منشية -- فلم جديد يحكي قصة مهجري حي المنشية اليافيّ، صالح مصري وافتخار ترك www.zochrot.org",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:27:34.207024",
+    "extraction_method": "Playlist Video Page"
+  }
+}

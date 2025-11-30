@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Cl4FldpchBg",
+    "title": "D.C. Delegation Advocacy Briefing",
+    "href": "/watch?v=Cl4FldpchBg",
+    "full_url": "https://www.youtube.com/watch?v=Cl4FldpchBg",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "614 views",
+    "view_count": "614 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "D.C. Delegation Advocacy Briefing",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Activism/Advocacy",
+    "description": "Activism/Advocacy - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:40.590212",
+    "extraction_method": "Playlist Video Page"
+  }
+}

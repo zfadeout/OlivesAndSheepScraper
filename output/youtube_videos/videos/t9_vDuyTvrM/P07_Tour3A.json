@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "t9_vDuyTvrM",
+    "title": "P07: Tour3A",
+    "href": "/watch?v=t9_vDuyTvrM",
+    "full_url": "https://www.youtube.com/watch?v=t9_vDuyTvrM",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "19 views",
+    "view_count": "19 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "P07: Tour3A",
+    "date": "2010-11-24",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "P07: Tour3A 0Likes19Views2010Nov 24 … PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:08.548436",
+    "extraction_method": "Playlist Video Page"
+  }
+}

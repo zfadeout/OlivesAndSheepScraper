@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "Do_mWJnQBg8",
+    "title": "Jury statement during the 1st year of the Reconstruction Competition",
+    "href": "/watch?v=Do_mWJnQBg8",
+    "full_url": "https://www.youtube.com/watch?v=Do_mWJnQBg8",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "48 views",
+    "view_count": "48 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Jury statement during the 1st year of the Reconstruction Competition",
+    "date": "2019-09-28",
+    "place": "Location Not Specified",
+    "topic": "Infrastructure/Construction",
+    "description": "Transcript Follow along using the transcript. Show transcript PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:53.547950",
+    "extraction_method": "Playlist Video Page"
+  }
+}

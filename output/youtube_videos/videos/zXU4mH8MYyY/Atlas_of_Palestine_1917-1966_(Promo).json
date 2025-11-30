@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "zXU4mH8MYyY",
+    "title": "Atlas of Palestine 1917-1966 (Promo)",
+    "href": "/watch?v=zXU4mH8MYyY",
+    "full_url": "https://www.youtube.com/watch?v=zXU4mH8MYyY",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "176 views",
+    "view_count": "176 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Atlas of Palestine 1917-1966 (Promo)",
+    "date": "2020-10-07",
+    "place": "Palestine",
+    "topic": "Documentary/Investigation",
+    "description": "The Atlas of Palestine 1917-1966 by Doctor Salman Abu Sitta, is a unique most comprehensive record of Palestine during this period, acclaimed by leading scholars. The atlas has a total of 700 pages, including 550 color pages of all Palestine, as well as 150 Pages of analysis of the Mandate.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:46.789462",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "H6LEbjPSxMw",
+    "title": "Daily Minute with Fred Schlomka 24 June",
+    "href": "/watch?v=H6LEbjPSxMw",
+    "full_url": "https://www.youtube.com/watch?v=H6LEbjPSxMw",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "5 views",
+    "view_count": "5 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute with Fred Schlomka 24 June",
+    "date": "2020-06-26",
+    "place": "Israel",
+    "topic": "General Documentation",
+    "description": "CoVid-19 and the resurgence of infections in Palestine and Israel",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:29.216693",
+    "extraction_method": "Playlist Video Page"
+  }
+}

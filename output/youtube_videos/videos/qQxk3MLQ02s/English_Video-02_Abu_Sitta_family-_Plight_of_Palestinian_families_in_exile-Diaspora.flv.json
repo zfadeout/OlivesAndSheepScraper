@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "qQxk3MLQ02s",
+    "title": "English Video-02: Abu Sitta family- Plight of Palestinian families in exile-Diaspora.flv",
+    "href": "/watch?v=qQxk3MLQ02s",
+    "full_url": "https://www.youtube.com/watch?v=qQxk3MLQ02s",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "202 views",
+    "view_count": "202 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "English Video-02: Abu Sitta family- Plight of Palestinian families in exile-Diaspora.flv",
+    "date": "2012-03-09",
+    "place": "Location Not Specified",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Since 1948, millions of Palestinians have been forced into exile from their own lands.",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:41:04.745325",
+    "extraction_method": "Playlist Video Page"
+  }
+}

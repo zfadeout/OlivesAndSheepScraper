@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "U-nDV2XA3hs",
+    "title": "Collective Liberation: Diaspora Jews United to End the Occupation",
+    "href": "/watch?v=U-nDV2XA3hs",
+    "full_url": "https://www.youtube.com/watch?v=U-nDV2XA3hs",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "421 views",
+    "view_count": "421 views",
+    "channel": "combatantsforpeace5017"
+  },
+  "extracted_metadata": {
+    "title": "Collective Liberation: Diaspora Jews United to End the Occupation",
+    "date": "Date Not Available",
+    "place": "Location Not Specified",
+    "topic": "Occupation",
+    "description": "Occupation - Location Not Specified",
+    "channel": "combatantsforpeace5017"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:51:42.092419",
+    "extraction_method": "Playlist Video Page"
+  }
+}

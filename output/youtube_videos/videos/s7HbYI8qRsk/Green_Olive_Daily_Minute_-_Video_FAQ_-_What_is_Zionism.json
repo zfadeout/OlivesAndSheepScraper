@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "s7HbYI8qRsk",
+    "title": "Green Olive Daily Minute - Video FAQ - What is Zionism?",
+    "href": "/watch?v=s7HbYI8qRsk",
+    "full_url": "https://www.youtube.com/watch?v=s7HbYI8qRsk",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "132 views",
+    "view_count": "132 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Green Olive Daily Minute - Video FAQ - What is Zionism?",
+    "date": "2020-10-07",
+    "place": "Location Not Specified",
+    "topic": "General Documentation",
+    "description": "Transcript Follow along using the transcript. Show transcript",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:21.594448",
+    "extraction_method": "Playlist Video Page"
+  }
+}

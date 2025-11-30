@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "voMlDBAX3H4",
+    "title": "Salman AbuSitta talk at Human Right Council, Geneva, 25 September 2017",
+    "href": "/watch?v=voMlDBAX3H4&pp=0gcJCQMKAYcqIYzv",
+    "full_url": "https://www.youtube.com/watch?v=voMlDBAX3H4&pp=0gcJCQMKAYcqIYzv",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "41 views",
+    "view_count": "41 views",
+    "channel": "PalestineLandSociety"
+  },
+  "extracted_metadata": {
+    "title": "Salman AbuSitta talk at Human Right Council, Geneva, 25 September 2017",
+    "date": "2018-12-30",
+    "place": "Human",
+    "topic": "Human Rights",
+    "description": "Transcript Follow along using the transcript. Show transcript PalestineLandSociety 1.09K subscribers",
+    "channel": "PalestineLandSociety"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:40:58.809685",
+    "extraction_method": "Playlist Video Page"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "pbfKbMJYpxo",
+    "title": "Daily Minute 22 June",
+    "href": "/watch?v=pbfKbMJYpxo",
+    "full_url": "https://www.youtube.com/watch?v=pbfKbMJYpxo",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "17 views",
+    "view_count": "17 views",
+    "channel": "greenolivetours5614"
+  },
+  "extracted_metadata": {
+    "title": "Daily Minute 22 June",
+    "date": "2020-06-23",
+    "place": "Israel",
+    "topic": "Palestinian-Israeli Conflict",
+    "description": "Imagine if Free trips to Israel for young Jews could morph into trips for mixed groups of Palestinians and Jews",
+    "channel": "greenolivetours5614"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:12:29.634444",
+    "extraction_method": "Playlist Video Page"
+  }
+}

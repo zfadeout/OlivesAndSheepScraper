@@ -1,0 +1,27 @@
+{
+  "video_identification": {
+    "video_id": "O6NNfeiF_Pc",
+    "title": "Return to Lifta",
+    "href": "/watch?v=O6NNfeiF_Pc",
+    "full_url": "https://www.youtube.com/watch?v=O6NNfeiF_Pc",
+    "content_type": "video"
+  },
+  "basic_info": {
+    "date": "2.5K views",
+    "view_count": "2.5K views",
+    "channel": "Zochrot"
+  },
+  "extracted_metadata": {
+    "title": "Return to Lifta",
+    "date": "2021-08-17",
+    "place": "Lifta",
+    "topic": "Protest/Demonstration",
+    "description": "This educational video (tour) is a message of refusal to accept the current situation in Lifta, and an act of resistance to the destructive plan that seeks to finally erase the Palestinian village. It is also a response to the calls of Lifta’s refugees to intensify the struggle and combine local and international efforts for saving Lifta and ensuring its right to exist, to expose the wrongs of the ongoing Nakba, to end the policies of colonialism and dispossessions, and to create a future of justice and equal rights – above all the right of all Palestinian refugees to return to their lands and homes, and to Lifta.",
+    "channel": "Zochrot"
+  },
+  "metadata": {
+    "source_url": "https://www.youtube.com",
+    "scraped_at": "2025-11-05T22:26:14.363592",
+    "extraction_method": "Playlist Video Page"
+  }
+}
